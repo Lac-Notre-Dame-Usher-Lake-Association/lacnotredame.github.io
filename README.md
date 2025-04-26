@@ -1,20 +1,25 @@
-# Lac Notre Dame and Usher association website source
+# Lac Notre Dame and Usher Association Website
 
-## How to use
+This is the source code for the Lac Notre Dame and Usher Association website, built using Jekyll and deployed on GitHub Pages.
 
-XCode
+## Editing the Site
 
-Open "Package.swift" using XCode
+The site can be edited directly through GitHub's web interface. Simply navigate to the file you want to edit, click the pencil icon, make your changes, and save. The site will automatically update after your changes are merged.
 
-Use Homebrew
+## Project Structure
 
-brew install markdownlint-cli
+- `_config.yml`: Site configuration
+- `_layouts/`: Page layout templates
+- `_includes/`: Reusable components
+- `_posts/`: Blog posts
+- `assets/`: Static assets (images, CSS, JS)
+- `about/`, `map/`, `water/`: Content sections
+- `index.md`: Homepage content
 
-Scheme> Run > Arguments > Environment Variables
+## Contributing
 
-PATH=/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/sbin:/usr/local/bin
-
-from the output folder
- cd Output
- python -m SimpleHTTPServer 8000
- python3 -m http.server
+1. Navigate to the file you want to edit
+2. Click the pencil icon to edit
+3. Make your changes
+4. Add a description of your changes
+5. Create a pull request or save directly if you have permission
