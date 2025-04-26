@@ -1,0 +1,21 @@
+title: Lac Notre-Dame and Usher Lake Association
+description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pêche Québec Canada
+url: https://lacnotredame.org
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - Package.swift
+  - .gitignore
