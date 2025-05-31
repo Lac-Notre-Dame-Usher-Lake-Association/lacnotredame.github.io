@@ -3,12 +3,17 @@ title: Eurasian Milfoil
 description: Eurasian milfoil weed in Lac Notre-Dame - what to do and history
 date: 2017-12-29T13:10:52-05:00
 ---
+ # Eurasian Milfoil in Lac Notre Dame 
+
     <img src="/assets/img/2023-panneau.png" class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />
     
-Eurasian watermilfoil is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface.  
-*A zombie weed:* each broken-off bit of weed can turn into a new plant.
-* Le myriophylle en épi est une plante aquatique envahissante qui pousse généralement à des profondeurs de 1 à 4 mètres et peut former un tapis dense à la surface du lac.
-* Chaque morceau de mauvaise herbe cassé peut se transformer en une nouvelle plante.
+Eurasian watermilfoil is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake's surface. It has been present in Lac Notre Dame since 1999. 
+* A zombie weed: each broken-off bit of weed can turn into a new plant. 
+* Boats and wind cause breakage and spread.
+
+Le myriophylle en épi est une plante aquatique envahissante qui pousse généralement à des profondeurs de 1 à 4 mètres et peut former un tapis dense à la surface du lac.
+* Une mauvaise herbe zombie : chaque morceau cassé peut se transformer en une nouvelle plante.
+* Les bateaux et le vent causent la rupture et la propagation.
 
 ## Contrôler
 
@@ -35,7 +40,7 @@ Stop fertilizer or sediment from entering the lake - it feeds the weeds. Maintai
 
 # Weed team report 2024 - presented by Jane Hayward
 
-Two mornings of work by team volunteers in July yielded a significant collection, now decomposing on Jane’s property. Special thanks to Ken and his tractor for moving them from the boat launch.
+Two mornings of work by team volunteers in July yielded a significant collection, now decomposing on Jane's property. Special thanks to Ken and his tractor for moving them from the boat launch.
 
 While we enjoyed the community effort, it's clear that managing the weeds ourselves will be a massive undertaking. To continue with volunteers and manual cutting, we would need to invest in tools and methods:
 
@@ -52,7 +57,7 @@ While we enjoyed the community effort, it's clear that managing the weeds oursel
 
 The Association was founded in 2004 in response to the Eurasian Milfoil explosion in the lakes. The Association received valued advice and assistance from biologist Paul Hamilton of the Canadian Museum of Nature. Mr. Hamilton has continued to support the Lake's efforts by monitoring our water testing results and advising us about important changes in the water quality.
 
-* Electric cutter history: An electric cutter was purchased before 2008 by the Association, with a financial contribution of $6,400 from the Municipality of La Peche and is stored at Bob Scott’s.
+* Electric cutter history: An electric cutter was purchased before 2008 by the Association, with a financial contribution of $6,400 from the Municipality of La Peche.
 
-   The cutter required mounting on a barge and a team of 10-12 volunteers to manage both the cutter and the manual labour of removing the heavy cuttings from the water. After a few years, as the weed levels naturally declined, & the cutter was no longer used due to the huge amount of effort required to organize a volunteer team, boats, fuel and strong bodies.    
+   The cutter required mounting on a barge and a team of 10-12 volunteers to manage both the cutter and the manual labour of removing the heavy cuttings from the water. After a few years, as the weed levels naturally declined,  the cutter was no longer used due to the huge amount of effort required to organize a volunteer team, boats, fuel and strong bodies.    
 
