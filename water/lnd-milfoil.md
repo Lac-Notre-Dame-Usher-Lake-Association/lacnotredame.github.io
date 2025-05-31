@@ -3,9 +3,9 @@ title: Eurasian Milfoil
 description: Eurasian milfoil weed in Lac Notre-Dame - what to do and history
 date: 2017-12-29T13:10:52-05:00
 ---
- # Eurasian Milfoil in Lac Notre Dame 
+# Eurasian Milfoil in Lac Notre Dame 
 
-    <img src="/assets/img/2023-panneau.png" class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />
+<img src="/assets/img/2023-panneau.png" class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />
     
 Eurasian watermilfoil is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake's surface. It has been present in Lac Notre Dame since 1999. 
 * A zombie weed: each broken-off bit of weed can turn into a new plant. 
