@@ -4,10 +4,12 @@ description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2023-08-22T13:10:52-05:00
 ---
 
+# 2023 Annual General Meeting minutes
+
 ## Annual General Meeting - August 26, 2023, 16:00 at Camp Kalalla
 
 Mandate of the association:
-“to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all”.
+"to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
 ## Constitution of the meeting - quorum based on registered members
 
@@ -18,7 +20,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: Marie Maisonneuve
 
-## Approval of previous year’s minutes
+## Approval of previous year's minutes
 
 Approval of the minutes of the [2022 Annual General Meeting](../2022BoardReport/)
 
@@ -50,7 +52,7 @@ Summary:
 * Our usual expenses included $470 for water testing in Lac Notre Dame and in Usher, $425 for purchase of buoys, anchors and ropes to mark heavy milfoil areas by Brian Cook, and $78 for Entreprise Quebec annual registration. 
 * A one-time purchase of signs for the milfoil buoys, with the lake association web address, totalled $1,800. We will collect the signs in the fall and put them out again in late spring. There are extras too, so we expect them to last many years. 
 
-Move to accept Treasurer’s report: Lisa Fast
+Move to accept Treasurer's report: Lisa Fast
 
 Seconded by: Graeme Simpson
 

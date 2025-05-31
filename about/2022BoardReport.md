@@ -3,12 +3,15 @@ title: 2022 Annual General Meeting of the Lac Notre Dame and Usher Lake Associat
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2022-08-22T13:10:52-05:00
 ---
+
+# 2022 Annual General Meeting minutes
+
 ## Agenda
 
 Annual General Meeting - Online via Zoom, August 27, 2022, 10:00 am
 
 Mandate of the association:
-“to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all”.
+"to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
 ## Constitution of the meeting - quorum based on registered members
 
@@ -19,7 +22,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: Don Herweyer
 
-## Approval of previous year’s minutes
+## Approval of previous year's minutes
 
 Approval of the minutes of the [2021 Annual General Meeting](../2021BoardReport/)
 
@@ -50,7 +53,7 @@ Summary:
 * During the fiscal year, we received a grant from the Muncipality of La Peche for $400. Membership fees brought in $480 of and donations $475 for a total income of $1,370.  
 * Expenses included $600 for water testing in Lac Notre Dame and in Usher, and $456 for purchase of buoys, anchors and ropes to mark heavy milfoil areas by Brian Cook, and $78 for Entreprise Quebec annual registration & one month of Zoom by Lisa Fast.
 
-Move to accept Treasurer’s report: Lisa Fast
+Move to accept Treasurer's report: Lisa Fast
 
 Seconded by: Cathy Kissick
 

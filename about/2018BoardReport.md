@@ -3,12 +3,15 @@ title: 2018 Annual General Meeting
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2018-12-29T13:10:52-05:00
 ---
+
+# 2018 Annual General Meeting minutes
+
 ## Minutes of 2018 Annual General Meeting of the Notre Dame and Usher Lakes Association
 
 Annual General Meeting - Rupert Community Hall, August 18, 2018, 10:00 am
 
 Mandate of the association:
-“to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all”.
+"to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
 ## Constitution of the meeting - quorum based on registered members
 
@@ -18,7 +21,7 @@ Move to open the meeting by Lisa Fast
 
 Seconded by Jane Hayward
 
-## [Approval of previous year’s minutes](/assets/docs/minutes/AGM_Minutes_2017.pdf)
+## [Approval of previous year's minutes](/assets/docs/minutes/AGM_Minutes_2017.pdf)
 
 Minutes of the previous year's meeting were approved.
 
@@ -91,7 +94,7 @@ Seconded - Nathalie Byk
 ## Members open issues
 
 * Marc Desrochers, President of the Bishop's Manor Association led a discussion of the challenges property-owners face in getting their boats in and out of the water in the spring and fall. Not all property owners on the lakes are members of the Bishop's Manor Association, but all property owners face these challenges, particularly since the Municipality installed cement blocks to prevent launching from the causeway on Ch. Du Manoir.  
-* Lisa Fast maintained that the Lake Association mandate prevents the Board from devoting funds to this effort, since the mandate is not to provide access to boat owners, but rather to “promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all"
+* Lisa Fast maintained that the Lake Association mandate prevents the Board from devoting funds to this effort, since the mandate is not to provide access to boat owners, but rather to "promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all"
 * Quite a few members of the Lake Association are particularly interested in working with the Bishop's Manor Association on this issue, they agreed to support the Bishop's Manor Association in the efforts to find a boat launch solution outside of the Lake Association.
 * The board and members agreed to use our email list to notify our members via email of any planned meetings so that they can work together with the Bishop's Manor Association.
 * A motion was passed to support the Bishop's Manor Association in these efforts

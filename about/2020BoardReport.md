@@ -3,12 +3,15 @@ title: 2020 Annual General Meeting of the Lac Notre Dame and Usher Lake Associat
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2020-09-26T13:10:52-05:00
 ---
+
+# 2020 Annual General Meeting minutes
+
 ## Agenda
 
 Annual General Meeting - Online via Zoom, August 22, 2020, 10:00 am
 
 Mandate of the association:
-“to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all”.
+"to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
 ## Constitution of the meeting - quorum based on registered members
 
@@ -21,7 +24,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: Dave Hayward
 
-## Approval of previous year’s minutes
+## Approval of previous year's minutes
 
 Minutes of the [2019 Annual General Meeting](../2019BoardReport/) meeting were approved.
 
@@ -57,7 +60,7 @@ Summary:
 * Minor: $75 for Rupert Hall rental, $74.82 for web hosting, $35 for Entreprises Quebec registration, and $35.40 for bank fees.
 * Water testing: $1,010.48 - covers 2018 and 2019 water testing as the payment of $539 for 2018 was delayed.
 
-Move to accept Treasurer’s report: André François Giroux
+Move to accept Treasurer's report: André François Giroux
 
 Seconded by: Robert Boucher
 
@@ -102,7 +105,7 @@ Seconded: André François Giroux
 
 About a third of property owners on Lac Notre Dame are also members of the Bishop's Manor Association. Bishop's Manor association members pay dues for road maintenance & other subdivision activities per the deeds of their property.  
 
-Marc Desrochers, President, joined the meeting to report that the Bishops’s Manor Association has (re)purchased property along the causeway on Ch. du Manoir from the municipality.  Ch. Du Manoir was previously part of Bishop's Manor private road system, but it became a public road in 2009. Marc has applied for a permit to use the property as a private boat launch. The Municipality required an environmental assessment as part of the permit process. A biologist performed the assessment in July, and a permit may be approved in September. Marc hopes to have a functioning launch area for the fall boat removal with a fence and gates.
+Marc Desrochers, President, joined the meeting to report that the Bishops's Manor Association has (re)purchased property along the causeway on Ch. du Manoir from the municipality.  Ch. Du Manoir was previously part of Bishop's Manor private road system, but it became a public road in 2009. Marc has applied for a permit to use the property as a private boat launch. The Municipality required an environmental assessment as part of the permit process. A biologist performed the assessment in July, and a permit may be approved in September. Marc hopes to have a functioning launch area for the fall boat removal with a fence and gates.
 
 Marc's intent is that all property owners on the lake, and Bishop's Manor Association members, will have access to the launch in spring and fall via some kind of combination lock. It was acknowledged that some people from outside the lake do circumvent the current concrete blocks and put boats in for the day. A gate and fence will hopefully prevent that kind of day-access, and thus prevent the entry of further invasive species like zebra mussels and freshwater jellyfish.  
 
