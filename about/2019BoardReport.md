@@ -3,12 +3,15 @@ title: 2019 Annual General Meeting of the Lac Notre Dame and Usher Lake Associat
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2019-08-13T13:10:52-05:00
 ---
+
+# 2019 Annual General Meeting minutes
+
 ## Agenda
 
 Annual General Meeting - Rupert Community Hall, August 24, 2019, 10:00 am
 
 Mandate of the association:
-“to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all”.
+"to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
 ## Constitution of the meeting - quorum based on registered members
 
@@ -19,7 +22,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: Dave Hayward
 
-## [Approval of previous year’s minutes](../2018BoardReport/)
+## [Approval of previous year's minutes](../2018BoardReport/)
 
 Minutes of the previous year's meeting were approved.
 
@@ -77,7 +80,7 @@ Seconded by Danielle Doré
 
 ## Board report of program for 2018-2019
 
-* Develop a position and understand full costs, responsibilities and benefits of joining Quebec’s- Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network
+* Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network
 * Position: do not join
 * Costs $476 per year, only tests 1 location – we test 15 for more chemicals
 * Requires clarity testing every 2 weeks from May to October (!! Who would volunteer to do this??) – we test once/twice per year and find very little variability

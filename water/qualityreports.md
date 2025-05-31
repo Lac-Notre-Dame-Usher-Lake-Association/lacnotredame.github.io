@@ -3,6 +3,9 @@ title: Water testing results
 description: Lac Notre Dame water testing results
 date: 2023-09-12T13:10:52-05:00
 ---
+
+# Water testing results 
+
 Water samples are collected every year at the locations on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
 
 ## Lac Notre Dame August 8, 2024 summary
