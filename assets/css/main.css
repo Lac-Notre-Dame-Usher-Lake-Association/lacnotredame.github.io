@@ -3,10 +3,11 @@
 /* Header styling */
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   padding: 1rem 0;
   border-bottom: 1px solid #dee2e6;
+  gap: 1rem;
 }
 
 header h1 {
@@ -17,6 +18,7 @@ header h1 {
 header .lake-icon {
   width: 40px;
   height: 40px;
+  order: -1; /* This ensures the icon appears first */
 }
 
 /* General styles */
