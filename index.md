@@ -63,7 +63,7 @@ Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les
 
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas.
 
-* See [About the  Association](/about/) for previous meeting notes/minutes, financial reports, board members and objectives
+* See [About the  Association](/about/about) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership for $25 per household to fund milfoil management, water testing and water quality
 * **Renew for 2025 - $25 - after July 1: e-transfer $25** and any donation to [info@lacnotredame.org](mailto:info@lacnotredame.org) 
 * Joining? Email [info@lacnotredame.org](mailto:info@lacnotredame.org) and we'll get you onto the email list and arrange your payment
