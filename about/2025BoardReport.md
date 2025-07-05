@@ -90,24 +90,20 @@ Current Board Members
 * William Hebert - member (elected 2024)  
 * Jim Thompson - member (elected 2024)
 
-**Motion to elect new President ** 
-  
+**Motion to elect Don Herweyer the new President ** 
+  Don has been a board member for 5 years. 
 - Moved by: Lisa Fast
 - Seconded by:  Jim Thompson 
-ELECTED
+ELECTED by a show of hands
 
-**Motion to elect new Treasurer ** 
-  
-- Moved by: Lisa Fast
-- Seconded by:  
-
-Martin Croteau Member at large - elected 
+* Motion to elect Martin Croteau as a member at large 
+ELECTED by a show of hands 
 
 2026 program includes amending and updating [Association bylaws](https://lacnotredame.org/assets/docs/Association\_By-Laws\_en.pdf), which have not been updated in the last 10 years.
 
 ## Milfoil Action Committee 
 
-INSERT REPORT HERE
+INSERT REPORT HERE 
 
 MOTION: Accept the watercraft guidelines and canvassing them to all of the lake to STOP THE SPREAD
 Moved by Lauren Osmond
@@ -121,15 +117,8 @@ Seconded by: Anita Herweyer
 APPROVED by show of hands 
 
 
-9.0 Members open issues
-
-
-
-
 10.0 Move to adjourn AGM meeting
 
 Moved by Lisa Fast
-
 Seconded by Lynn Elliot
-
 Meeting closed at 5:21  pm 
