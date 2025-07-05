@@ -16,7 +16,7 @@ Mandate of the association:
 ## Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.    
-In summer 2024,  **54** members d paid their membership fees for 2024-2025. X people attended the meeting representing X household memberships. Quorum requires at least 25% of members to be present to reach quorum. Bylaws state that people who've paid the membership fee are members and can vote. 
+In summer 2024,  **54** members paid their membership fees for 2024-2025. 29 people attended the meeting. Quorum requires at least 25% of members to be present to reach quorum. Bylaws state that people who've paid the membership fee are members and can vote. 
 
 Reminder that membership fees were raised at last year's AGM to $25 from $10. 
 
@@ -56,7 +56,7 @@ Motion to accept Treasurer's report
 
 Moved by: Lisa Fast
 
-Seconded by: Jane Hayward
+Seconded by: Lauren Osmond
 
 ## Water quality and water levels report - Lisa Fast
 
@@ -93,12 +93,15 @@ Current Board Members
 **Motion to elect new President ** 
   
 - Moved by: Lisa Fast
-- Seconded by:  
+- Seconded by:  Jim Thompson 
+ELECTED
 
 **Motion to elect new Treasurer ** 
   
 - Moved by: Lisa Fast
 - Seconded by:  
+
+Martin Croteau Member at large - elected 
 
 2026 program includes amending and updating [Association bylaws](https://lacnotredame.org/assets/docs/Association\_By-Laws\_en.pdf), which have not been updated in the last 10 years.
 
@@ -106,6 +109,16 @@ Current Board Members
 
 INSERT REPORT HERE
 
+MOTION: Accept the watercraft guidelines and canvassing them to all of the lake to STOP THE SPREAD
+Moved by Lauren Osmond
+Seconded by Lisa Fast
+- APPROVED by show of hands
+Canvassers will have a copy of the Guidelines map to handout and summary of the regulatory process and help out with work towards the plan, boat cleaning
+
+MOTION: Develop a realistic framework for milfoil eradication for next AGM with steps 
+Moved by: Lauren Osmond
+Seconded by: Anita Herweyer 
+APPROVED by show of hands 
 
 
 9.0 Members open issues
@@ -117,6 +130,6 @@ INSERT REPORT HERE
 
 Moved by Lisa Fast
 
-Seconded by Jim Thompson
+Seconded by Lynn Elliot
 
-Meeting closed at #### pm 
+Meeting closed at 5:21  pm 
