@@ -12,6 +12,18 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 
 * [2025 agenda](/about/2025BoardReport/)
 
+## Watercraft Guidelines
+
+Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
+We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys you see around the lake.
+If you did not receive the Watercraft Guidelines Map, you can view it here: Guidelines Map E to print REVISED.pdf
+
+## Directives relatives aux embarcations
+
+Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes.
+Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier. La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées que vous voyez autour du lac.
+Si vous n'avez pas reçu la carte des directives relatives aux embarcations, vous pouvez la télécharger ici:
+
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
 
 Lac Notre Dame has bad milfoil lately. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
