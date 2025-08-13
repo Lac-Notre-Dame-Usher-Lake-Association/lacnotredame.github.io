@@ -16,7 +16,7 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
 We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys you see around the lake.
-If you did not receive the Watercraft Guidelines Map, you can view it here: Guidelines Map E to print REVISED.pdf
+If you did not receive the Watercraft Guidelines Map, you can view it here: [Guidelines Map E to print REVISED.pdf](https://github.com/Lac-Notre-Dame-Usher-Lake-Association/lacnotredame.github.io/commit/a8c79ca525516182d21e8b3896a79b06458f4b67#diff-5fb6a75c4bbdcab4ffda0e6a994cd3f37d8d831b630d3a715066d97bf0da7fcb)
 
 ## Directives relatives aux embarcations
 
