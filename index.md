@@ -8,10 +8,6 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2025 annual meeting July 5 at Camp Kalalla -la réunion annuelle 
-
-* [2025 agenda](/about/2025BoardReport/)
-
 ## Watercraft Guidelines
 
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
@@ -70,6 +66,10 @@ A grass lawn near the shore attracts geese and goose poop. Naturalize your shore
 Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
 * Get prevention ideas in our[Goose Action Plan](/water/gooseaction/)[plan d'action pour les bernaches](/water/gooseaction/).
+
+## 2025 annual meeting July 5 at Camp Kalalla -la réunion annuelle 
+
+* [2025 agenda](/about/2025BoardReport/)
 
 ## Joignez-vous - Join the Lake Association
 
