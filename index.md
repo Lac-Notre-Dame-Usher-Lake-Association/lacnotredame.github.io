@@ -14,6 +14,8 @@ Following consultation with residents, the Lake Association has adopted Watercra
 We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys you see around the lake.
 If you did not receive the Watercraft Guidelines Map, you can view it here: [Guidelines Map E to print REVISED.pdf](https://github.com/Lac-Notre-Dame-Usher-Lake-Association/lacnotredame.github.io/commit/a8c79ca525516182d21e8b3896a79b06458f4b67#diff-5fb6a75c4bbdcab4ffda0e6a994cd3f37d8d831b630d3a715066d97bf0da7fcb)
 
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/55547911-3bc5-4df1-8d98-d7989d99957b" />
+
 ## Directives relatives aux embarcations
 
 Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes.
