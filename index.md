@@ -11,14 +11,14 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 ## Watercraft Guidelines
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
 We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer.
-It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys you see around the lake.
+It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/55547911-3bc5-4df1-8d98-d7989d99957b" />
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/edba5580-3b53-4389-82f1-997c4fccbfab" />
 
 ## Directives relatives aux embarcations
 Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes.
 Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier.
-La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées que vous voyez autour du lac.
+La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/fa65a6b2-a624-48a4-9cc2-d5bcd3b83417" />
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/f5694efe-57f2-487d-939d-4beba3e20694" />
 
