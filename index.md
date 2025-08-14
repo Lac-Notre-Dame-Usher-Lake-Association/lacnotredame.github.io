@@ -13,9 +13,9 @@ With hot weather, it is even more important to prevent wildfires. Please consult
 
 Avec le temps chaud, il est d'autant plus important de prévenir les feux de forêt. Vous pouvez consulter le site de la SOPFEU pour des conseils.
 
-French: (https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
+[Site de la SOPFEU en français](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
-English: (https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
+[SOPFEU website in English](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
 ## Watercraft Guidelines - Directives relatives aux embarcations
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
