@@ -8,6 +8,15 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
+## Preventing Wildfires! - Prévenir les feux de forêt!
+With hot weather, it is even more important to prevent wildfires. Please consult SOPFEU website for advices.
+
+Avec le temps chaud, il est d'autant plus important de prévenir les feux de forêt. Vous pouvez consulter le site de la SOPFEU pour des conseils.
+
+French: https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/
+
+English: https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/
+
 ## Watercraft Guidelines - Directives relatives aux embarcations
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
 We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer.
