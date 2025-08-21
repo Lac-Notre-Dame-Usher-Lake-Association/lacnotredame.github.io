@@ -9,7 +9,7 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 </div>
 
 ## Preventing Wildfires! - Prévenir les feux de forêt!
-# With hot weather, it is even more important to prevent wildfires.
+### With hot weather, it is even more important to prevent wildfires.
 
 Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png)
 
