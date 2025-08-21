@@ -15,7 +15,7 @@ Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://ww
 
 You can also consult [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
-Avec le temps chaud, il est d'autant plus important de prévenir les feux de forêt.
+### Avec le temps chaud, il est d'autant plus important de prévenir les feux de forêt.
 
 SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png)
 
