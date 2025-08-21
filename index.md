@@ -9,13 +9,13 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 </div>
 
 ## Preventing Wildfires! - Prévenir les feux de forêt!
-With hot weather, it is even more important to prevent wildfires. Please consult SOPFEU website for advices.
+With hot weather, it is even more important to prevent wildfires.
+Please consult .[Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png)
+You can also consult .[SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
-Avec le temps chaud, il est d'autant plus important de prévenir les feux de forêt. Vous pouvez consulter le site de la SOPFEU pour des conseils.
-
-[Site de la SOPFEU en français](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
-
-[SOPFEU website in English](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
+Avec le temps chaud, il est d'autant plus important de prévenir les feux de forêt.
+SVP consulter le .[Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png)
+Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
 ## Watercraft Guidelines - Directives relatives aux embarcations
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
