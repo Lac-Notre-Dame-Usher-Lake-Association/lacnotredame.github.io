@@ -32,12 +32,6 @@ Après consultation des résidents, l'association du lac a adopté des directive
 Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier.
 La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
 
-
-<img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/55547911-3bc5-4df1-8d98-d7989d99957b" />
-<img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/edba5580-3b53-4389-82f1-997c4fccbfab" />
-<img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/fa65a6b2-a624-48a4-9cc2-d5bcd3b83417" />
-<img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/f5694efe-57f2-487d-939d-4beba3e20694" />
-
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
 
 Lac Notre Dame has bad milfoil lately. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
