@@ -1,7 +1,7 @@
 ---
 title: Watercraft Guidelines
 description: Watercraft Guidelines designed to prevent the spread of milfoil on the lake
-date: 2025-09-01T21:00:00
+date: 2025-09-01
 ---
 # Goose Action Plan
 
