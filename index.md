@@ -21,8 +21,6 @@ SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêc
 
 Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
-Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
-
 ## [Watercraft Guidelines - Directives relatives aux embarcations](/water/Guidelines.md/)
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
 We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer.
@@ -100,8 +98,8 @@ Join the Association to help fund water testing, protect the quality of our wate
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle.
 
 * **Renouvellement pour 2025 après 1 juillet : 25 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) 
-* Joindre? Envoyez un e-mail à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
-* Les membres recevront 3-4 e-mails par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que l'e-mail n'est pas arrivé là.
+* Joindre? Envoyez un courriel à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
+* Les membres recevront 3-4 courriels par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que le courriel n'est pas arrivé là.
 
 New warning signs to avoid milfoil buoys
 
