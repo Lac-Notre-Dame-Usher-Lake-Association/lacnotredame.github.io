@@ -10,4 +10,5 @@ Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/
 
 # Directives relatives aux embarcations
 
+Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées. 
 Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
