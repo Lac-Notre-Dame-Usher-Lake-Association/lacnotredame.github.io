@@ -27,16 +27,19 @@ Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prév
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
 We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer.
 It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
+
 Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map_English.pdf)
+
 Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes.
 Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier.
 La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
+
 Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
 
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
 
 Lac Notre Dame has bad milfoil lately. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
-Lac Notre Dame a des problèmes de myriophylle ces derniers temps. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
+Le lac Notre Dame a des problèmes de myriophylle ces derniers temps. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
   
 * [Conseils pour réduire le myriophylle en épi - Reduce Eurasian Milfoil - tips and history](/water/lnd-milfoil/)
 
