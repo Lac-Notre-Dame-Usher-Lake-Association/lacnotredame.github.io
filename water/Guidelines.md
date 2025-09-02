@@ -1,5 +1,5 @@
 ---
-title: Canada Goose Action Plan
+title: Watercraft Guidelines
 description: shoreline naturalization and goose barriers
 date: 2019-08-23T13:10:52-05:00
 ---
