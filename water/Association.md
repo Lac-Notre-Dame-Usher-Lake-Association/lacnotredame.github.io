@@ -7,12 +7,11 @@ date: 2025-09-02
 
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association (comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle).
 
-* **Renouvellement pour 2025 après 1 juillet : 25 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) 
 * Comment se joindre à nous? Envoyez simplement un courriel à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
   
 * Les membres recevront 3 ou 4 courriels par année de "association@lacnotredame.org" (Vérifiez vos courriers indésirables/spams pour vous assurer que le courriels n'y sont pas redirigés.)
   
-* **Renouvellement pour 2025 après 1 juillet : 25 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) 
+* #### Renouvellement pour 2025: Envoyer 25 $ par Interac à [info@lacnotredame.org](mailto:info@lacnotredame.org) 
   
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities (like placing buoys to alert boaters of heavy milfoil weed areas).
 
