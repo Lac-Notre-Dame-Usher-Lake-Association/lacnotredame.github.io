@@ -5,13 +5,16 @@ date: 2025-09-02
 ---
 ## Joignez notre association! ~~ Join our Association!
 
-Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle.
+Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association (comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle).
 
 * **Renouvellement pour 2025 après 1 juillet : 25 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) 
-* Joindre? Envoyez un courriel à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
-* Les membres recevront 3-4 courriels par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que le courriel n'est pas arrivé là.
-* 
-Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas.
+* Comment se joindre à nous? Envoyez simplement un courriel à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
+  
+* Les membres recevront 3 ou 4 courriels par année de "association@lacnotredame.org" (Vérifiez vos courriers indésirables/spams pour vous assurer que le courriels n'y sont pas redirigés.)
+  
+* **Renouvellement pour 2025 après 1 juillet : 25 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) 
+  
+Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities (like placing buoys to alert boaters of heavy milfoil weed areas).
 
 * See [About the  Association](/about/about) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership for $25 per household to fund milfoil management, water testing and water quality
