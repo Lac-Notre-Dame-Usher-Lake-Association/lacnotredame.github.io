@@ -79,6 +79,6 @@ La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués.
 
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
-Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+Version imprimable - Printable version (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
 ### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
