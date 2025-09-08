@@ -82,4 +82,4 @@ Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les
 
 * Get prevention ideas in our[Goose Action Plan](/water/gooseaction/)[plan d'action pour les bernaches](/water/gooseaction/).
 
-## [Rapports annuels du Conseil ~~ Yearly Board Reports](/about/Main_BoardReport/)
+## [Rapports annuels du Conseil ~~ Yearly Board Reports](/about/BoardReports/)
