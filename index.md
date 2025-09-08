@@ -12,13 +12,9 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 
 ### Preventing Wildfires!  Prévenir les feux de forêt!
 
-Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png)
+Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) - SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png)
 
-SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png)
-
-You can also consult [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
-
-Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
+You can also consult [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/) - Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
 ### [Watercraft Guidelines - Directives relatives aux embarcations](/water/Guidelines.md/)
 Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
@@ -36,8 +32,8 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 ### [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
 <img src="/assets/img/2023-panneau.png" height=200 width=300 class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />
 
-Lac Notre Dame has bad milfoil lately. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
-Le lac Notre Dame a des problèmes de myriophylle ces derniers temps. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
+* Lac Notre-Dame has bad milfoil lately. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
+* Le lac Notr-Dame a des problèmes de myriophylle ces derniers temps. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
   
 * [Conseils pour réduire le myriophylle en épi - Reduce Eurasian Milfoil - tips and history](/water/lnd-milfoil/)
 
