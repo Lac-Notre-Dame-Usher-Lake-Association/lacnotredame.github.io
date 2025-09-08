@@ -6,7 +6,7 @@
 * Secretary (vacant position)
 * Brian Cook, member since 2020
 * Graeme Simpson,  member since 2022
-* William Hebert,  member since 2024
+* William Hébert,  member since 2024
 * Jim Thompson, member since 2024
 * Martin Croteau, member since 2025
 
