@@ -29,7 +29,7 @@ La situation n'est pas aussi grave cette année, mais le myriophylle est toujour
 
 Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
 
-### [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
+### [Contrôle de la Myriophylle - Milfoil Control](/water/lnd-milfoil/) - Restez loin des bouées! Stay clear of buoys!
 <img src="/assets/img/2023-panneau.png" height=200 width=300 class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />
 
 * Lac Notre-Dame has bad milfoil. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
@@ -43,7 +43,7 @@ Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https:/
 
 * [2025 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
-* Association membership fees and donations fund the water testing.
+* Association membership fees and donations fund the water testing. - Les cotisations d'adhésion et les dons financent les tests d'eau.
 
 ### [Protect the clean water we enjoy](/water/keepclean/)
 
