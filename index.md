@@ -75,10 +75,10 @@ La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués.
 
 ### [Plan d'action pour les bernaches - Canada Goose Action Plan](/water/gooseaction/)
 
-A grass lawn near the shore attracts geese and goose poop. Naturalize your shoreline to prevent contamination and erosion.
+* A grass lawn near the shore attracts geese and goose poop. Naturalize your shoreline to prevent contamination and erosion.
 
-Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
+* Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
-Printable version in English and French (PDF): Goose-Action-Plan
+Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
 ### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
