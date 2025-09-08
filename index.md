@@ -6,6 +6,8 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 
 <div>
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
+<img src="/assets/img/Join Us.jpg"
+<img src="/assets/img/Rejoignez-nous.jpg"
 </div>
 
 ## Preventing Wildfires! - Prévenir les feux de forêt!
