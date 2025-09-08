@@ -11,6 +11,9 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 <a href="/water/Association.md/>
 <img src="assets/img/Join-Us-Bilingual.jpg" alt="Join Us Logo" height=200 width=400 >
 </a>
+
+[![Test](assets/img/Join-Us-Bilingual.jpg)](/water/Association.md/)
+
 <!-- This is a comment and will not appear in the rendered Markdown -->
 
 ## Preventing Wildfires! - Prévenir les feux de forêt!
