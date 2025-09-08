@@ -79,6 +79,6 @@ A grass lawn near the shore attracts geese and goose poop. Naturalize your shore
 
 Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
-* Get prevention ideas in our[Goose Action Plan](/water/gooseaction/)[plan d'action pour les bernaches](/water/gooseaction/).
+Printable version in English and French (PDF): Goose-Action-Plan
 
 ### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
