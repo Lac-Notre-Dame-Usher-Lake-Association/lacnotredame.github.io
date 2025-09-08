@@ -4,7 +4,6 @@
 * Lisa Fast, Past-President role to assist with transition, member since 2016
 * Jane Hayward, Treasurer (elected 2025), member since 2020
 * Secretary (vacant position)
-* Brian Cook, member since 2020
 * Graeme Simpson,  member since 2022
 * William Hébert,  member since 2024
 * Jim Thompson, member since 2024
