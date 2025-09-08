@@ -2,10 +2,10 @@
 title: Lac Notre-Dame et Usher Association
 description: About Lac Notre-Dame and Usher Lake Association
 date: 2021-03-22T13:10:52-05:00
-basepath:about/index.html
+basepath:main index.html
 ---
 
-## The Association and what we do / L'association et ses activités
+## The Association and what we do - L'association et ses activités
 
 The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all.
 
@@ -13,41 +13,7 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 
 ***
 
-Approved minutes and notes for each year act as a formal record of the meeting, and include the Treasurer's annual report on the Association's finances.
 
-Les procès-verbaux et les notes approuvés chaque année constituent un compte rendu officiel de la réunion et comprennent le rapport annuel du trésorier sur les finances de l'association.
-
-* [2024 notes](2024BoardReport.md)
-* [2023 notes](2023BoardReport.md)
-* [2022 notes](2022BoardReport.md)
-* [2021 notes](2021BoardReport.md)
-* [2020 notes](2020BoardReport.md)
-* [2019 notes](2019BoardReport.md)
-* [2018 notes](2018BoardReport.md)
-* [2017 notes (English PDF)](../assets/docs/minutes/AGM_Minutes_2017.pdf)
-* [2016 AGM (English)](../assets/docs/minutes/AGM_Minutes_2016.pdf)
-* [2009 AGM (English)](../assets/docs/minutes/AGM_Minutes_2009.pdf) [- AGA (Français)](../assets/docs/minutes/fr/AGA_proces_2009.pdf)
-* [2008 AGM (English)](../assets/docs/minutes/AGM_Minutes_2008.pdf) [- AGA (Français)](../assets/docs/minutes/fr/AGA_proces_2008.pdf)
-* [2007 AGM (English)](../assets/docs/minutes/AGM_Minutes_2007.pdf) [- AGA (Français)](../assets/docs/minutes/fr/AGA_proces_2007.pdf)
-* [2006 AGM (English)](../assets/docs/minutes/AGM_Minutes_2006.pdf) [- AGA (Français)](../assets/docs/minutes/fr/AGA_proces_2006.pdf)
-
-## Current board of directors
-
-The Board meets 4-5 x times, usually online, per year plus the AGM. Current bylaws require board members to serve for a maximum of 6 years. 
-
-Lisa Fast has served in the President role since 2016\. She will be stepping down after the 2025 AGM, but remain on the board in the Past-President role to assist with the transition.
-
-Current Board Members 
-
-* Jane Hayward \- Secretary (elected 2023\)  
-* Don Herweyer, member (elected 2020\)  
-* Brian Cook, treasurer (elected 2020\)  
-* Lisa Fast, President (elected 2016\) \- term extended one year  
-* Graeme Simpson \- member (elected 2022\)
-* William Hebert \- member (elected 2024\)  
-* Jim Thompson \- member (elected 2024\)
-
-Contact us by email at [info@lacnotredame.org](mailto:info@lacnotredame.org)
 
 [Constitution(PDF)](../assets/docs/Association_Constitution.pdf) 
 [Bylaws(PDF)](../assets/docs/Association_By-Laws_en.pdf)
