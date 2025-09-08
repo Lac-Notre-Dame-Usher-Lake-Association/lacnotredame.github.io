@@ -3,7 +3,7 @@
 * Don Herweyer, President (elected 2025), member since 2020
 * Lisa Fast, Past-President role to assist with transition, member since 2016
 * Jane Hayward, Treasurer (elected 2025), member since 2020
-* <vacant>, Secretary
+* Secretary (vacant position)
 * Brian Cook, member since 2020
 * Graeme Simpson,  member since 2022
 * William Hebert,  member since 2024
