@@ -1,6 +1,6 @@
 ## Membres actuels du conseil - Current Board Members
 
-* Lisa Fast, President (elected 2016\) \- term extended one year
+* Don Herweyer, President (elected 2025)
 * Lisa Fast, Past-President role to assist with transition
 * Jane Hayward \- Secretary (elected 2023\)  
 * Don Herweyer, member (elected 2020\)  
@@ -10,9 +10,12 @@
 * William Hebert \- member (elected 2024\)  
 * Jim Thompson \- member (elected 2024\)
 
-Le conseil se réunit 4 à 5 fois par an, généralement en ligne, en plus de l'AGM. Les statuts actuels exigent que les membres du conseil servent pour un maximum de 6 ans.
+Veillez noter que les statuts actuels exigent que les membres du conseil servent pour un maximum de 6 ans.
 
-The Board meets 4-5 x times, usually online, per year plus the AGM.
-Current bylaws require board members to serve for a maximum of 6 years. 
+Please note that current bylaws require board members to serve for a maximum of 6 years.
 
-Contactez-nous par courriel - Contact us by email: [info@lacnotredame.org](mailto:info@lacnotredame.org)
+### Réunions - Meetings
+* Le conseil se réunit 4 à 5 fois par an (généralement en ligne), en plus de l'assemblée générale de l'association.
+* The council meets 4 to 5 times a year (usually online), in addition to the general assembly of the association.
+
+### Contactez-nous par courriel - Contact us by email : [info@lacnotredame.org](mailto:info@lacnotredame.org)
