@@ -59,7 +59,7 @@ Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https:/
 
 [View and print tips to keep our lakes clean - Consultez et imprimez des conseils pour garder nos lacs propres](/water/keepclean/)
 
-### [Carte - Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
+### [Carte - Map of Lac Notre-Dame and Usher Lake](/map/maps/)
 
 * The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
 
