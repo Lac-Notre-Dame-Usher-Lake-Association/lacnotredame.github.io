@@ -45,7 +45,7 @@ Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https:/
 * [Map of lake with water testing locations](/map/maps/)
 * Association membership fees and donations fund the water testing. - Les cotisations d'adhésion et les dons financent les tests d'eau.
 
-### [Protect the clean water we enjoy](/water/keepclean/)
+### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
 
 * Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
 
