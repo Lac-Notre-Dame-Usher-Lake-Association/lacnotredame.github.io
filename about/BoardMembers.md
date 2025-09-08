@@ -1,12 +1,11 @@
 ## Membres actuels du conseil - Current Board Members
 
-* Don Herweyer, President (elected 2025)
-* Lisa Fast, Past-President role to assist with transition
-* Jane Hayward \- Secretary (elected 2023\)  
-* Don Herweyer, member (elected 2020\)  
-* Brian Cook, treasurer (elected 2020\)  
-* Lisa Fast, President (elected 2016\) \- term extended one year  
-* Graeme Simpson \- member (elected 2022\)
+* Don Herweyer, President (elected 2025), member since 2020
+* Lisa Fast, Past-President role to assist with transition (elected 2025), member since 2016
+* Jane Hayward, Treasurer (elected 2025), member since 2020
+* vacant, Secretary
+* Brian Cook, member since 2020
+* Graeme Simpson,  member since 2020
 * William Hebert \- member (elected 2024\)  
 * Jim Thompson \- member (elected 2024\)
 
