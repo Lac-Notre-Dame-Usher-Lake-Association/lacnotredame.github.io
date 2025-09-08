@@ -1,8 +1,8 @@
 ---
 title: Lac Notre-Dame et Usher Association
 description: About Lac Notre-Dame and Usher Lake Association
-date: 2021-03-22T13:10:52-05:00
-basepath:main index.html
+date: 2021-03-22T13:10:52-05:00 (updated 2025-09-08)
+basepath: main index.html
 ---
 
 ## The Association and what we do - L'association et ses activités
@@ -10,14 +10,8 @@ basepath:main index.html
 The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all.
 
 La mission de l'Association est de promouvoir, de protéger et de préserver la qualité des lacs Notre Dame et Usher, ainsi que l'environnement du bassin versant des lacs, afin d'en assurer l'utilisation continue et la jouissance par tous.
-
 ***
-
-
-
-[Constitution(PDF)](../assets/docs/Association_Constitution.pdf) 
-[Bylaws(PDF)](../assets/docs/Association_By-Laws_en.pdf)
-[Lettres Patentes](../assets/docs/Lettres%20patentes.pdf)
+### The Board's role
 
 3.1 The affairs of the Association shall be managed by a Board of Directors consisting of seven (7) persons, each of whom at the time of his/her election, or within ten (10) days thereafter and throughout his/her term of office, shall be a member in good standing of the Association.  If a person ceases to be a member in good standing of the Association then he/she shall no longer qualify to be a Director and must resign forthwith.
 
@@ -29,14 +23,16 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 3.4 The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
+### Le rôle du conseil
+
 3.1 Les affaires de l'Association sont gérées par un conseil d'administration composé de sept (7) personnes qui, au moment de leur élection ou dans les dix (10) jours qui suivent et pendant toute la durée de leur mandat, doivent être membres en règle de l'Association.  Si une personne cesse d'être membre en règle de l'Association, elle ne remplit plus les conditions requises pour être administrateur et doit démissionner immédiatement.
 
 3.2 L'élection des administrateurs lors de l'assemblée générale annuelle des membres peut se faire à main levée, mais si le nombre d'administrateurs nommés et candidats à l'élection est supérieur au nombre requis, le vote se fait à bulletin secret. Les membres de l'Association peuvent, par résolution adoptée par au moins deux tiers (67 %) des voix exprimées lors d'une assemblée des membres ayant reçu un avis spécifiant l'intention d'adopter une telle résolution, révoquer tout administrateur avant l'expiration de son mandat et peuvent, à la majorité des voix exprimées lors de l'assemblée, élire une personne à sa place pour la durée restante de son mandat.
 
 3.3 Les administrateurs s'efforcent d'atteindre les objectifs de l'Association.  
 "Promouvoir, protéger et préserver la qualité environnementale des lacs et du bassin versant, pour l'usage et le plaisir de tous.
-
-## Objectives and mandate of the Association
+***
+### Objectives and mandate of the Association
 
 1. to establish and operate a not for profit association for the benefit of members who are owners or users of property on or in the vicinity of the Lakes for the purpose of monitoring water quality and conditions affecting the environment of the Lakes and to contribute to the maintenance and enhancement of the well being of the local environment and the quality of life on the Lakes for both seasonal and permanent residents;
 
@@ -56,7 +52,7 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 9. generally, to pursue the achievement of the Objectives of the Association.
 
-## Objectifs et mandat de l'association
+### Objectifs et mandat de l'association
 
 1. d'établir et de gérer une association sans but lucratif au profit des membres qui sont propriétaires ou utilisateurs de biens situés sur les lacs ou à proximité, dans le but de surveiller la qualité de l'eau et les conditions affectant l'environnement des lacs et de contribuer au maintien et à l'amélioration du bien-être de l'environnement local et de la qualité de la vie sur les lacs pour les résidents saisonniers et permanents ;
 
@@ -70,10 +66,16 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 6. favoriser l'élaboration de programmes de restauration et de protection des lacs conformément aux stratégies et techniques de gestion appropriées ;
 
-7. communiquer avec l'Association et solliciter son aide et sa participation.
+7. communiquer avec les agences gouvernementales et privées et solliciter leur assistance et leur participation au nom des membres, si cela est nécessaire à la réalisation de la mission et des objectifs de l'Association
 
-8. communiquer avec les agences gouvernementales et privées et solliciter leur assistance et leur participation au nom des membres, si cela est nécessaire à la réalisation de la mission et des objectifs de l'Association
+8. recevoir des biens immobiliers ou personnels, des subventions, des dons, des héritages et d'autres contributions monétaires de nature similaire (collectivement, les "dons") et administrer ces dons, organiser des activités de collecte de fonds dans le but d'atteindre les objectifs de l'Association ;
 
-9. recevoir des biens immobiliers ou personnels, des subventions, des dons, des héritages et d'autres contributions monétaires de nature similaire (collectivement, les "dons") et administrer ces dons, organiser des activités de collecte de fonds dans le but d'atteindre les objectifs de l'Association ;
+9. d'une manière générale, poursuivre la réalisation des objectifs de l'Association.
+***
+### Legal Documents - Documents légals
 
-10. d'une manière générale, poursuivre la réalisation des objectifs de l'Association.
+* [Constitution (PDF)](../assets/docs/Association_Constitution.pdf) 
+
+* [Bylaws (PDF)](../assets/docs/Association_By-Laws_en.pdf)
+
+* [Lettres Patentes (PDF)](../assets/docs/Lettres%20patentes.pdf)
