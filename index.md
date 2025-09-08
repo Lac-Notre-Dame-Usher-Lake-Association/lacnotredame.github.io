@@ -37,12 +37,12 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 
 ### [Résultats des analyses d'eau - Water testing results](/water/qualityreports/)
 
-With financial support from our members and occasional financial support the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
+* With financial support from our members and occasional financial support the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
-Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
+* Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
-* [2025 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
-* [Map of lake with water testing locations](/map/maps/)
+ [2025 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
+ [Map of lake with water testing locations](/map/maps/)
 * Association membership fees and donations fund the water testing. - Les cotisations d'adhésion et les dons financent les tests d'eau.
 
 ### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
@@ -51,7 +51,7 @@ Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https:/
 
 * Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
-[View and print tips to keep our lakes clean - Consultez et imprimez des conseils pour garder nos lacs propres](/water/keepclean/)
+[Version imprimable - Printable version (PDF in English & French)](/assets/docs/LacBinderPage-EN-FR.pdf)
 
 ### [Carte - Map of Lac Notre-Dame and Usher Lake](/map/maps/)
 
@@ -73,6 +73,6 @@ Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https:/
 
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
-Version imprimable - Printable version (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
 ### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
