@@ -3,7 +3,7 @@ title: Board Reports Main Page
 description: Main page for displaying yearly Board Reports
 date: 2025-09-07
 ---
-## Rapports annuels du Conseil ~~ Yearly Board Reports
+## Rapports annuels du Conseil - Yearly Board Reports
 * [2025](/about/2025BoardReport.md/)
 * [2024](/about/2024BoardReport.md/)
 * [2023](/about/2023BoardReport.md/)
