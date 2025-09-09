@@ -5,6 +5,7 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 ---
 ###### [Mandat de l'association - Association's Mandate](/about/about.md/) 
 ###### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
+###### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
 ###### [Joignez l'association! Join the association!](/water/Association.md/)
 <div>
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
@@ -51,7 +52,7 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 
 * Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
-[Version imprimable - Printable version (PDF in English & French)](/assets/docs/LacBinderPage-EN-FR.pdf)
+Version imprimable - Printable version (PDF in English & French):[Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
 
 ### [Carte - Map of Lac Notre-Dame and Usher Lake](/map/maps/)
 
@@ -74,5 +75,3 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
-
-### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
