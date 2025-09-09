@@ -18,20 +18,16 @@ Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://ww
 You can also consult [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/) - Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
 ### [Watercraft Guidelines - Directives relatives aux embarcations](/water/Guidelines.md/)
-Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed.
-We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer.
-It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
+
+*Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed. We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
 
 Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map_English.pdf)
 
-Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes.
-Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier.
-La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
+* Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes. Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier. La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
 
 Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
 
 ### [Contrôle de la Myriophylle - Milfoil Control](/water/lnd-milfoil/) - Restez loin des bouées! Stay clear of buoys!
-<img src="/assets/img/2023-panneau.png" height=200 width=300 class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />
 
 * Lac Notre-Dame has bad milfoil. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 * Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
@@ -42,9 +38,9 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 
 * Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
- [2025 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
- [Map of lake with water testing locations](/map/maps/)
-* Association membership fees and donations fund the water testing. - Les cotisations d'adhésion et les dons financent les tests d'eau.
+* Association membership fees and donations fund the water testing.
+
+* Les cotisations d'adhésion et les dons financent les tests d'eau.
 
 ### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
 
@@ -52,7 +48,7 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 
 * Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
-Version imprimable - Printable version (PDF in English & French):[Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
+Version imprimable - Printable version (PDF in English & French): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
 
 ### [Carte - Map of Lac Notre-Dame and Usher Lake](/map/maps/)
 
