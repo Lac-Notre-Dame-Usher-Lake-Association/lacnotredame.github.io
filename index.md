@@ -27,7 +27,7 @@ Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map
 
 Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
 
-### [Contrôle de la Myriophylle - Milfoil Control](/water/lnd-milfoil/) - Restez loin des bouées! Stay clear of buoys!
+### [Contrôle de la Myriophylle - Milfoil Control](/water/lnd-milfoil/) --- ***Restez loin des bouées! Stay clear of buoys!***
 
 * Lac Notre-Dame has bad milfoil. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 * Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
