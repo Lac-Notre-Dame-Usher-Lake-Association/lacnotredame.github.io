@@ -6,7 +6,7 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 ###### [Mandat de l'association - Association's Mandate](/about/about.md/) 
 ###### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
 ###### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
-###### [Joignez l'association! Join the association!](/water/Association.md/)
+###### [Joignez l'association! - Join the association!](/water/Association.md/)
 <div>
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
