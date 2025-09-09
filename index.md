@@ -71,3 +71,5 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+
+<img src="/assets/img/Lac-2.jpg" class="img-fluid py-3"/>
