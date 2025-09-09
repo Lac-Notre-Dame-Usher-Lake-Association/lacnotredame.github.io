@@ -11,15 +11,15 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-### Preventing Wildfires!  Prévenir les feux de forêt!
+## ***Preventing Wildfires!  Prévenir les feux de forêt!***
 
-Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) - SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png)
+* Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
-You can also consult [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/) - Vous pouvez aussi consulter le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
+* SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
 ### [Watercraft Guidelines - Directives relatives aux embarcations](/water/Guidelines.md/)
 
-*Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed. We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
+* Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed. We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
 
 Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map_English.pdf)
 
@@ -38,9 +38,8 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 
 * Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
-* Association membership fees and donations fund the water testing.
-
-* Les cotisations d'adhésion et les dons financent les tests d'eau.
+Please note that Association membership fees and donations are funding the water testing.
+Veuillez noter que les cotisations d'adhésion et les dons financent les tests d'eau.
 
 ### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
 
