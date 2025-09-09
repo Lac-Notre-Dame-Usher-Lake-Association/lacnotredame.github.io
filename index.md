@@ -72,4 +72,4 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
-<img src="/assets/img/Lac-2.jpg" class="img-fluid py-3"/>
+<img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
