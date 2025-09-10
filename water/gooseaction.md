@@ -27,7 +27,7 @@ Some lake owners with lawns near the water are having some success at keeping th
 * We searched for nests in May and early June but they were well hidden – two nests did succeed this year. Please watch for them next spring – the male goose stands sentinel.
 * Contact us at [info@lacnotredame.org](mailto:info@lacnotredame.org) for help if you spot a nest and want help.
 
-## PLAN D'ACTION POUR LA GESTION DES BERNACHES
+# Plan d'action pour la gestion des bernaches
 
 En 2018, un groupe de plus de 20 bernaches s'est établi sur le lac. En 2019, le troupeau est plus petit - 4 adultes et 5 oisons. Une bernache adulte peut produire jusqu'à un kilo de caca tous les jours, et ces excréments peuvent contaminer notre eau - et votre propriété. Nous avons créé un plan d’action pour le lac afin de minimiser les dégâts.
 Certains propriétaires riverains avec des pelouses près de l'eau réussissent à garder les bernaches loin de leur nourriture préférée: l'herbe. Suivez ces étapes pour garder les bernaches loin de votre propriété.
