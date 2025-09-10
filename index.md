@@ -69,8 +69,8 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
-#### [Mandat de l'association - Association's Mandate](/about/about.md/) 
-#### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
-#### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
+##### [Mandat de l'association - Association's Mandate](/about/about.md/) 
+##### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
+##### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
