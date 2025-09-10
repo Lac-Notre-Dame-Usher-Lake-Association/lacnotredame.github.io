@@ -3,10 +3,7 @@ layout: default
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
 description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pêche Québec Canada
 ---
-###### [Mandat de l'association - Association's Mandate](/about/about.md/) 
-###### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
-###### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
-###### [Joignez l'association! - Join the association!](/water/Association.md/)
+#### [Joignez l'association! - Join the association!](/water/Association.md/)
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
@@ -71,5 +68,9 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+
+#### [Mandat de l'association - Association's Mandate](/about/about.md/) 
+#### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
+#### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
