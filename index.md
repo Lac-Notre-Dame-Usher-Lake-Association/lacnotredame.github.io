@@ -32,12 +32,9 @@ Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/ma
 
 ### [Résultats des analyses d'eau - Water testing results](/water/qualityreports/)
 
-* With financial support from our members and occasional financial support the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
+* With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
-* Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
-
-Please note that Association membership fees and donations are funding the water testing.
-Veuillez noter que les cotisations d'adhésion et les dons financent les tests d'eau.
+* Avec le soutien financier de nos membres (cotisations d'adhésion et dons) et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
 ### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
 
@@ -68,6 +65,8 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+
+***
 
 ##### [Mandat de l'association - Association's Mandate](/about/about.md/) 
 ##### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
