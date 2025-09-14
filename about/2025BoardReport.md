@@ -103,7 +103,10 @@ ELECTED by a show of hands
 
 ## Milfoil Action Committee 
 
-INSERT REPORT HERE 
+###vMilfoil Action Committee Report 
+* PPTX format
+* Slideshow formatM
+
 
 MOTION: Accept the watercraft guidelines and canvassing them to all of the lake to STOP THE SPREAD
 Moved by Lauren Osmond
