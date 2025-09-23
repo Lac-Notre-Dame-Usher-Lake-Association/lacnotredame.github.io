@@ -26,7 +26,7 @@ Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil
 
 Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
 
-Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à épis - Juillet 2025]
+Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à épis - Juillet 2025](/assets/docs/Milfoil survey report F.pdf)
 
 ### [Contrôle de la Myriophylle - Milfoil Control](/water/lnd-milfoil/) --- ***Restez loin des bouées! Stay clear of buoys!***
 
