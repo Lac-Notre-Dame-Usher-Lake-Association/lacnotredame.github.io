@@ -20,7 +20,7 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 
 Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map_English.pdf)
 
-Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil - July 2025]
+Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil - July 2025](/assets/docs/Milfoil survey report E.pdf)
 
 * Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes. Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier. La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
 
