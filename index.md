@@ -71,5 +71,6 @@ Version imprimable - Printable version (PDF in English & French): [Goose-Action-
 ##### [Mandat de l'association - Association's Mandate](/about/about.md/) 
 ##### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
 ##### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
+##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
