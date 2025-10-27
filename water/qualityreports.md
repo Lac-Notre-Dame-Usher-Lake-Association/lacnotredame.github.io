@@ -50,7 +50,7 @@ Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 
 In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre Dame. The report is in French.
 
-* [Download the the full report (PDF, Francais)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+* [Download the full report (PDF, Francais)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
 ABV-7 was mandated in June 2014 by the Municipality of La Pêche to characterize the shoreline of Lake Notre-Dame, assess the physico-chemical quality of the water and delimit the milfoil meadows on the lake. This information provided a picture of the current situation in order to slow down the eutrophication of the lake and combat its invasion by Eurasian water milfoil.
 
