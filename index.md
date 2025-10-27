@@ -28,9 +28,9 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 #### Watch these videos to learn more about Milfoil:
 
-[La semaine verte (English audio available under Parameters)(https://www.youtube.com/watch?v=lHdjJ0dmTpo)] (English audio available under Parameters)]
+La semaine verte (English audio available under Parameters): https://www.youtube.com/watch?v=lHdjJ0dmTpo
 
-[Short animation video on Milfoil (French text) (https://www.youtube.com/watch?v=NER_aUiUS5U)]
+Short animation video on Milfoil (French text) (https://www.youtube.com/watch?v=NER_aUiUS5U)]
 
 * Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
 
@@ -38,7 +38,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 [La semaine verte(https://www.youtube.com/watch?v=lHdjJ0dmTpo)]
 
-[Courte vidéo d’animation sur le myriophylle à épis(https://www.youtube.com/watch?v=NER_aUiUS5U)]
+[Courte vidéo d’animation sur le myriophylle à épis(https://www.youtube.com/watch?v=NER_aUiUS5U/)]
 
 ### Preventing Wildfires! - Prévenir les feux de forêt!
 
