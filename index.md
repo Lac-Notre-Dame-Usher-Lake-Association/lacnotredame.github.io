@@ -36,9 +36,9 @@ Short animation video on Milfoil (French text) (https://www.youtube.com/watch?v=
 
 #### Regardez ces vidéos pour en apprendre plus sur le myriophylle à épis:
 
-[La semaine verte(https://www.youtube.com/watch?v=lHdjJ0dmTpo)]
+[La semaine verte](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
 
-[Courte vidéo d’animation sur le myriophylle à épis(https://www.youtube.com/watch?v=NER_aUiUS5U/)]
+[Courte vidéo d’animation sur le myriophylle à épis](https://www.youtube.com/watch?v=NER_aUiUS5U/)
 
 ### Preventing Wildfires! - Prévenir les feux de forêt!
 
