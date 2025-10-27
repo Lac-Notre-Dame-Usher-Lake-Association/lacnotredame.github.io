@@ -30,7 +30,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 [La semaine verte (English audio available under Parameters)](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
 
-[Short animation video on Milfoil (French text)](https://www.youtube.com/watch?v=NER_aUiUS5U)
+[Short animation video (French text)](https://www.youtube.com/watch?v=NER_aUiUS5U)
 
 * Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
 
@@ -38,19 +38,19 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 [La semaine verte](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
 
-[Courte vidéo d’animation sur le myriophylle à épis](https://www.youtube.com/watch?v=NER_aUiUS5U/)
-
-### Preventing Wildfires! - Prévenir les feux de forêt!
-
-* Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
-
-* SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
+[Courte vidéo d’animation](https://www.youtube.com/watch?v=NER_aUiUS5U/)
 
 ### [Résultats des analyses d'eau - Water testing results](/water/qualityreports/)
 
 * With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
 * Avec le soutien financier de nos membres (cotisations d'adhésion et dons) et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
+
+### Preventing Wildfires! - Prévenir les feux de forêt!
+
+* Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
+
+* SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
 ### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
 
