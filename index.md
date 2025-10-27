@@ -8,12 +8,6 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## ***Preventing Wildfires!  Prévenir les feux de forêt!***
-
-* Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
-
-* SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
-
 ### [Watercraft Guidelines - Directives relatives aux embarcations](/water/Guidelines.md/)
 
 * Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed. We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
@@ -33,6 +27,12 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 * Lac Notre-Dame has bad milfoil. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 
 * Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
+
+### Preventing Wildfires! - Prévenir les feux de forêt!
+
+* Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
+
+* SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
 ### [Résultats des analyses d'eau - Water testing results](/water/qualityreports/)
 
