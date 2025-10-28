@@ -104,8 +104,7 @@ ELECTED by a show of hands
 ## Milfoil Action Committee 
 
 ##### Milfoil Action Committee Report 
-* [PPTX format](/assets/docs/water/AGM slides VFinal 5jul2025.pptx)
-* [Slideshow format](/assets/docs/water/AGM slides VFinal 5jul2025.ppsx)
+* [PDF format](/assets/docs/water/AGM slides VFinal 5jul2025.pdf)
 
 MOTION: Accept the watercraft guidelines and canvassing them to all of the lake to STOP THE SPREAD
 Moved by Lauren Osmond
