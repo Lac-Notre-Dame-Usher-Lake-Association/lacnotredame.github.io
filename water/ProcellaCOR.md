@@ -1,7 +1,7 @@
 ---
-title: Eurasian Milfoil
-description: Eurasian milfoil weed in Lac Notre-Dame - what to do and history
-date: 2017-12-29T13:10:52-05:00
+title: ProcellaCOR
+description: Informaton on ProcellaCOR
+date: 2025-11-22
 ---
 # Myriophylle à épis - Eurasian Milfoil in Lac Notre-Dame 
 
