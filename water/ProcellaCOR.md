@@ -17,7 +17,8 @@ Le fabricant avertit que les mauvaises herbes peuvent devenir résistantes à Pr
 ## Les propriétaires privés ne peuvent pas légalement utiliser ce produit
 L'association du lac n'a pas demandé de permis et ne poursuit pas cette option pour le moment.
 
-* ##### Pour en savoir plus: Décision d'enregistrement de Santé Canada pour le florpyrauxifène-benzyle: [Décision d’homologation RD2023-08, Florpyrauxifène-benzyle, herbicide Milestone NXT, herbicide Restore NXT, herbicide GF 3206, herbicide GF 3301 pour milieux aquatiques et herbicide ProcellaCOR FX - Canada.ca](https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/rapports-publications/pesticides-lutte-antiparasitaire/decisions-mises-jour/decision-homologation/2023/florpyrauxifene-benzyle.html)    
+* ##### Pour en savoir plus: Décision d'enregistrement de Santé Canada pour le florpyrauxifène-benzyle: [Décision d’homologation RD2023-08, Florpyrauxifène-benzyle, herbicide Milestone NXT, herbicide Restore NXT, herbicide GF 3206, herbicide GF 3301 pour milieux aquatiques et herbicide ProcellaCOR FX - Canada.ca](https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/rapports-publications/pesticides-lutte-antiparasitaire/decisions-mises-jour/decision-homologation/2023/florpyrauxifene-benzyle.html)
+***
 <pre>
   
 </pre>
