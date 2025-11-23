@@ -26,7 +26,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 * Lac Notre-Dame has bad milfoil. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 
-* [Information on the herbicide ProcellaCOR](/water/ProcellaCOR.md)
+* [Please review these information on the herbicide ProcellaCOR](/water/ProcellaCOR.md)
 
 #### Watch these videos to learn more about Milfoil:
 
@@ -36,7 +36,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 * Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
   
-* [Information sur l'herbicide ProcellaCOR](/water/ProcellaCOR.md)
+* [Prière de lire ces informations au sujet de l'herbicide ProcellaCOR](/water/ProcellaCOR.md)
   
 #### Regardez ces vidéos pour en apprendre plus sur le myriophylle à épis:
 
