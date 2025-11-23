@@ -36,7 +36,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 * Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
   
-* [Information surl'herbicide ProcellaCOR](/water/ProcellaCOR.md)
+* [Information sur l'herbicide ProcellaCOR](/water/ProcellaCOR.md)
   
 #### Regardez ces vidéos pour en apprendre plus sur le myriophylle à épis:
 
