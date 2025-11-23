@@ -5,7 +5,7 @@ date: 2025-11-22
 ---
 # Herbicide ProcellaCOR
 
-## ***ProcellaCOR contre le myriophylle à épis est un herbicide nécessitant un permis***
+## ***ProcellaCOR contre le myriophylle à épis est un herbicide nécessitant un permis!***
 Plusieurs propriétaires se sont demandé si ProcellaCOR pouvait être utilisé pour contrôler le myriophylle à épis. La réponse est non — pas sans permis gouvernementaux, et peut-être pas du tout.
 
 ## Des familles puisent leur eau potable de notre lac
@@ -19,7 +19,7 @@ L'association du lac n'a pas demandé de permis et ne poursuit pas cette option 
 
 * #### Pour en savoir plus: Décision d'enregistrement de Santé Canada pour le florpyrauxifène-benzyle: [Décision d’homologation RD2023-08, Florpyrauxifène-benzyle, herbicide Milestone NXT, herbicide Restore NXT, herbicide GF 3206, herbicide GF 3301 pour milieux aquatiques et herbicide ProcellaCOR FX - Canada.ca](https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/rapports-publications/pesticides-lutte-antiparasitaire/decisions-mises-jour/decision-homologation/2023/florpyrauxifene-benzyle.html)
 
-## ***ProcellaCOR for milfoil is a permit-only herbicide***
+## ***ProcellaCOR for milfoil is a permit-only herbicide!***
 Several property owners have asked whether ProcellaCOR can be used to control Eurasian milfoil. The answer is no — not without government permits, and possibly not at all.
 
 ## Families draw drinking water from our lake
