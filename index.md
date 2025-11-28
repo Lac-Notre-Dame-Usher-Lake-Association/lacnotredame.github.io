@@ -73,9 +73,11 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 ### [Algue bleu-vert - Blue-green algae](/water/bluegreen/)
 
 * If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
+  
  [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
 
 * Si vous voyez un film bleu-vert à la surface de l'eau, prenez une photo et envoyez-la à [info@lacnotredame.org](mailto:info@lacnotredame.org).
+  
  [Pour en savoir plus sur la prévention des algues bleues et sur le test du bocal](/water/bluegreen/)
 
 ### [Plan d'action pour les bernaches - Canada Goose Action Plan](/water/gooseaction/)
