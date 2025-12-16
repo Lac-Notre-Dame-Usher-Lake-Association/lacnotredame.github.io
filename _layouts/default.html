@@ -22,12 +22,10 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
       <div class="container-fluid px-0">
         <a class="navbar-brand d-flex align-items-left" href="/">
-        <p class="justified-text">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         </a> 
-        </p>
         <div class="collapse navbar-collapse" id="mainNav">
            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             {% if site.data.navigation %}
@@ -44,7 +42,9 @@
               <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/qualityreports/">Water Quality</a></li>
               <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/bluegreen/">Blue-green Algae</a></li>
               <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/gooseaction/">Goose Action</a></li>
+              <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/wildfire/">Wildfire</a></li>
               <li class="nav-item"><a class="nav-link {% if page.url == '/map/' %}active{% endif %}" href="/map/maps/">Lake Map</a></li>
+              <li class="nav-item"><a class="nav-link {% if page.url == '/about/' %}active{% endif %}" href="/about/index/">Association</a></li>
             {% endif %}
             </ul>
         </div>
