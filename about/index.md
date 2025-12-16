@@ -4,7 +4,7 @@ title: About the Association
 description: Information about the Lac Notre-Dame and Usher Lake Association, including board reports and meeting minutes
 ---
 
-# Notre association -- Our Association
+# Notre association - Our Association
 
 Bienvenue à l'Association des lacs Notre-Dame et Usher. Notre association se consacre à la préservation et à la protection de la qualité de nos lacs et de leur bassin versant.
 
