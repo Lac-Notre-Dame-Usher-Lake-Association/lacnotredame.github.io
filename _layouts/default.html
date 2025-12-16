@@ -37,6 +37,34 @@
             {% else %}
               <!-- Fallback: hard-coded links if no data file present -->
               <li class="mainNav"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a></li>
+
+<!-- Dropdown Menu -->
+              <li class="nav-item dropdown mainNav">
+                <a class="nav-link dropdown-toggle {% if page.url contains '/water/' %}active{% endif %}" href="#" id="waterDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Eau / Water
+                </a>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="waterDropdown">
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/Guidelines/' or page.url == '/water/Guidelines/index.html' %}active{% endif %}" href="/water/Guidelines/">Embarcations - Watercrafts</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/lnd-milfoil/' or page.url == '/water/lnd-milfoil/index.html' %}active{% endif %}" href="/water/lnd-milfoil/">Myriophylle - Milfoil</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/qualityreports/' or page.url == '/water/qualityreports/index.html' %}active{% endif %}" href="/water/qualityreports/">Eau - Water</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/bluegreen/' or page.url == '/water/bluegreen/index.html' %}active{% endif %}" href="/water/bluegreen/">Algues - Algae</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/gooseaction/' or page.url == '/water/gooseaction/index.html' %}active{% endif %}" href="/water/gooseaction/">Bernache - Goose</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/Wildfire/' or page.url == '/water/Wildfire/index.html' %}active{% endif %}" href="/water/Wildfire/">Feux - Wildfire</a>
+                  </li>
+                </ul>
+              </li>
+             
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/Guidelines/">Embarcations-Watercrafts</a></li>
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/lnd-milfoil/">Myriophylle-Milfoil</a></li>
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/qualityreports/">Eau-Water</a></li>
