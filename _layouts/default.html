@@ -26,20 +26,20 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         </a> 
-        <div class="collapse navbar-collapse" id="nav-item">
+        <div class="collapse navbar-collapse" id="mainNav">
            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             {% if site.data.navigation %}
               {% for item in site.data.navigation %}
-                <li class="nav-item">
+                <li class="mainNav">
                   <a class="nav-link {% if page.url == item.url or page.url == item.url | append: 'index.html' %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
                 </li>
               {% endfor %}
             {% else %}
               <!-- Fallback: hard-coded links if no data file present -->
-              <li class="nav-item"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a></li>
-              <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/Guidelines/">Embarcations-Watercrafts</a></li>
-              <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/lnd-milfoil/">Myriophylle-Milfoil</a></li>
-              <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/qualityreports/">Eau-Water</a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/Guidelines/">Embarcations-Watercrafts</a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/lnd-milfoil/">Myriophylle-Milfoil</a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/qualityreports/">Eau-Water</a></li>
               <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/bluegreen/">Algues-Algae</a></li>
               <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/gooseaction/">Bernache-Goose</a></li>
               <li class="nav-item"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/Wildfire/">Feux-Wildfire</a></li>
