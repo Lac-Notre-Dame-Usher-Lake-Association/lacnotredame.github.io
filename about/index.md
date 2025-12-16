@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About the Association
-description: Information about the Lac Notre-Dame and Usher Lake Association, including board reports and meeting minutes
+title: Association
+description: Information about the association
 ---
 
 # Notre association - Our Association
