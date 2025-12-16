@@ -36,12 +36,10 @@
               {% endfor %}
             {% else %}
               <!-- Fallback: hard-coded links if no data file present -->
-              <li class="mainNav"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a></li>
-
 <!-- Dropdown Menu -->
               <li class="nav-item dropdown mainNav">
                 <a class="nav-link dropdown-toggle {% if page.url contains '/water/' %}active{% endif %}" href="#" id="waterDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Eau / Water
+                  Menu
                 </a>
                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="waterDropdown">
                   <li>
@@ -64,7 +62,7 @@
                   </li>
                 </ul>
               </li>
-             
+              <li class="mainNav"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a></li>
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/Guidelines/">Embarcations-Watercrafts</a></li>
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/lnd-milfoil/">Myriophylle-Milfoil</a></li>
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/' %}active{% endif %}" href="/water/qualityreports/">Eau-Water</a></li>
