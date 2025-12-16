@@ -1,6 +1,6 @@
 ---
 title: ProcellaCOR
-description: Informaton on ProcellaCOR
+description: Information on ProcellaCOR
 date: 2025-11-22
 ---
 # Herbicide ProcellaCOR
