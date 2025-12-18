@@ -57,20 +57,6 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 * SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
-### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
-
-* Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
-
-* Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
-
-Version imprimable - Printable version (PDF in English & French): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
-
-### [Carte - Map of Lac Notre-Dame and Usher Lake](/map/maps/)
-
-* The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
-
-* La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
-
 ### [Algue bleu-vert - Blue-green algae](/water/bluegreen/)
 
 * If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
@@ -88,6 +74,20 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+
+### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
+
+* Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
+
+* Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
+
+Version imprimable - Printable version (PDF in English & French): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
+
+### [Carte - Map of Lac Notre-Dame and Usher Lake](/map/maps/)
+
+* The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
+
+* La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
 
 ***
 
