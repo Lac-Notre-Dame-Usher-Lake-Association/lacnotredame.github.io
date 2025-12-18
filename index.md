@@ -68,7 +68,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
-### [Gardons propre l'eau dont nous profitons - Keep the Water we Enjoy Clean](/water/keepclean/)
+### [Gardons propre l'eau dont nous profitons - Keep the Water we enjoy Clean](/water/keepclean/)
 
 * Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
 
