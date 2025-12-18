@@ -3,13 +3,12 @@ layout: default
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
 description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pêche Québec Canada
 ---
-
 ##### [Joignez l'association! --- Join the association!](/water/Association.md/)
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-### [Watercraft Guidelines - Directives relatives aux embarcations](/water/Guidelines.md/)
+### [Directives relatives aux embarcations - Watercraft Guidelines](/water/Guidelines.md/)
 
 * Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed. We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
 
@@ -45,13 +44,13 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 [Courte vidéo d’animation](https://www.youtube.com/watch?v=NER_aUiUS5U/)
 
-### [Résultats des analyses d'eau - Water testing results](/water/qualityreports/)
+### [Résultats des analyses d'eau - Water Testing Results](/water/qualityreports/)
 
 * With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
 * Avec le soutien financier de nos membres (cotisations d'adhésion et dons) et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
-### [Algue bleu-vert - Blue-green algae](/water/bluegreen/)
+### [Algue bleu-verte - Blue-green Algae](/water/bluegreen/)
 
 * If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
   
@@ -69,7 +68,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
-### [Protégeons l'eau propre dont nous profitons - Protect the clean water we enjoy](/water/keepclean/)
+### [Gardons propre l'eau dont nous profitons - Keep the Water we Enjoy Clean](/water/keepclean/)
 
 * Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
 
@@ -77,13 +76,13 @@ Version imprimable - Printable version (PDF in English & French): [Goose-Action-
 
 Version imprimable - Printable version (PDF in English & French): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
 
-### Preventing Wildfires! - Prévenir les feux de forêt!
+### Prévenir les feux de forêt! - Preventing Wildfires!
 
 * Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
 * SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
-### [Carte - Map of Lac Notre-Dame and Usher Lake](/map/maps/)
+### [Carte des lacs Notre-Dame et Usher - Map of Notre-Dame and Usher Lakes](/map/maps/)
 
 * The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
 
