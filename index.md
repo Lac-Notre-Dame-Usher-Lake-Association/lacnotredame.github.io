@@ -50,7 +50,7 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 * Avec le soutien financier de nos membres (cotisations d'adhésion et dons) et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
-### [Algue bleu-verte - Blue-green Algae](/water/bluegreen/)
+### [Algues bleu-vertes - Blue-green Algae](/water/bluegreen/)
 
 * If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
   
