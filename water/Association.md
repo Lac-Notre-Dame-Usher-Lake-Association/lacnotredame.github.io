@@ -19,5 +19,6 @@ Join the Association to help fund water testing, protect the quality of our wate
 * Members will receive 3-4 emails per year from "association@lacnotredame.org" (Check your junk mail/spams to make sure the emails didn't end up there.)
 
 ## Renouvellement pour 2025 - Renew for 2025
-* Envoyer 25 $ par Interac / Send $25 by e-transfer : [info@lacnotredame.org](mailto:info@lacnotredame.org)
-* Ou par :
+* OPTION 1 : Envoyer 25 $ par Interac / Send $25 by e-transfer : [info@lacnotredame.org](mailto:info@lacnotredame.org)
+  
+* OPTION 2 :
