@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PPTX Slide Viewer</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="css/inspector.css">
+    <link rel="stylesheet" href="css/codemirror.css">
+    <link rel="stylesheet" href="css/solarized.css">
+    <link rel="stylesheet" href="css/default.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+    <script src="js/Markdown.Converter.js"></script>
+    <script src="js/Markdown.Extra.js"></script>
+    <script src="js/codemirror.js"></script>
+    <script src="js/xml.js"></script>
+    <script src="js/active-line.js"></script>
+    <script src="js/zip.js"></script>
+    <script src="js/vkbeautify.js"></script>
+  </head>
+  <body>
+    <div id="content-wrapper">
+      <div id="content">
+          <div id="editor">
+          <form>
+            <textarea id="code" name="code"></textarea>
+          </form>
+        </div>
+        <div id="markdown">
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var editor;
+      var instructions;
+
+      var converter = new Markdown.Converter();
+      Markdown.Extra.init(converter);
+
+      var entries = {};
+      var model = (function() {
+        var URL = window.webkitURL || window.mozURL || window.URL;
+
+        return {
+          getEntries : function(file, onend) {
+            zip.createReader(new zip.BlobReader(file), function(zipReader) {
+              zipReader.getEntries(onend);
+            }, onerror);
+          },
+          getEntryFile : function(entry, onend, onprogress) {
+            var writer, zipFileEntry;
+
+            function getData() {
+              entry.getData(writer, function(content) {
+                onend(content);
+              }, onprogress);
+            }
+
+            writer = new zip.TextWriter();
+            getData();
+          }
+        };
+      })();
+
+      $(document).ready(function() {
+        if ($('#code').val().length <= 0) {
+          for (var i = 0; i < 100; i++) {
+            $('#code').val($('#code').val() + '\n');
+          }
+        }
+
+        editor = CodeMirror.fromTextArea(document.getElementById('code'), {
+          mode: 'application/xml',
+          styleActiveLine: true,
+          lineNumbers: true,
+          lineWrapping: true,
+          readOnly: true,
+          theme: 'solarized dark'
+        });
+
+        var current_file = '';
+        editor.on('cursorActivity', function(editor) {
+          var line = editor.getLine(editor.getCursor(true).line);
+          var found = line.match(/<\??\/?([\w:]+).*?>/i);
+
+          if (found && found[1]) {
+            var file = 'docs/' + found[1].replace(':', '_') + '.md';
+            if (file !== current_file) {
+              $.ajax({
+                type: 'GET',
+                url: file,
+                success: function(msg) {
+                  current_file = file;
+                  loadMarkdown(msg);
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                  current_file = '';
+                  loadMarkdown('# No documentation available yet for `<' + found[1] + '>`.' + "\n\n" + '[Why not add it with a pull request?](https://github.com/elliottcarlson/pptx-viewer)');
+                }
+              });
+            }
+          } else {
+            current_file = '';
+            loadMarkdown('# Nothing available for ' + found[1]);
+          }
+        });
+
+        zip.workerScriptsPath = 'js/';
+        var fileArr = [];
+        var tableArr = [];
+
+        window.addEventListener('dragover', function(event) {
+          if (event.originalEvent) {
+            event.event.originalEvent;
+          }
+
+          if (!event.dataTransfer) {
+            return;
+          }
+
+          var b = event.dataTransfer.effectAllowed;
+          event.dataTransfer.dropEffect = ('move' === b || 'linkMove' === b) ? 'move' : 'copy';
+
+          event.stopPropagation();
+          event.preventDefault();
+        }, false);
+
+        window.addEventListener('dragenter', function(event) {
+          if (event.preventDefault) {
+            event.preventDefault();
+          }
+          return false;
+        }, false);
+
+        window.addEventListener('drop', function(event) {
+          var files = event.dataTransfer.files;
+
+          if (files.length == 1) {
+            var entry = event.dataTransfer.items[0].webkitGetAsEntry();
+            var file = files[0];
+            var is_pptx = (file.name.match(/\.pptx/) || file.name.match(/\.ppsm/));
+
+            if (entry.isFile && is_pptx) {
+              unzip(file);
+            } else {
+              alert('Not a .pptx file!');
+            }
+
+            event.stopPropagation();
+            event.preventDefault();
+          }
+        }, false);
+
+        $.ajax({
+          type: 'GET',
+          url: 'README.md',
+          success: function(msg) {
+            instructions = msg;
+            loadMarkdown(msg);
+          },
+          error: function(xhr, ajaxOptions, thrownError) {
+            loadMarkdown('An unknown error occured.');
+          }
+        });
+      });
+
+      function loadMarkdown(content) {
+        var html = converter.makeHtml(content);
+        document.getElementById('markdown').innerHTML = html;
+      }
+
+      function loadSlide(entry) {
+        model.getEntryFile(entry, function(content) {
+          editor.setValue(vkbeautify.xml(content, 2));
+          $('#openModal').hide();
+        }, function(current, total) {
+        });
+      }
+
+      function unzip(zip) {
+        var files = [];
+
+        model.getEntries(zip, function(entries) {
+          var markdown = instructions + "\n\n" +
+          "Select a slide from the list below:\n";
+
+          entries.forEach(function(entry) {
+            if (entry.filename.match(/^ppt\/slides\/\w+\.xml$/i)) {
+              files.push(entry.filename);
+              entries[entry.filename] = entry;
+            }
+          });
+
+          files.sort();
+
+          for (i = 0; i < files.length; i++) {
+            markdown+= "\n" +
+            "> **<a href='#' data-xml='" + files[i] + "'>" + files[i] + "</a>**\n";
+          }
+
+          loadMarkdown(markdown);
+          $('a[data-xml]').click(function(event) {
+              loadSlide(entries[($(this).data('xml'))]);
+              event.preventDefault();
+          });
+        });
+      }
+    </script>
+    <a href="https://github.com/elliottcarlson/pptx-viewer"><img style="position: absolute; top: 0; right:
+    0; border: 0;"
+    src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67"
+    alt="Fork me on GitHub"
+    data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+  </body>
+</html>
