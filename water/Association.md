@@ -7,7 +7,7 @@ date: 2025-09-02
 ## Joignez notre association! -- Join our Association!
 
 <div>
-<img src="/assets/img/Winter scenes slide show.pptx" class="img-fluid py-3"/>
+<img src="/assets/img/Winter-scenes-slide-show.pptx" class="img-fluid py-3"/>
 </div>
 
 
