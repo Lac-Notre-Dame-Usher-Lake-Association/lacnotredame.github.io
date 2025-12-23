@@ -10,6 +10,11 @@ date: 2025-09-02
 <img src="/assets/img/Winter-scenes-slide-show.pptx" class="img-fluid py-3"/>
 </div>
 
+<div style="margin-bottom: 15px;">
+  <input id="fileInput" type="file" accept=".pptx" />
+  <p>Select a PowerPoint presentation (.pptx) file for preview</p>
+</div>
+<div id="pptx-wrapper" style="width: 640px; height: 360px; margin: 0 auto;"></div>
 
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association (comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle).
 
