@@ -16,6 +16,32 @@ date: 2025-09-02
 </div>
 <div id="pptx-wrapper" style="width: 640px; height: 360px; margin: 0 auto;"></div>
 
+ // import {init} from 'pptx-preview'; // NPM import
+    import { init } from 'https://esm.sh/pptx-preview@1.0.5'; // CDN import
+    // Initialize ppt previewer
+    const pptxPreviewer = init(document.getElementById('pptx-wrapper'), {
+      width: 640,
+      height: 360
+    });
+
+    // Expose to global for file input usage
+    window.pptxPreviewer = pptxPreviewer;
+
+    // Initialize event listener
+    document.getElementById("fileInput").addEventListener("change", handleFile, false);
+
+    function handleFile(event) {
+      const file = event.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = function (e) {
+          const arrayBuffer = e.target.result;
+          pptxPreviewer.preview(arrayBuffer);
+        };
+        reader.readAsArrayBuffer(file);
+      }
+    }
+  
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association (comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle).
 
 * Comment se joindre à nous? Envoyez simplement un courriel à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion.
