@@ -6,6 +6,11 @@ date: 2025-09-02
 ---
 ## Joignez notre association! -- Join our Association!
 
+<div>
+<img src="/assets/img/Winter scenes slide show.pptx" class="img-fluid py-3"/>
+</div>
+
+
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association (comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle).
 
 * Comment se joindre à nous? Envoyez simplement un courriel à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion.
