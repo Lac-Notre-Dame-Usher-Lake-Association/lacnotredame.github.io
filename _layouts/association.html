@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
-<head>
+  <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -97,8 +97,74 @@
     <main>
       {{ content }}
     </main>
+    
  <body>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Two Column Layout</title>
+<style>
+    /* Basic reset */
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
 
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        padding: 20px;
+    }
+
+    /* Flexbox container */
+    .row {
+        display: flex;
+        flex-wrap: wrap; /* Allows stacking on small screens */
+        gap: 20px; /* Space between columns */
+    }
+
+    /* Columns */
+    .column {
+        flex: 1; /* Equal width columns */
+        min-width: 250px; /* Prevents columns from getting too narrow */
+        padding: 20px;
+        background-color: #f4f4f4;
+        border: 1px solid #ccc;
+    }
+
+    /* Optional: Fallback for very old browsers (IE9 and below) */
+    @supports not (display: flex) {
+        .row {
+            display: block;
+        }
+        .column {
+            float: left;
+            width: 48%;
+            margin-right: 2%;
+        }
+        .column:last-child {
+            margin-right: 0;
+        }
+    }
+</style>
+</head>
+<body>
+
+<h1>Two Column Layout Example</h1>
+
+<div class="row">
+    <div class="column">
+        <h2>Column 1</h2>
+        <p>This is the first column. You can place text, images, or any HTML content here.</p>
+    </div>
+    <div class="column">
+        <h2>Column 2</h2>
+        <p>This is the second column. It will adjust its width automatically to match the first column.</p>
+    </div>
+</div>
+
+</body>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
