@@ -11,7 +11,7 @@ date: 2025-09-02
 </div>
 
 <div style="margin-bottom: 15px;">
-  <input id="fileInput" type="file" accept=".pptx" />
+  <input id="/assets/img/Winter-scenes-slide-show.pptx" type="file" accept=".pptx" />
   <p>Select a PowerPoint presentation (.pptx) file for preview</p>
 </div>
 <div id="pptx-wrapper" style="width: 640px; height: 360px; margin: 0 auto;"></div>
