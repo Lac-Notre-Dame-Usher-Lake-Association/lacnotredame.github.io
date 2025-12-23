@@ -5,7 +5,7 @@ description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pê
 ---
 ##### [Joignez l'association! --- Join the association!](/water/Association.md/)
 <div>
-<img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
+<img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
 
 ### [Directives relatives aux embarcations - Watercraft Guidelines](/water/Guidelines.md/)
