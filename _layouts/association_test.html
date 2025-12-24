@@ -1,1 +1,329 @@
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-0">
+      <div class="container-fluid px-0">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+          <img src="/assets/img/lacnotredame-logo.png" alt="Lac Notre-Dame logo" height="40" class="me-2">
+          <span class="h5 mb-0">{{ site.title }}</span>
+        </a>     
+      </div>
+    </nav>
+    
+<!-- Dropdown Menu -->
+ <div class="container-fluid px-0">
+        <ul class="navbar-nav me-auto"> <!-- me-auto aligns items to the left -->
+           <li class="nav-item dropdown navbarNav">
+                <a class="nav-link dropdown-toggle {% if page.url contains '/water/' %}active{% endif %}" href="#" id="waterDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                 <b> Menu </b>
+                </a>
+                <ul class="dropdown-menu me-auto dropdown-menu-lg-end" aria-labelledby="waterDropdown">
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}" href="/">Page principale - Main page</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/Guidelines/' or page.url == '/water/Guidelines/index.html' %}active{% endif %}" href="/water/Guidelines/">Directives aux embarcations - Watercraft Guidelines</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/lnd-milfoil/' or page.url == '/water/lnd-milfoil/index.html' %}active{% endif %}" href="/water/lnd-milfoil/">Contrôle du myriophylle - Milfoil Control</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/qualityreports/' or page.url == '/water/qualityreports/index.html' %}active{% endif %}" href="/water/qualityreports/">Résultats des analyses d’eau - Water Testing Results</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/bluegreen/' or page.url == '/water/bluegreen/index.html' %}active{% endif %}" href="/water/bluegreen/">Algues bleu-vertes - Blue-green Algae</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/gooseaction/' or page.url == '/water/gooseaction/index.html' %}active{% endif %}" href="/water/gooseaction/">Plan d’action pour les bernaches - Canada Goose Action Plan</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/keepclean/' or page.url == '/water/qualityreports/index.html' %}active{% endif %}" href="/water/keepclean/">Gardons l’eau propre - Keep the Water Clean</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/water/Wildfire/' or page.url == '/water/Wildfire/index.html' %}active{% endif %}" href="/water/Wildfire/">Prévenir les feux de forêt - Preventing Wildfires</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/map/maps/' or page.url == '/water/Wildfire/index.html' %}active{% endif %}" href="/map/maps/">Carte du lac- Lake Map</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item {% if page.url == '/about/Main/' or page.url == '/water/Wildfire/index.html' %}active{% endif %}" href="/about/Main/">Association</a>
+                  </li>
+                </ul>
+              </li> 
+          </ul>
+ </div>
+    
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-0">
+      <div class="container-fluid px-0">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+        </a> 
+        <div class="collapse navbar-collapse" id="navbarNav">
+           <ul class="navbar-nav me-auto mb-2 mb-lg-0"> <!-- me-auto aligns items to the left -->
+            {% if site.data.navigation %}
+              {% for item in site.data.navigation %}
+                <li class="mainNav">
+                  <a class="nav-link {% if page.url == item.url or page.url == item.url | append: 'index.html' %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+                </li>
+              {% endfor %}
+            {% else %}
+              <!-- Fallback: hard-coded links if no data file present -->
+              <li class="mainNav"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/"><b>Principale - Main</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/Guidelines/' %}active{% endif %}" href="/water/Guidelines/"><b>Embarcations - Watercrafts</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/lnd-milfoil/' %}active{% endif %}" href="/water/lnd-milfoil/"><b>Myriophylle - Milfoil</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/qualityreports/' %}active{% endif %}" href="/water/qualityreports/"><b>Qualité de l'eau - Water Quality</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/bluegreen/' %}active{% endif %}" href="/water/bluegreen/"><b>Algues bleu-vertes - Blue-green Algae</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/gooseaction/' %}active{% endif %}" href="/water/gooseaction/"><b>Bernaches - Geese</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/keepclean/' %}active{% endif %}" href="/water/keepclean/"><b>Eau propre - Clean Water</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/water/Wildfire/' %}active{% endif %}" href="/water/Wildfire/"><b>Feux - Wildfire</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/map/maps/' %}active{% endif %}" href="/map/maps/"><b>Carte du lac - Lake Map</b></a></li>
+              <li class="mainNav"><a class="nav-link {% if page.url == '/about/Main/' %}active{% endif %}" href="/about/Main/"><b>Association</b></a></li>
+            {% endif %}
+            </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- END NAVBAR -->
+    <br>
+    <main>
+      {{ content }}
+    </main>
+
+    <footer class="mt-5 py-3 text-center text-muted">
+      <p>&copy; {{ site.time | date: '%Y' }} Lac Notre-Dame and Usher Lake Association</p>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+  
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+    <div class="column">
+<!-- <div>
+<img src="/assets/img/Lac-Hiver-8.jpeg" class="img-fluid py-3"/>
+</div> -->
+</body>
+      
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+<!-- Full-width images with number and caption text -->
+<div class="mySlides fade"> 
+<img src="/assets/img/Lac-Hiver-8.jpeg" style="width:100%">
+<div class="text"><b><p style="color:black;">Lac Notre-Dame Winter Scene</p></b></div>
+</div>
+<div class="mySlides fade">
+<img src="/assets/img/Lac-Hiver-4.jpg" style="width:100%">
+<div class="text">Caption Two</div>
+</div>
+<div class="mySlides fade">
+<img src="/assets/img/Lac-Hiver-3.jpg" style="width:100%">
+<div class="text">Caption Three</div>
+</div>
+<div class="mySlides fade">
+<img src="/assets/img/Lac-Hiver-6.jpg" style="width:100%">
+<div class="text">Caption Three</div>
+</div>
+<div class="mySlides fade">
+<img src="/assets/img/Lac-Hiver-2.jpg" style="width:100%">
+<div class="text">Caption Three</div>
+</div>
+<div class="mySlides fade">
+<img src="/assets/img/Lac-Hiver-1.jpg" style="width:100%">
+<div class="text">Caption Three</div>
+</div>
+<!-- Next and previous buttons -->
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+</div>
+<!-- The dots/circles -->
+<div style="text-align:center">
+<span class="dot" onclick="currentSlide(1)"></span>
+<span class="dot" onclick="currentSlide(2)"></span>
+<span class="dot" onclick="currentSlide(3)"></span>
+<span class="dot" onclick="currentSlide(4)"></span>
+<span class="dot" onclick="currentSlide(5)"></span>
+<span class="dot" onclick="currentSlide(6)"></span>
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+let slideIndex = 0;
+showSlides();
+function showSlides() {
+let i;
+let slides = document.getElementsByClassName("mySlides");
+for (i = 0; i < slides.length; i++) {
+slides[i].style.display = "none";
+}
+slideIndex++;
+if (slideIndex > slides.length) {slideIndex = 1}
+slides[slideIndex-1].style.display = "block";
+setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+
+<body> 
+<b>
+<p><strong>Les lacs Notre-Dame et Usher sont magnifiques!</strong></p>
+<p>La beauté naturelle qui nous entoure souligne la chance que nous avons d'avoir ce petit coin de paradis et la nécessité absolue de le protéger et de le préserver.</p>
+<p>C'est précisément la mission de votre association de lac.</p>
+<p>Prenez quelques instants dès maintenant pour adhérer à l'association en signe d'engagement pour l'avenir de nos lacs!</p>
+<p><strong>Notre-Dame and Usher lakes are stunning to behold!</strong></p>
+<p>The natural beauty which surrounds us underscores how lucky we are to have this little slice of paradise and the essential need to protect and preserve it.</p>
+<p>That is precisely the mandate of your lake association.</p>
+<p>Please take a few moments right now to join the association as a gesture of care for the future of our lakes!</p>
+</b>   
+</div>
+  <div class="column">
+  <div style="position:relative;overflow:hidden;height:920px;width:100%;padding-top:450px;">
+   <iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' 
+    src='https://www.zeffy.com/embed/ticketing/lac-notre-dame-and-usher-lake-associations-memberships' allowpaymentrequest allowTransparency="true">
+   </iframe>
+  </div>
+  </div>
+</div>
+</body>
+<br>
+<body>
+<strong>Si vous préférez, vous pouvez payer vos frais d'adhésion ($25 par résidence) par Intérac à [info@lacnotredame.org](mailto:info@lacnotredame.org) ou en postant un chèque au 170 chemin du Domaine, La Pêche, QC J0X 1A0</strong>
+<br>
+<br>
+<strong>If you prefer, you can pay your membership fees ($25 per residence) by e-transfer to [info@lacnotredame.org](mailto:info@lacnotredame.org) or by mailing a cheque to 170 chemin du Domaine, La Pêche, QC J0X 1A0</strong>
+</body>
+</html>
 
