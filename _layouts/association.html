@@ -98,12 +98,27 @@
       {{ content }}
     </main>
 
-<div class="flex-container">
-    <div class="column">
-        <h2>Column One</h2>
-        <p>This is the content for the first column. It is separate from the second column.</p>
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    gap: 10px; /* Space between columns */
+    border: 2px solid black; /* The outer "frame" */
+    padding: 10px;
+  }
+  .grid-item {
+    border: 1px solid gray; /* Individual column frames */
+    padding: 20px;
+  }
+</style>  
 
-<img src="/assets/img/Lac-Hiver-8.jpeg" class="img-fluid py-3"/>
+<div class="grid-container">
+  <div class="grid-item">Column 1 Content</div>
+  <div class="grid-item">Column 2 Content</div>
+</div>
+    
+
+  <!--<img src="/assets/img/Lac-Hiver-8.jpeg" class="img-fluid py-3"/>
     </div>
     <div class="column">
         <h2>Column Two</h2>
@@ -111,7 +126,7 @@
 <img src="/assets/img/Lac-Hiver-8.jpeg" class="img-fluid py-3"/>
       
     </div>
-
+-->
     <!--     
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
