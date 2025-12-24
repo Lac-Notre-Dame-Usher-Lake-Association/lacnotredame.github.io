@@ -1,34 +1,4 @@
 <!DOCTYPE html>
-
-window.onload = function () {
-    let slides = 
-        document.getElementsByClassName('carousel-item');
-
-    function addActive(slide) {
-        slide.classList.add('active');
-    }
-
-    function removeActive(slide) {
-        slide.classList.remove('active');
-    }
-
-    addActive(slides[0]);
-    setInterval(function () {
-        for (let i = 0; i < slides.length; i++) {
-            if (i + 1 == slides.length) {
-                addActive(slides[0]);
-                setTimeout(removeActive, 350, slides[i]);
-                break;
-            }
-            if (slides[i].classList.contains('active')) {
-                setTimeout(removeActive, 350, slides[i]);
-                addActive(slides[i + 1]);
-                break;
-            }
-        }
-    }, 1500);
-};
-
 <html>
   <head>
     <title>Slideshow Images</title>
@@ -89,6 +59,7 @@ window.onload = function () {
       <span id="slide-3"></span>
       <div class="image-container">
         <img src="/assets/img/Lac-Hiver-8.jpeg" class="slide" width="500" height="300" />
+          <div class="text"><b><p style="color:black;">Lac Notre-Dame Winter Scene</p></b></div>
         <img src="/assets/img/Lac-Hiver-4.jpg" class="slide" width="500" height="300" />
         <img src="/assets/img/Lac-Hiver-3.jpg" class="slide" width="500" height="300" />
       </div>
