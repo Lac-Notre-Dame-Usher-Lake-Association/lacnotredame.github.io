@@ -105,24 +105,23 @@
     gap: 10px; /* Space between columns */
     border: 2px solid black; /* The outer "frame" */
     padding: 10px;
+    }
+    @media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+    }
   }
   .grid-item {
     border: 1px solid gray; /* Individual column frames */
     padding: 20px;
   }
-  .container {
-  display: flex;
-  flex-wrap: wrap;
-}
-.panel {
-  flex: 1 1 300px;
-}
+
 </style>  
 
 <div class="grid-container">
   <div class="grid-item">
   <img src="/assets/img/Lac-Hiver-8.jpeg" class="img-fluid py-3"/>
-  <b>
+
   <p><strong>Les lacs Notre-Dame et Usher sont magnifiques!</strong></p>
   <p>La beauté naturelle qui nous entoure souligne la chance que nous avons d'avoir ce petit coin de paradis et la nécessité absolue de le protéger et de le préserver.</p>
   <p>C'est précisément la mission de votre association de lac.</p>
@@ -131,7 +130,7 @@
   <p>The natural beauty which surrounds us underscores how lucky we are to have this little slice of paradise and the essential need to protect and preserve it.</p>
   <p>That is precisely the mandate of your lake association.</p>
   <p>Please take a few moments right now to join the association as a gesture of care for the future of our lakes!</p>
-  </b>   
+  
   </div>
 
   <div class="grid-item">
