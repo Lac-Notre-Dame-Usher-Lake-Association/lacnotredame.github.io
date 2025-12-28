@@ -16,8 +16,16 @@
   from { transform: translateX(0); }
   to { transform: translateX(-100%); }
 }
+.small-carousel {
+  max-width: 500px;
+  margin: auto;
+}
+.small-carousel .carousel-item img {
+  height: 300px;
+  object-fit: cover;
+}
 </style>
-<div class="carousel">
+<div class="carousel slide small-carousel">
   <div class="track">
     <img src="/assets/img/Lac-Hiver-8.jpeg" class="slide" width="500" height="300">
     <img src="/assets/img/Lac-Hiver-4.jpg" class="slide" width="500" height="300">
