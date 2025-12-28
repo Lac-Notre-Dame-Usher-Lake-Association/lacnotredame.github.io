@@ -2,6 +2,44 @@
 <html>
   <head>
     <title>Slideshow Images</title>
+
+<style>
+.carousel {
+  width: 600px;
+  overflow: hidden;
+}
+
+.track {
+  display: flex;
+  animation: scroll 10s linear infinite;
+}
+
+.track img {
+  width: 600px;
+}
+
+@keyframes scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-100%); }
+}
+</style>
+
+<div class="carousel">
+  <div class="track">
+    <img src="image1.jpg">
+    <img src="image2.jpg">
+    <img src="image1.jpg">
+  </div>
+</div>
+  </head>
+</html>
+
+
+/*
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Slideshow Images</title>
     <style>
       .slider {
         width: 500px;
