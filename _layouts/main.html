@@ -19,10 +19,37 @@
       </div>
     </nav>
 
-             <a href="/en/index.html">English</a>
-<a href="/fr/index.html">Français</a>
+<head>
+    <meta charset="UTF-8">
+    <title>Button Link Example</title>
+    <style>
+        /* Style the link to look like a button */
+        .btn-link {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .btn-link:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<a href="https://example.com" class="btn-link">Go to Example</a>
+
+</body>
+
     
-<button onclick="<a href="/en/index.html">English</a>">Français</button>
+             <a href="/en/index.html">English</a>
+
+    
+<button onclick="setLang('fr')">Français</button>
+    <a href="/fr/index.html">Français</a>
 <button onclick="setLang('en')">English</button>
 
 
