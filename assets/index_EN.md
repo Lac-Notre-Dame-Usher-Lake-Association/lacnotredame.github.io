@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
