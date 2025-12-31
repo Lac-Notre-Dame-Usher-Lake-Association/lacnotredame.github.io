@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
-description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pêche Québec Canada
+description: Homepage of the Association in English
 ---
 ##### [Join the association!](/water/Association.md/)
 <div>
@@ -16,13 +16,7 @@ Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map
 
 Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil - July 2025](/assets/docs/Milfoil_survey_report_E.pdf)
 
-* Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple. Il suffit d'éviter les mauvaises herbes. Nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle l'été dernier. La situation n'est pas aussi grave cette année, mais le myriophylle est toujours présent dans toutes les zones rouges. Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
-
-Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
-
-Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à épis - Juillet 2025](/assets/docs/Milfoil_survey_report_F.pdf)
-
-### [Contrôle du Myriophylle - Milfoil Control](/water/lnd-milfoil/) --- ***Restez loin des bouées! Stay clear of buoys!***
+### [Milfoil Control](/water/lnd-milfoil/) --- ***Restez loin des bouées! Stay clear of buoys!***
 
 * Lac Notre-Dame has bad milfoil. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 
@@ -34,21 +28,9 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
 
 [Short animation video (French text)](https://www.youtube.com/watch?v=NER_aUiUS5U)
 
-* Le lac Notre-Dame a des problèmes de myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
-  
-* [Notre position au sujet de l'herbicide ProcellaCOR](/water/ProcellaCOR.md)
-  
-#### Regardez ces vidéos pour en apprendre plus sur le myriophylle à épis:
-
-[La semaine verte](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
-
-[Courte vidéo d’animation](https://www.youtube.com/watch?v=NER_aUiUS5U/)
-
 ### [Water Testing Results](/water/qualityreports/)
 
 * With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
-
-* Avec le soutien financier de nos membres (cotisations d'adhésion et dons) et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
 ### [Blue-green Algae](/water/bluegreen/)
 
@@ -72,21 +54,15 @@ Version imprimable - Printable version (PDF in English & French): [Goose-Action-
 
 * Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
 
-* Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
+Printable version (Bilingual PDF): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
 
-Version imprimable - Printable version (PDF in English & French): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
-
-### Prévenir les feux de forêt! - Preventing Wildfires!
+### Preventing Wildfires!
 
 * Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
-
-* SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
 ### [Map of Notre-Dame and Usher Lakes](/map/maps/)
 
 * The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
-
-* La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
 
 ***
 
@@ -96,9 +72,3 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
-
-###### [--](/Test.md/) 
-
-###### [----](/index_MAIN.md/) 
-
-
