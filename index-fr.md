@@ -54,7 +54,7 @@ description: Page principale de l'association en francais
 
 * SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
-### [Carte des lacs Notre-Dame et Usher](/map/maps/)
+### [Carte des lacs Notre-Dame et Usher](/map/map-fr/)
 
 * La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
 
