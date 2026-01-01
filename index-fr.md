@@ -24,56 +24,45 @@ Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à 
   
 #### Regardez ces vidéos pour en apprendre plus sur le myriophylle à épis:
 
-[La semaine verte](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
+* [La semaine verte](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
 
-[Courte vidéo d’animation](https://www.youtube.com/watch?v=NER_aUiUS5U/)
+* [Courte vidéo d’animation](https://www.youtube.com/watch?v=NER_aUiUS5U/)
 
 ### [Résultats des analyses d'eau](/water/qualityreports/)
 
-* Avec le soutien financier de nos membres (cotisations d'adhésion et dons) et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
+* Avec le soutien financier de nos membres (cotisations d'adhésion et dons) et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), nous analysons des échantillons d'eau des lacs au début du mois d'août. Merci à tous pour votre soutien !
 
 ### [Algues bleu-vertes](/water/bluegreen/)
 
 * Si vous voyez un film bleu-vert à la surface de l'eau, prenez une photo et envoyez-la à [info@lacnotredame.org](mailto:info@lacnotredame.org).
   
- [Pour en savoir plus sur la prévention des algues bleues et sur le test du bocal](/water/bluegreen/)
+* [Pour en savoir plus sur la prévention des algues bleues et sur le test du bocal](/water/bluegreen/)
 
 ### [Plan d'action pour les bernaches](/water/gooseaction/)
 
 * Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
-Version imprimable - (PDF bilingue): [Plan d'action pour les bernaches](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+* Version imprimable (PDF bilingue): [Plan d'action pour les bernaches](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
 ### [Gardons propre l'eau dont nous profitons](/water/keepclean/)
 
 * Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
-Version imprimable - Printable version (PDF in English & French): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
+* Version imprimable (PDF bilingue): [Eau propre](/assets/docs/LacBinderPage-EN-FR.pdf)
 
-### Prévenir les feux de forêt! - Preventing Wildfires!
-
-* Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
+### Prévenir les feux de forêt!
 
 * SVP consulter le [Guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) et le [Site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
-### [Carte des lacs Notre-Dame et Usher - Map of Notre-Dame and Usher Lakes](/map/maps/)
-
-* The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
+### [Carte des lacs Notre-Dame et Usher](/map/maps/)
 
 * La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
 
 ***
 
-##### [Mandat de l'association - Association's Mandate](/about/about.md/) 
-##### [Membres du Conseil - Board Members](/about/BoardMembers.md/)
-##### [Rapports annuels du Conseil - Yearly Board Reports](/about/BoardReports.md/)
+##### [Mandat de l'association](/about/about.md/) 
+##### [Membres du Conseil](/about/BoardMembers.md/)
+##### [Rapports annuels du Conseil](/about/BoardReports.md/)
 ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
-
-###### [--](/Test.md/) 
-
-###### [----](/index_MAIN.md/) 
-
-
-
