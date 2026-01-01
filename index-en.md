@@ -36,7 +36,7 @@ description: Homepage of the Association in English
 
 * If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
   
- [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
+ * [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
 
 ### [Canada Goose Action Plan](/water/gooseaction/)
 
