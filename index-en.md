@@ -12,9 +12,9 @@ description: Homepage of the Association in English
 
 * Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed. We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
 
-Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map_English.pdf)
+* Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map_English.pdf)
 
-Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil - July 2025](/assets/docs/Milfoil_survey_report_E.pdf)
+* Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil - July 2025](/assets/docs/Milfoil_survey_report_E.pdf)
 
 ### [Milfoil Control](/water/lnd-milfoil/) --- ***Stay clear of buoys!***
 
