@@ -54,7 +54,7 @@ description: Homepage of the Association in English
 
 * Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
-### [Map of Notre-Dame and Usher Lakes](/map/maps/)
+### [Map of Notre-Dame and Usher Lakes](/map/map-en/)
 
 * The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
 
