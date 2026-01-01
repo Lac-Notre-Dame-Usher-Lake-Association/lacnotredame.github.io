@@ -38,23 +38,17 @@ Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil
   
  [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
 
-* Si vous voyez un film bleu-vert à la surface de l'eau, prenez une photo et envoyez-la à [info@lacnotredame.org](mailto:info@lacnotredame.org).
-  
- [Pour en savoir plus sur la prévention des algues bleues et sur le test du bocal](/water/bluegreen/)
-
 ### [Canada Goose Action Plan](/water/gooseaction/)
 
 * A grass lawn near the shore attracts geese and goose poop. Naturalize your shoreline to prevent contamination and erosion.
 
-* Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
-
-Version imprimable - Printable version (PDF in English & French): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+* Printable version (Bilingual PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
 ### [Keep the Water we enjoy Clean](/water/keepclean/)
 
 * Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
 
-Printable version (Bilingual PDF): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
+* Printable version (Bilingual PDF): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
 
 ### Preventing Wildfires!
 
