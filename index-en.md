@@ -16,7 +16,7 @@ Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map
 
 Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil - July 2025](/assets/docs/Milfoil_survey_report_E.pdf)
 
-### [Milfoil Control](/water/lnd-milfoil/) --- ***Restez loin des bouées! Stay clear of buoys!***
+### [Milfoil Control](/water/lnd-milfoil/) --- ***Stay clear of buoys!***
 
 * Lac Notre-Dame has bad milfoil. We placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 
@@ -24,9 +24,9 @@ Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil
 
 #### Watch these videos to learn more about Milfoil:
 
-[La semaine verte (English audio available under Parameters)](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
+* [La semaine verte (English audio available under Parameters)](https://www.youtube.com/watch?v=lHdjJ0dmTpo)
 
-[Short animation video (French text)](https://www.youtube.com/watch?v=NER_aUiUS5U)
+* [Short animation video (French text)](https://www.youtube.com/watch?v=NER_aUiUS5U)
 
 ### [Water Testing Results](/water/qualityreports/)
 
