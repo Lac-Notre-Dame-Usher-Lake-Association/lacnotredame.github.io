@@ -1,8 +1,7 @@
 ---
 title: Lac Notre-Dame et Usher Association
-description: About Lac Notre-Dame and Usher Lake Association
+description: About Lac Notre-Dame and Usher Lake Association - English page
 date: 2021-03-22T13:10:52-05:00 (updated 2025-09-08)
-basepath: main index.html
 ---
 
 ## The Association and What We Do
