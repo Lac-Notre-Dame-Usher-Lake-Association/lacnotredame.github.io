@@ -7,7 +7,7 @@
 * Graeme Simpson,  member since 2022
 * William Hébert,  member since 2024
 * Jim Thompson, member since 2024
-* Martin Croteau, member since 2025
+* Martin Croteau, Webmaster, member since 2025
 
 Please note that current bylaws require board members to serve for a maximum of 6 years.
 
