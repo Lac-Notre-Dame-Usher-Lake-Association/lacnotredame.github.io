@@ -15,35 +15,33 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 
 2. L'élection des administrateurs lors de l'assemblée générale annuelle des membres peut se faire à main levée, mais si le nombre d'administrateurs nommés et candidats à l'élection est supérieur au nombre requis, le vote se fait à bulletin secret. Les membres de l'Association peuvent, par résolution adoptée par au moins deux tiers (67 %) des voix exprimées lors d'une assemblée des membres ayant reçu un avis spécifiant l'intention d'adopter une telle résolution, révoquer tout administrateur avant l'expiration de son mandat et peuvent, à la majorité des voix exprimées lors de l'assemblée, élire une personne à sa place pour la durée restante de son mandat.
 
-3. Les administrateurs s'efforcent d'atteindre les objectifs de l'Association.  
-"Promouvoir, protéger et préserver la qualité environnementale des lacs et du bassin versant, pour l'usage et le plaisir de tous.
+3. Les administrateurs s'efforcent d'atteindre les objectifs de l'Association: "Promouvoir, protéger et préserver la qualité environnementale des lacs et du bassin versant, pour l'usage et le plaisir de tous.
 ***
 
 ### Objectifs et mandat de l'association
 
-1. d'établir et de gérer une association sans but lucratif au profit des membres qui sont propriétaires ou utilisateurs de biens situés sur les lacs ou à proximité, dans le but de surveiller la qualité de l'eau et les conditions affectant l'environnement des lacs et de contribuer au maintien et à l'amélioration du bien-être de l'environnement local et de la qualité de la vie sur les lacs pour les résidents saisonniers et permanents ;
+1. Établir et de gérer une association sans but lucratif au profit des membres qui sont propriétaires ou utilisateurs de biens situés sur les lacs ou à proximité, dans le but de surveiller la qualité de l'eau et les conditions affectant l'environnement des lacs et de contribuer au maintien et à l'amélioration du bien-être de l'environnement local et de la qualité de la vie sur les lacs pour les résidents saisonniers et permanents.
 
-2. acquérir une connaissance approfondie des lacs, de leurs systèmes et des bassins versants associés dans le but de promouvoir leur protection et leur préservation ;
+2. Acquérir une connaissance approfondie des lacs, de leurs systèmes et des bassins versants associés dans le but de promouvoir leur protection et leur préservation.
 
-3. favoriser la prise de conscience de l'importance et des techniques de maintien et d'amélioration de la qualité des lacs et fournir un forum pour l'échange d'informations et d'expériences sur les aspects scientifiques, administratifs, juridiques et financiers de la gestion des lacs, des zones humides et des bassins versants ;
+3. Favoriser la prise de conscience de l'importance et des techniques de maintien et d'amélioration de la qualité des lacs et fournir un forum pour l'échange d'informations et d'expériences sur les aspects scientifiques, administratifs, juridiques et financiers de la gestion des lacs, des zones humides et des bassins versants.
 
-4. surveiller tous les facteurs qui pourraient avoir un impact négatif sur la qualité de l'eau des lacs et mettre en oeuvre des mesures destinées à maintenir et à améliorer l'environnement des lacs et de leur bassin versant ;
+4. Surveiller tous les facteurs qui pourraient avoir un impact négatif sur la qualité de l'eau des lacs et mettre en oeuvre des mesures destinées à maintenir et à améliorer l'environnement des lacs et de leur bassin versant.
 
-5. organiser et promouvoir des activités sociales, éducatives et de collecte de fonds qui bénéficieront à la qualité des lacs, à l'environnement du bassin versant des lacs et/ou à l'Association et aux utilisateurs des lacs ;
+5. Organiser et promouvoir des activités sociales, éducatives et de collecte de fonds qui bénéficieront à la qualité des lacs, à l'environnement du bassin versant des lacs et/ou à l'Association et aux utilisateurs des lacs.
 
-6. favoriser l'élaboration de programmes de restauration et de protection des lacs conformément aux stratégies et techniques de gestion appropriées ;
+6. Favoriser l'élaboration de programmes de restauration et de protection des lacs conformément aux stratégies et techniques de gestion appropriées.
 
-7. communiquer avec les agences gouvernementales et privées et solliciter leur assistance et leur participation au nom des membres, si cela est nécessaire à la réalisation de la mission et des objectifs de l'Association
+7. Communiquer avec les agences gouvernementales et privées et solliciter leur assistance et leur participation au nom des membres, si cela est nécessaire à la réalisation de la mission et des objectifs de l'Association.
 
-8. recevoir des biens immobiliers ou personnels, des subventions, des dons, des héritages et d'autres contributions monétaires de nature similaire (collectivement, les "dons") et administrer ces dons, organiser des activités de collecte de fonds dans le but d'atteindre les objectifs de l'Association ;
+8. Recevoir des biens immobiliers ou personnels, des subventions, des dons, des héritages et d'autres contributions monétaires de nature similaire (collectivement, les "dons") et administrer ces dons, organiser des activités de collecte de fonds dans le but d'atteindre les objectifs de l'Association.
 
-9. d'une manière générale, poursuivre la réalisation des objectifs de l'Association.
+9. D'une manière générale, poursuivre la réalisation des objectifs de l'Association.
 ***
-### Legal Documents - Documents légals
+### Documents légals
 
 * [Constitution (PDF)](../assets/docs/Association_Constitution.pdf) 
 
 * [Bylaws (PDF)](../assets/docs/Association_By-Laws_en.pdf)
 
 * [Lettres Patentes (PDF)](../assets/docs/Lettres_patentes.pdf)
-
