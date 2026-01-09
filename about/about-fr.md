@@ -15,7 +15,9 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 
 2. L'élection des administrateurs lors de l'assemblée générale annuelle des membres peut se faire à main levée, mais si le nombre d'administrateurs nommés et candidats à l'élection est supérieur au nombre requis, le vote se fait à bulletin secret. Les membres de l'Association peuvent, par résolution adoptée par au moins deux tiers (67 %) des voix exprimées lors d'une assemblée des membres ayant reçu un avis spécifiant l'intention d'adopter une telle résolution, révoquer tout administrateur avant l'expiration de son mandat et peuvent, à la majorité des voix exprimées lors de l'assemblée, élire une personne à sa place pour la durée restante de son mandat.
 
-3. Les administrateurs s'efforcent d'atteindre les objectifs de l'Association: "Promouvoir, protéger et préserver la qualité environnementale des lacs et du bassin versant, pour l'usage et le plaisir de tous.
+3. Les administrateurs s'efforcent d'atteindre les objectifs de l'Association: "Promouvoir, protéger et préserver la qualité environnementale des lacs et du bassin versant, pour l'usage et le plaisir de tous. Chaque directeur doit agir sur les affaires du Conseil de manière réfléchie, consciencieuse, financièrement responsable et transparente. Il est attendu des Directeurs qu’ils jouent un rôle actif dans la promotion et le développement des Objectifs de l’Association. Chaque Directeur, à l’exception du Président et du Vice-Président, doit servir de liaison pour un secteur spécifique des Lacs, et ses responsabilités incluront la coordination des activités et des communications entre l’Association et ses membres du secteur qu’il représente.
+
+4. Le Conseil devrait, dans la mesure du possible, inclure une représentation de tous les secteurs du Lac Notre-Dame ainsi qu’au moins un représentant du Lac Usher.
 ***
 
 ### Objectifs et mandat de l'association
