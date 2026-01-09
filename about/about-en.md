@@ -15,11 +15,10 @@ The mission of the Association is to promote, protect and preserve the quality o
 
 2. The election of Directors at the Annual General Meeting of members may be by a show of hands, but if more than the required number of Directors are nominated and stand for election, the vote shall be conducted by secret ballot. The members of the Association may, by resolution passed by at least two-thirds (67%) of the votes cast at a Meeting of members of which notice specifying the intention to pass such a resolution has been given, remove any Director before the expiration of his/her term of office, and may, by a majority of the votes cast at the meeting, elect a person in his/her stead for the remainder of his/her term.
 
-3. The Directors shall strive to achieve the Objectives of the Association.  
-"to promote, protect and preserve the environmental quality of the lakes and the watershed, for the use and enjoyment of everyone."
+3. The Directors shall strive to achieve the Objectives of the Association: "To promote, protect and preserve the environmental quality of the lakes and the watershed, for the use and enjoyment of everyone."
 Each Director shall act upon the business of the Board in a thoughtful, conscientious, financially-responsible and transparent manner. Directors are expected to take an active role in the promotion and development of the Objectives of the Association.  Each Director, excluding the President and Vice President, shall serve as a liaison for a specific area of the Lakes, and his/her responsibilities shall include coordinating activities and communications between the Association and its members of the sector he/she represents.
 
-3.4 The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
+4. The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
 ### Objectives and Mandate of the Association
 
