@@ -3,7 +3,7 @@ layout: default-fr
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
 description: Page principale de l'association en francais
 ---
-##### [Joignez l'association!](/water/Association.md/)
+##### [Joignez l'association!](/water/Association-fr.md/)
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
