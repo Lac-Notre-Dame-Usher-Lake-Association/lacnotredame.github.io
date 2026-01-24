@@ -95,7 +95,7 @@ Menu item 5 - Wildfires
 ##### [Board Members](/about/BoardMembers.md/)
 ##### [Yearly Board Reports](/about/BoardReports.md/)
 ##### [Join Us](/water/association-en.md/)
-##### Contact us by email : info@lacnotredame.org
+##### [Contact us by email:](info@lacnotredame.org)
 ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
