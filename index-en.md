@@ -4,9 +4,6 @@ title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Assoc
 description: Homepage of the Association in English
 ---
 
-Welcome!  
-Read all about the priorities and activities of the Lac Notre-Dame and Usher Lake Association in the links below.
-Menu item 1 - If you haven’t already, please join the Lake Association!
 Menu item 2 - Milfoil
 •	What is Milfoil and why is it bad?
 •	Are herbicides the solution? The answer is NO!
@@ -22,21 +19,24 @@ Menu item 3 - Water Quality
 Menu item 4 - Blue Green Algae
 Menu item 5 - Wildfires
 •	When and when not to burn
-Menu item 6 - About the Association
-•	Mandat de l’association - Association’s Mandate
-•	Membres du Conseil - Board Members
-•	Rapports annuels du Conseil - Yearly Board Reports
-•	Join
-•	Contact
 
 
-
-
-
-##### [Join the association!](/water/Association.md/)
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
+
+## Welcome! Read all about the priorities and activities of the Notre-Dame and Usher Lakes Association in the links below.
+
+### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
+
+### Milfoil
+
+•	What is Milfoil and why is it bad?
+•	Are herbicides the solution? The answer is NO!
+•	Please follow Watercraft Guidelines to slow the spread of milfoil
+•	Steer clear of the yellow buoys
+•	Restore your shoreline to its natural state
+•	Provincial Rules and Regulations
 
 ### [Watercraft Guidelines](/water/Guidelines.md/)
 
@@ -90,9 +90,12 @@ Menu item 6 - About the Association
 
 ***
 
+### About the Association
 ##### [Association's Mandate](/about/about.md/) 
 ##### [Board Members](/about/BoardMembers.md/)
 ##### [Yearly Board Reports](/about/BoardReports.md/)
+##### [Join Us](/water/association-en.md/)
+##### Contact us by email : info@lacnotredame.org
 ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
