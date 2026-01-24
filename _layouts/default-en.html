@@ -21,11 +21,41 @@
       </div>
     </nav>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  This is a scrolling banner using the deprecated marquee tag!
-</marquee>
+<head>
+<meta charset="UTF-8">
+<title>Rolling Banner</title>
+<style>
+  .banner {
+    width: 100%;
+    overflow: hidden;
+    background: #111;
+    color: white;
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+  }
 
+  .scroll {
+    display: inline-block;
+    white-space: nowrap;
+    padding-left: 100%;
+    animation: scroll 12s linear infinite;
+  }
 
+  @keyframes scroll {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-100%); }
+  }
+</style>
+</head>
+<body>
+
+<div class="banner">
+  <div class="scroll">
+    🚀 This is a rolling banner — easy, clean, and modern!
+  </div>
+</div>
+
+</body>
     
 <!-- Dropdown Menu -->
  <div class="container-fluid px-0">
