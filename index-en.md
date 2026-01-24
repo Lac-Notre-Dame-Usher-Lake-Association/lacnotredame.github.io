@@ -4,21 +4,9 @@ title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Assoc
 description: Homepage of the Association in English
 ---
 
-Menu item 2 - Milfoil
-•	What is Milfoil and why is it bad?
-•	Are herbicides the solution? The answer is NO!
-•	Please follow Watercraft Guidelines to slow the spread of milfoil
-•	Steer clear of the yellow buoys
-•	Restore your shoreline to its natural state
-•	Provincial Rules and Regulations
-Menu item 3 - Water Quality
-•	Annual Test Results 
-•	Testing locations (map)
-•	Tips to Keep the Lake clean
-•	Goose Action Plan
+
 Menu item 4 - Blue Green Algae
-Menu item 5 - Wildfires
-•	When and when not to burn
+
 
 
 <div>
@@ -37,6 +25,14 @@ Menu item 5 - Wildfires
 •	Steer clear of the yellow buoys
 •	Restore your shoreline to its natural state
 •	Provincial Rules and Regulations
+
+
+### Water Quality
+•	Annual Test Results 
+•	Testing locations (map)
+•	Tips to Keep the Lake clean
+•	Goose Action Plan
+
 
 ### [Watercraft Guidelines](/water/Guidelines.md/)
 
@@ -79,10 +75,10 @@ Menu item 5 - Wildfires
 * Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
 
 * Printable version (Bilingual PDF): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
+### Blue Green Algae [Blue-green Algae](/water/bluegreen/)
 
-### Preventing Wildfires!
-
-* Please consult [Municipalité de La Pêche's Guide for Outdoor Fires](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) and [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
+### Wildfires
+##### [Know when and when not to burn](/water/wildfires-en.md/)
 
 ### [Map of Notre-Dame and Usher Lakes](/map/map-en/)
 
@@ -95,7 +91,7 @@ Menu item 5 - Wildfires
 ##### [Board Members](/about/BoardMembers.md/)
 ##### [Yearly Board Reports](/about/BoardReports.md/)
 ##### [Join Us](/water/association-en.md/)
-##### [Contact us by email:](info@lacnotredame.org)
+##### Contact us by email: [info@lacnotredame.org](mailto:info@lacnotredame.org)
 ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
