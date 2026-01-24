@@ -3,6 +3,36 @@ layout: default
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
 description: Homepage of the Association in English
 ---
+
+Welcome!  
+Read all about the priorities and activities of the Lac Notre-Dame and Usher Lake Association in the links below.
+Menu item 1 - If you haven’t already, please join the Lake Association!
+Menu item 2 - Milfoil
+•	What is Milfoil and why is it bad?
+•	Are herbicides the solution? The answer is NO!
+•	Please follow Watercraft Guidelines to slow the spread of milfoil
+•	Steer clear of the yellow buoys
+•	Restore your shoreline to its natural state
+•	Provincial Rules and Regulations
+Menu item 3 - Water Quality
+•	Annual Test Results 
+•	Testing locations (map)
+•	Tips to Keep the Lake clean
+•	Goose Action Plan
+Menu item 4 - Blue Green Algae
+Menu item 5 - Wildfires
+•	When and when not to burn
+Menu item 6 - About the Association
+•	Mandat de l’association - Association’s Mandate
+•	Membres du Conseil - Board Members
+•	Rapports annuels du Conseil - Yearly Board Reports
+•	Join
+•	Contact
+
+
+
+
+
 ##### [Join the association!](/water/Association.md/)
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
