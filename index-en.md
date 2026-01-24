@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-en
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
 description: Homepage of the Association in English
 ---
