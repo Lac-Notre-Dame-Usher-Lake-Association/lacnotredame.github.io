@@ -24,9 +24,9 @@ description: Homepage of the Association in English
 
 ### Water Quality
 #### [Annual Test Results](/water/qualityreports-en.md/)
-#### Testing locations (map) [Map of Notre-Dame and Usher Lakes](/map/map-en/)
-•	Tips to Keep the Lake clean
-•	Goose Action Plan
+#### [Map of testing locations](/map/map-en/)
+####	Tips to Keep the Lake clean
+####	Goose Action Plan [Canada Goose Action Plan](/water/gooseaction/)
 
 
 ### [Milfoil Control](/water/lnd-milfoil/) --- ***Stay clear of buoys!***
