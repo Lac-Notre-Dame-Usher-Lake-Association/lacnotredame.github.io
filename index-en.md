@@ -16,15 +16,15 @@ description: Homepage of the Association in English
 
 •	What is Milfoil and why is it bad?
 •	Are herbicides the solution? The answer is NO!
-•	[Please follow Watercraft Guidelines to slow the spread of milfoil](/water/guidelines-en.md/)
+*	[Please follow Watercraft Guidelines to slow the spread of milfoil](/water/guidelines-en.md/)
 •	Steer clear of the yellow buoys
 •	Restore your shoreline to its natural state
 •	Provincial Rules and Regulations
 
 
 ### Water Quality
-•	Annual Test Results 
-•	Testing locations (map)
+#### [Annual Test Results](/water/qualityreports-en.md/)
+#### Testing locations (map) [Map of Notre-Dame and Usher Lakes](/map/map-en/)
 •	Tips to Keep the Lake clean
 •	Goose Action Plan
 
@@ -67,7 +67,7 @@ description: Homepage of the Association in English
 ### Wildfires
 ##### [Know when and when not to burn](/water/wildfires-en.md/)
 
-### [Map of Notre-Dame and Usher Lakes](/map/map-en/)
+
 
 * The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
 
