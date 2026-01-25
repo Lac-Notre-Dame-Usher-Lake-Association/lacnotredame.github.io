@@ -4,11 +4,6 @@ title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Assoc
 description: Homepage of the Association in English
 ---
 
-
-Menu item 4 - Blue Green Algae
-
-
-
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
@@ -21,7 +16,7 @@ Menu item 4 - Blue Green Algae
 
 •	What is Milfoil and why is it bad?
 •	Are herbicides the solution? The answer is NO!
-•	Please follow Watercraft Guidelines to slow the spread of milfoil
+•	[Please follow Watercraft Guidelines to slow the spread of milfoil](/water/guidelines-en.md/)
 •	Steer clear of the yellow buoys
 •	Restore your shoreline to its natural state
 •	Provincial Rules and Regulations
@@ -33,14 +28,6 @@ Menu item 4 - Blue Green Algae
 •	Tips to Keep the Lake clean
 •	Goose Action Plan
 
-
-### [Watercraft Guidelines](/water/Guidelines.md/)
-
-* Following consultation with residents, the Lake Association has adopted Watercraft Guidelines designed to prevent the spread of milfoil on the lake. It’s simple. Just steer clear of the weed. We just knocked on every door around the lake to drop off a durable copy of the Guidelines Map which was produced to show the extent of milfoil coverage last summer. It’s not as bad this year, but it is still present in all of the red zones. Please stay out of the Red Zones, follow all of the Guidelines and keep clear of the buoys.
-
-* Printable version (PDF): [Watercraft Guidelines](/assets/img/maps/Guidelines_Map_English.pdf)
-
-* Printable version (PDF): [Resident Consultation Survey on Eurasian Water Milfoil - July 2025](/assets/docs/Milfoil_survey_report_E.pdf)
 
 ### [Milfoil Control](/water/lnd-milfoil/) --- ***Stay clear of buoys!***
 
