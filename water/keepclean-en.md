@@ -5,9 +5,6 @@ date: 2017-12-29T13:10:52-05:00
 ---
 ## Tips to keep our water clean
 
-* Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
-* Printable version (Bilingual PDF): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
-
 ### It’s not a garden – don't dump ashes, fertilizer, or anything at all into the lake.
 
 * Do cut then remove the invasive Eurasian milfoil. Avoid pulling up weeds or doing anything to stir up the sediments on the bottom.
