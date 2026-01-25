@@ -25,7 +25,7 @@ description: Homepage of the Association in English
 ### Water Quality
 #### [Annual Test Results](/water/qualityreports-en.md/)
 #### [Map of testing locations](/map/map-en/)
-####	Tips to Keep the Lake clean
+####	Tips to Keep the Lake clean  [Keep the Water we enjoy Clean](/water/keepclean/)
 #### [Canada Goose Action Plan](/water/gooseaction/)
 
 
@@ -41,9 +41,7 @@ description: Homepage of the Association in English
 
 * [Short animation video (French text)](https://www.youtube.com/watch?v=NER_aUiUS5U)
 
-### [Water Testing Results](/water/qualityreports/)
 
-* With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
 ### [Blue-green Algae](/water/bluegreen/)
 
@@ -61,20 +59,16 @@ description: Homepage of the Association in English
 ### Blue Green Algae [Blue-green Algae](/water/bluegreen/)
 
 ### Wildfires
-##### [Know when and when not to burn](/water/wildfires-en.md/)
-
-
-
-* The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
+#### [Know when and when not to burn](/water/wildfires-en.md/)
 
 ***
 
 ### About the Association
-##### [Association's Mandate](/about/about.md/) 
-##### [Board Members](/about/BoardMembers.md/)
-##### [Yearly Board Reports](/about/BoardReports.md/)
-##### [Join Us](/water/association-en.md/)
-##### Contact us by email: [info@lacnotredame.org](mailto:info@lacnotredame.org)
-##### Facebook: [Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
+#### [Association's Mandate](/about/about.md/) 
+#### [Board Members](/about/BoardMembers.md/)
+#### [Yearly Board Reports](/about/BoardReports.md/)
+#### [Join Us](/water/association-en.md/)
+#### Contact us by email: [info@lacnotredame.org](mailto:info@lacnotredame.org)
+#### Facebook: [Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
