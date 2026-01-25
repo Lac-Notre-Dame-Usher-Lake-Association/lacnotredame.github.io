@@ -5,8 +5,9 @@ date: 2019-08-23T13:10:52-05:00
 ---
 # Goose Action Plan
 
-In 2018, a flock of over 20 geese established themselves on the lake. In 2019 the flock is smaller – 4 adults and 5 goslings. An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. We’ve created an action plan for the lake to minimize the damage.
-Some lake owners with lawns near the water are having some success at keeping the geese away from their favourite food: the grass.  Take these steps to keep the geese off your property.
+* An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property.
+* Some lake owners with lawns near the water are having some success at keeping the geese away from their favourite food: the grass.
+* We’ve created an action plan for the lake to minimize the damage. Take these steps to keep the geese off your property.
 
 ### 1. NATURALIZE YOUR SHORELINE
 
@@ -26,3 +27,5 @@ Some lake owners with lawns near the water are having some success at keeping th
 * The adults are likely to leave early in the Spring, before they moult, if their nesting is not successful.
 * We searched for nests in May and early June but they were well hidden – two nests did succeed this year. Please watch for them next spring – the male goose stands sentinel.
 * Contact us at [info@lacnotredame.org](mailto:info@lacnotredame.org) for help if you spot a nest and want help.
+
+### Printable version (Bilingual PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
