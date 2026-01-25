@@ -24,9 +24,9 @@ description: Homepage of the Association in English
 
 ### Water Quality
 #### [Annual Test Results](/water/qualityreports-en.md/)
-#### [Map of testing locations](/map/map-en/)
-####	Tips to Keep the Lake clean  [Keep the Water we enjoy Clean](/water/keepclean/)
-#### [Canada Goose Action Plan](/water/gooseaction/)
+#### [Map of testing locations](/map/map-en.md/)
+#### [Tips to keep the lake clean](/water/keepclean-en.md/)
+#### [Canada Goose Action Plan](/water/gooseaction-en.md/)
 
 
 ### [Milfoil Control](/water/lnd-milfoil/) --- ***Stay clear of buoys!***
@@ -49,13 +49,6 @@ description: Homepage of the Association in English
   
  * [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
 
-
-
-### [Keep the Water we enjoy Clean](/water/keepclean/)
-
-* Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available.
-
-* Printable version (Bilingual PDF): [Clean Water](/assets/docs/LacBinderPage-EN-FR.pdf)
 ### Blue Green Algae [Blue-green Algae](/water/bluegreen/)
 
 ### Wildfires
