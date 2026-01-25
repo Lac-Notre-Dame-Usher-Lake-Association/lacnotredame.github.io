@@ -4,33 +4,33 @@ description: Lac Notre Dame water testing results, English version
 date: 2023-09-12T13:10:52-05:00
 ---
 
-# Water testing results 
+## Water testing results 
 
-Water samples are collected every year at the locations on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
+* With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
-## Lac Notre Dame August 12, 2025 summary
+### Lac Notre Dame August 12, 2025 summary
 
 * Good news! The water this summer in Lac Notre Dame is very clean and healthy. E-coli at all locations is either below or just at detectable levels. 
 * Nitrogen  and phosphorus levels continue to be in the 'healthy' range with little change over the last 20+ years in these nutrients. Keep up the good work everyone on maintaining your septic systems, no fertilizer use,  and naturalizing your shorelines to reduce erosion and filter the run-off! 
 * The rain and high water levels in June and July reduced the light reaching the milfoil - there are very few mats on the surface and less growth, even in shallow areas. Water clarity is considerably higher than last year in 2024, signalling less nutrients in the water to feed milfoil and algae. 
 * Thank you to volunteers Lisa Fast, Denis Corbeil and Carole Doré for collecting and delivering the water samples to the lab. 
 
-## Usher Lake August 12, 2025 summary  
+### Usher Lake August 12, 2025 summary  
 * Usher has better results than previous years. Bacteria levels, with higher e-coli  of 60 CFU [at location 10](https://lacnotredame.org/map/maps/). That is well below the 200 CFU limit for safe swimming. 
 
 Usher's nitrogen and phosphorus levels are expected given the small size of Usher, but do increase the risk of toxic Blue-Green Algae. 
 
-## View spreadsheet of water testing results by map location
+### View spreadsheet of water testing results by map location
 
 * [All water testing results by date and location for E-coli, phosphates and nitrogen from 2005 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
-To understand the in-depth results, these [Canadian Water Quality Guidelines for the Protection of Aquatic Life](/assets/docs/water/water_quality_guidelines.pdf) provide some target levels.
+* To understand the in-depth results, these [Canadian Water Quality Guidelines for the Protection of Aquatic Life](/assets/docs/water/water_quality_guidelines.pdf) provide some target levels.
 
-Association volunteers collect water samples at specific locations where water enters and exits the lakes. Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
+* Association volunteers collect water samples at specific locations where water enters and exits the lakes. Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
 
-* [Map of water testing locations](/map/maps/).
+* [Map of water testing locations](/map/map-en.md/).
 
-## Understanding water testing results
+### Understanding water testing results
 
 **E.coli bacterium - target levels below 10**. E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 200 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
 
@@ -46,7 +46,7 @@ Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. Lac Notre Dame has never had readings of less than 3 meters but some years readings are below 4m. 
 
-## 2014 ABV-7 Report and recommendations
+### 2014 ABV-7 Report and recommendations
 
 In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre Dame. The report is in French.
 
