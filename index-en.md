@@ -26,7 +26,7 @@ description: Homepage of the Association in English
 #### [Annual Test Results](/water/qualityreports-en.md/)
 #### [Map of testing locations](/map/map-en/)
 ####	Tips to Keep the Lake clean
-####	Goose Action Plan [Canada Goose Action Plan](/water/gooseaction/)
+#### [Canada Goose Action Plan](/water/gooseaction/)
 
 
 ### [Milfoil Control](/water/lnd-milfoil/) --- ***Stay clear of buoys!***
@@ -51,11 +51,7 @@ description: Homepage of the Association in English
   
  * [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
 
-### [Canada Goose Action Plan](/water/gooseaction/)
 
-* A grass lawn near the shore attracts geese and goose poop. Naturalize your shoreline to prevent contamination and erosion.
-
-* Printable version (Bilingual PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
 
 ### [Keep the Water we enjoy Clean](/water/keepclean/)
 
