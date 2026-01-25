@@ -3,7 +3,7 @@ title: Watercraft Guidelines
 description: Watercraft Guidelines designed to prevent the spread of milfoil on the lake, French version
 date: 2025-09-01
 ---
-# Directives relatives aux embarcations
+## Directives relatives aux embarcations
 
 * Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple: Il suffit d'éviter les mauvaises herbes.
 * La situation n'était pas aussi grave en 2025, mais le myriophylle était toujours présent dans toutes les zones rouges.
@@ -14,3 +14,6 @@ date: 2025-09-01
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/f5694efe-57f2-487d-939d-4beba3e20694" />
 
 Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
+
+## Sondage auprès des résidents
+* Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à épis - Juillet 2025](/assets/docs/Milfoil_survey_report_F.pdf)
