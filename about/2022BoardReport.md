@@ -1,19 +1,20 @@
 ---
+layout: default-en
 title: 2022 Annual General Meeting of the Lac Notre Dame and Usher Lake Association
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2022-08-22T13:10:52-05:00
 ---
 
-# 2022 Annual General Meeting minutes
+## 2022 Annual General Meeting minutes
 
-## Agenda
+### Agenda
 
 Annual General Meeting - Online via Zoom, August 27, 2022, 10:00 am
 
 Mandate of the association:
 "to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
-## Constitution of the meeting - quorum based on registered members
+### Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
 By the time of the meeting, 42 members had paid their membership fees. 13 members joined the online meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.
@@ -22,7 +23,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: Don Herweyer
 
-## Approval of previous year's minutes
+### Approval of previous year's minutes
 
 Approval of the minutes of the [2021 Annual General Meeting](../2021BoardReport/)
 
@@ -30,7 +31,7 @@ Moved by: Bryan Watkinson
 
 Seconded by: Don Herweyer
 
-## Approve agenda for 2022 meeting
+### Approve agenda for 2022 meeting
 
 * Financial report
 * Water Testing and water levels report
@@ -43,7 +44,7 @@ Moved by: Lisa Fast
 
 Seconded by: Bryan Watkinson
 
-## Financial Report  
+### Financial Report  
 
 Presented by Lisa Fast for Brian Cook, treasurer for the fiscal year 2021 - 2022
 
@@ -76,14 +77,14 @@ Seconded by: Cathy Kissick
 * On a positive note, E-Coli levels were either not detectable or barely detectable at the other locations (2 Canada Geese nests hatched on the lake in the spring for a total of 11 geese. Keep them off your property with these ideas: [Goose action plan](/Content/water/gooseaction/)
 * At Usher: report not available yet
 
-## Water level report
+### Water level report
 
 * Imre and the dam volunteers at the Lac Notre Dame outlet have been managing the beavers & dam this spring and summer, trying to keep the water levels within a 20-30 cm range. He has a checklist from Quebec of the rules he must follow. Levels through the summer were fairly normal, dropping lower when there was little rain, and then going up through August.
 * Don't trespass to damage the dam at the outlet - email [info@lacnotredame.org](mailto:info@lacnotredame.org) if you have concerns, and I'll get in touch with the team.  
 * The MRC has a new Waterways manager - he'll be joining a La Peche Lake Associations meeting in September to share their new approach.
 * Lisa is continuing to track water levels and work with Lac Bernard's Association to keep the outlet and streams flowing throughout the watershed.
 
-## Board report on program that had been planned for 2021-2022
+### Board report on program that had been planned for 2021-2022
 
 * Buoys: Brian Cook purchased additional anchors, rope and buoys, and placed them with Jason Gunville.
 * We looked into options for adding buoys to create a 'channel' through the thickest milfoil, but couldn't see how to make that work, as Transport Canada has extensive rules about navigation buoys. We also looked at 'Slow - No Wake' buoys for the side of the island but they are $500 each and seem to only come in English.
@@ -98,11 +99,11 @@ Move to accept the board and water testing report: Lisa Fast
 
 Seconded: Bryan Watkinson
 
-## Members open issues
+### Members open issues
 
 * Problem with someone cutting weeds without raking, and so many floated in - we could drop a hand-out next summer - have someone in each area walk them around - Bernard and Susan on Shaw volunteer to do that for their area
 
-## Current board and election of new members
+### Current board and election of new members
 
 The Board meets 3-4x times per year plus the AGM.
 
@@ -115,7 +116,7 @@ The Board meets 3-4x times per year plus the AGM.
 * Marie Maisonneuve, member
 * Graeme Simpson - member
 
-## Proposed Association program for 2022-2022
+### Proposed Association program for 2022-2022
 
 * Deliver/discuss [Goose action plan](/water/gooseaction/) for shoreline restoration around this fall and next summer to anyone with lawn/geese at shoreline
 * Add a burlap how-to page on the site
@@ -125,7 +126,7 @@ Moved by: Lisa Fast
 
 Seconded by: Susan Bowen
 
-## Move to adjourn
+### Move to adjourn
 
 Moved by Lisa Fast
 
