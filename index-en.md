@@ -16,13 +16,13 @@ description: Homepage of the Association in English
 Invasive Eurasian watermilfoil
 Follow these links for more information about the presence of the invasive aquatic plant Eurasian watermilfoil and what is being done to limit its spread.
 
-#### [What is Milfoil and why is it bad?](/water/milfoil-en.md/)
-#### [Are herbicides the solution? The answer is NO!](/water/ProcellaCOR-en.md)
-####	[Please follow Watercraft Guidelines to slow the spread of milfoil](/water/guidelines-en.md/)
-####	Steer clear of the yellow buoys 	[Pleas](/water/buoys-en.md/)
-####	Restore your shoreline to its natural state 	[Pleas](/water/shoreline-en.md/)
-####	Provincial Rules and Regulations [Pleas](/water/rules-en.md/)
-#### Watch these videos to learn more about Milfoil:
+* #### [What is Milfoil and why is it bad?](/water/milfoil-en.md/)
+* #### [Are herbicides the solution? The answer is NO!](/water/ProcellaCOR-en.md)
+#### [Please follow Watercraft Guidelines to slow the spread of milfoil](/water/guidelines-en.md/)
+#### [Steer clear of the yellow buoys](/water/buoys-en.md/)
+#### [Restore your shoreline to its natural state](/water/shoreline-en.md/)
+#### [Provincial Rules and Regulations](/water/rules-en.md/)
+#### [Watch these videos to learn more about Milfoil](/water/milfoil_videos-en.md/)
 ***
 ### Water Quality
 #### [Annual Test Results](/water/qualityreports-en.md/)
@@ -30,7 +30,7 @@ Follow these links for more information about the presence of the invasive aquat
 #### [Tips to keep the lake clean](/water/keepclean-en.md/)
 #### [Canada Goose Action Plan](/water/gooseaction-en.md/)
 ***
-### Blue Green Algae [Blue-green Algae](/water/bluegreen-en.md/)
+### [Blue Green Algae](/water/bluegreen-en.md/)
 ***
 ### Wildfires
 #### [Know when and when not to burn](/water/wildfires-en.md/)
