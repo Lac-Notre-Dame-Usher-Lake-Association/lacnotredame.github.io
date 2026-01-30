@@ -1,19 +1,20 @@
 ---
+layout: default-en
 Title: 2025 Minutes of the Annual General Meeting of the Lac Notre Dame and Usher Lake Association  
 description: AGM Lac Notre-Dame and Usher Lake Association  
 date:   
 ---
 
-# 2025 Annual General Meeting minutes
+## 2025 Annual General Meeting minutes
 
-## Annual General Meeting - July 5, 2025, 16:00 at Camp Kalalla
+### Annual General Meeting - July 5, 2025, 16:00 at Camp Kalalla
 
 Open at 4:00 pm
 
 Mandate of the association:  
 "to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
-## Constitution of the meeting - quorum based on registered members
+### Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.    
 In summer 2024,  **54** members paid their membership fees for 2024-2025. 29 people attended the meeting. Quorum requires at least 25% of members to be present to reach quorum. Bylaws state that people who've paid the membership fee are members and can vote. 
@@ -42,7 +43,7 @@ Approve agenda for 2025 meeting
 Moved by: Lisa Fast  
 Seconded by: William Hebert
 
-## Financial Report, presented by Lisa Fast
+### Financial Report, presented by Lisa Fast
  
 (Brian Cook, Treasurer, was unable to attend)
 
@@ -58,7 +59,7 @@ Moved by: Lisa Fast
 
 Seconded by: Lauren Osmond
 
-## Water quality and water levels report - Lisa Fast
+### Water quality and water levels report - Lisa Fast
 
 * No 2025 report is available yet. Water testing will take place at the usual time of first week of August (consistent timing is important to understanding trends). Report will be sent via email and posted on this site.
   
@@ -74,7 +75,7 @@ Seconded by: Lauren Osmond
 * All of the dam team members have now signed agreements, and have "agent status" on the property, and can act on behalf of the owners with regards to the Trespass Act. A measuring stick in the water near the dam is used by the team to monitor water levels and **try as much as possible to keep a consistent level** with the level higher in spring to block some light from reaching the milfoil.   
 
 
-## Current board and election of new members
+### Current board and election of new members
 
 The Board meets 4-5 times, usually online, per year plus the AGM. Board committees meet separately. Current bylaws require board members to serve for a maximum of 6 years but extensions can be voted on and approved at the AGM. 
 
@@ -101,9 +102,9 @@ ELECTED by a show of hands
 
 2026 program includes amending and updating [Association bylaws](https://lacnotredame.org/assets/docs/Association\_By-Laws\_en.pdf), which have not been updated in the last 10 years.
 
-## Milfoil Action Committee 
+### Milfoil Action Committee 
 
-##### Milfoil Action Committee Report 
+#### Milfoil Action Committee Report 
 * [PDF format](/assets/docs/water/AGM slides VFinal 5jul2025.pdf)
 
 MOTION: Accept the watercraft guidelines and canvassing them to all of the lake to STOP THE SPREAD
