@@ -5,6 +5,10 @@ date: 2024-10-29T13:10:52-05:00
 ---
 # Toxic Blue green algae
 
+* If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
+  
+ * [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
+
 Alarmingly, Lac Notre Dame and other area lakes have had some recent blue-green algae sightings. Some of this type of algae is dangerous for swimming, washing and drinking.
 
 Dense blue-green algal blooms can look like green pea soup or solid-looking mats of turquoise paint. Blooms can also be other colours such as yellow, purple, red or brown.
