@@ -9,16 +9,15 @@ description: Homepage of the Association in English
 </div>
 
 ## Welcome! Read all about the priorities and activities of the Notre-Dame and Usher Lakes Association in the links below.
-
+***
 ### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
-
+***
 ### Milfoil
 Invasive Eurasian watermilfoil
 Follow these links for more information about the presence of the invasive aquatic plant Eurasian watermilfoil and what is being done to limit its spread.
 
 ####	What is Milfoil and why is it bad? [Please follow Watercraft Guidelines to slow the spread of milfoil](/water/milfoil-en.md/)
 ####	Are herbicides the solution? The answer is NO! * [ProcellaCOR herbicide permit position](/water/ProcellaCOR-en.md)
-
 ####	[Please follow Watercraft Guidelines to slow the spread of milfoil](/water/guidelines-en.md/)
 ####	Steer clear of the yellow buoys 	[Pleas](/water/buoys-en.md/)
 ####	Restore your shoreline to its natural state 	[Pleas](/water/shoreline-en.md/)
