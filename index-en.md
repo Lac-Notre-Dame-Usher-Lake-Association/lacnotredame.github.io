@@ -8,8 +8,7 @@ description: Homepage of the Association in English
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
 
-## Welcome! 
-Read all about the priorities and activities of the Notre-Dame and Usher Lakes Association in the links below.
+## Welcome! Read all about the priorities and activities of the Notre-Dame and Usher Lakes Association in the links below.
 
 ### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
 
@@ -32,10 +31,6 @@ Follow these links for more information about the presence of the invasive aquat
 #### [Tips to keep the lake clean](/water/keepclean-en.md/)
 #### [Canada Goose Action Plan](/water/gooseaction-en.md/)
 
-
-* If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
-  
- * [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
 
 ### Blue Green Algae [Blue-green Algae](/water/bluegreen-en.md/)
 
