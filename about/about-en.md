@@ -1,15 +1,16 @@
 ---
+layout: default-en
 title: Lac Notre-Dame et Usher Association
 description: About Lac Notre-Dame and Usher Lake Association - English page
 date: 2021-03-22T13:10:52-05:00 (updated 2025-09-08)
 ---
 
-## The Association and What We Do
+### The Association and What We Do
 
 The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all.
 
 ***
-### The Board's Role
+#### The Board's Role
 
 1. The affairs of the Association shall be managed by a Board of Directors consisting of seven (7) persons, each of whom at the time of his/her election, or within ten (10) days thereafter and throughout his/her term of office, shall be a member in good standing of the Association.  If a person ceases to be a member in good standing of the Association then he/she shall no longer qualify to be a Director and must resign forthwith.
 
@@ -20,7 +21,7 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 4. The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
-### Objectives and Mandate of the Association
+#### Objectives and Mandate of the Association
 
 1. To establish and operate a not for profit association for the benefit of members who are owners or users of property on or in the vicinity of the Lakes for the purpose of monitoring water quality and conditions affecting the environment of the Lakes and to contribute to the maintenance and enhancement of the well being of the local environment and the quality of life on the Lakes for both seasonal and permanent residents.
 
@@ -41,7 +42,7 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 9. Generally, to pursue the achievement of the Objectives of the Association.
 
 ***
-### Legal Documents
+#### Legal Documents
 
 * [Constitution (PDF)](../assets/docs/Association_Constitution.pdf) 
 
