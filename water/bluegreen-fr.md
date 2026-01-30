@@ -11,7 +11,11 @@ Il est alarmant de constater que des algues bleues ont été observées récemme
 
 Les efflorescences denses d'algues bleues peuvent ressembler à de la soupe de pois verts ou à des tapis de peinture turquoise d'apparence solide. Les efflorescences peuvent également être d'autres couleurs, comme le jaune, le violet, le rouge ou le brun.
 
+ <img src="/assets/img/algae-2020Nov.jpg" class="img-fluid py-3" alt="blue-green algae on lac Notre Dame in 2020" />
+
 Les algues bleues vertes peuvent se développer en proliférations importantes qui consomment de grandes quantités d'oxygène dans l'eau lorsqu'elles meurent et se décomposent, ce qui met également les poissons en danger.
+
+  <img src="/assets/img/MECP-Blue-green-algae.jpg" class="img-fluid py-3" alt="thick layer of turquoise blue-green algae on water" />
 
 Les fleurs d'eau fraîches sentent l'herbe fraîchement tondue, mais les fleurs d'eau plus anciennes peuvent sentir les ordures en décomposition.
 
