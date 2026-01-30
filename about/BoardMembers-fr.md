@@ -1,4 +1,11 @@
-## Membres actuels du conseil
+---
+layout: default-fr
+title: Board members
+description: Main page for displaying Board members - French page
+date: 2025-09-07
+---
+
+### Membres actuels du conseil
 
 * Don Herweyer, président (élu en 2025), membre depuis 2020
 * Lisa Fast, ancienne présidente, aidant à la transition, membre depuis 2016
