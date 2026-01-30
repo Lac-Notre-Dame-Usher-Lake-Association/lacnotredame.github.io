@@ -1,4 +1,11 @@
-## Current Board Members
+---
+layout: default-en
+title: Board members
+description: Main page for displaying Board members - English page
+date: 2025-09-07
+---
+
+### Current Board Members
 
 * Don Herweyer, President (elected 2025), member since 2020
 * Lisa Fast, Past-President role to assist with transition, member since 2016
