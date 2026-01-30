@@ -1,17 +1,18 @@
 ---
+layout: default-en
 title: 2023 Annual General Meeting of the Lac Notre Dame and Usher Lake Association
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2023-08-22T13:10:52-05:00
 ---
 
-# 2023 Annual General Meeting minutes
+## 2023 Annual General Meeting minutes
 
-## Annual General Meeting - August 26, 2023, 16:00 at Camp Kalalla
+### Annual General Meeting - August 26, 2023, 16:00 at Camp Kalalla
 
 Mandate of the association:
 "to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
-## Constitution of the meeting - quorum based on registered members
+### Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
 By the time of the meeting, 48 members had paid their membership fees. 21 members attended the meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.
@@ -20,7 +21,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: Marie Maisonneuve
 
-## Approval of previous year's minutes
+### Approval of previous year's minutes
 
 Approval of the minutes of the [2022 Annual General Meeting](../2022BoardReport/)
 
@@ -28,7 +29,7 @@ Moved by: Don Herweyer
 
 Seconded by: Marie Maisonneuve
 
-## Approve agenda for 2023 meeting
+### Approve agenda for 2023 meeting
 
 * Financial report
 * Water Testing and water levels report
@@ -41,7 +42,7 @@ Moved by: Lisa Fast
 
 Seconded by: Marie Maisonneuve
 
-## Financial Report  
+### Financial Report  
 
 Presented by Brian Cook, treasurer for the fiscal year July 2022 through June 2023
 
@@ -68,7 +69,7 @@ Your membership fees support the following budget for the upcoming year:
 * Facility rental for annual meeting: $100 
 * Good news - the Association received over $1,400 in donations this summer (2023) which will go towards this budget.
 
-## Water testing report
+### Water testing report
 
 [Water testing report](/water/qualityreports/) presented by Lisa Fast
 
@@ -92,14 +93,14 @@ Lac Notre Dame August 16th, 2023 summary:
 
 * Recommendation: Usher lake property owners should watch for and report any possible Blue-Green slicks (floats and looks like paint on the water surface)
 
-## Water level report
+### Water level report
 
 * Water levels were unusually low May through July because no beavers had yet dammed the outlet. This likely contributed to greater milfoil growth. Beavers then began damming in late July  and with constant rain, levels rose to slightly higher than usual August levels. This helps keep the weediest parts of the lake navigable and reduces sunlight to weeds. 
 * Imre and the dam team volunteers (Marcel, Graeme and Denis) have been removing parts of the dam on an almost weekly basis. They manage removal carefully as there is a wetland and road that must be protected behind the dam, and extensive regulations to follow.  
 * no cost
 * thanks to dam team
 
-## Board report on program that had been planned for 2022-2023
+### Board report on program that had been planned for 2022-2023
 
 * Buoys: We purchased additional anchors, rope and buoys. Buoys were added later at the west Island channel and bay at the Du Domaine causeway. They were moved as the weed mats grew. 
 * Signs: We purchased signs warning to stay away from the buoys. The design is based on La Peche designs. We placed them on roads, docks, on the island and at the weediest points in the lake. The signs will be removed in the fall and re-used. 
@@ -113,7 +114,7 @@ Move to accept the board and water testing report: Don Herweyer
 
 Seconded: Dave Hayward
 
-## Proposed Association program for 2023-2024
+### Proposed Association program for 2023-2024
 
 * Develop a weed team and plan for milfoil cutting
 * Usual buoys, water testing, dam management etc.
@@ -123,7 +124,7 @@ Moved by: Lisa Fast
 
 Seconded by: John Calvert
 
-## Members open issues
+### Members open issues
 
 * Proposed coordinate Weed cutting: Jane,Marie and Gaston, Graeme.
 * Merilee: more weeds impacting use and enjoyment.
@@ -138,7 +139,7 @@ Move: Jane Hayward
 
 Seconded: Laureen Osmond
 
-## Current board and election of new members
+### Current board and election of new members
 
 The Board meets 3-4x times per year plus the AGM.
 
@@ -150,7 +151,7 @@ The Board meets 3-4x times per year plus the AGM.
 * Marie Maisonneuve, member
 * Graeme Simpson - member
 
-## Move to adjourn
+### Move to adjourn
 
 Moved by Lisa Fast
 
