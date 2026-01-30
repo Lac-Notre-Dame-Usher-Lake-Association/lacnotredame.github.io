@@ -97,6 +97,4 @@ Version imprimable - Printable version (PDF in English & French): [Clean Water](
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
 
-###### [--](/Test.md/) 
-
 ###### [----](/index_MAIN.md/) 
