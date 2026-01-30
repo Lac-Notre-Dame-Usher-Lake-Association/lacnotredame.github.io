@@ -1,15 +1,16 @@
 ---
+layout: default-fr
 title: Lac Notre-Dame et Usher Association
 description: About Lac Notre-Dame and Usher Lake Association - Page en francais
 date: 2021-03-22T13:10:52-05:00 (updated 2025-09-08)
 ---
 
-## L'association et ses activités
+### L'association et ses activités
 
 La mission de l'Association est de promouvoir, de protéger et de préserver la qualité des lacs Notre Dame et Usher, ainsi que l'environnement du bassin versant des lacs, afin d'en assurer l'utilisation continue et la jouissance par tous.
 ***
 
-### Le rôle du conseil
+#### Le rôle du conseil
 
 1. Les affaires de l'Association sont gérées par un conseil d'administration composé de sept (7) personnes qui, au moment de leur élection ou dans les dix (10) jours qui suivent et pendant toute la durée de leur mandat, doivent être membres en règle de l'Association.  Si une personne cesse d'être membre en règle de l'Association, elle ne remplit plus les conditions requises pour être administrateur et doit démissionner immédiatement.
 
@@ -20,7 +21,7 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 4. Le Conseil devrait, dans la mesure du possible, inclure une représentation de tous les secteurs du Lac Notre-Dame ainsi qu’au moins un représentant du Lac Usher.
 ***
 
-### Objectifs et mandat de l'association
+#### Objectifs et mandat de l'association
 
 1. Établir et de gérer une association sans but lucratif au profit des membres qui sont propriétaires ou utilisateurs de biens situés sur les lacs ou à proximité, dans le but de surveiller la qualité de l'eau et les conditions affectant l'environnement des lacs et de contribuer au maintien et à l'amélioration du bien-être de l'environnement local et de la qualité de la vie sur les lacs pour les résidents saisonniers et permanents.
 
@@ -40,7 +41,7 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 
 9. D'une manière générale, poursuivre la réalisation des objectifs de l'Association.
 ***
-### Documents légals
+#### Documents légals
 
 * [Constitution (PDF)](../assets/docs/Association_Constitution.pdf) 
 
