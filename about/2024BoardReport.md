@@ -1,19 +1,20 @@
 ---
+layout: default-en
 Title: 2024 Minutes of the Annual General Meeting of the Lac Notre Dame and Usher Lake Association  
 description: AGM Lac Notre-Dame and Usher Lake Association  
 date:   
 ---
 
-# 2024 Annual General Meeting minutes
+## 2024 Annual General Meeting minutes
 
-## Annual General Meeting \- August 24, 2024, 16:00 at Camp Kalalla
+### Annual General Meeting \- August 24, 2024, 16:00 at Camp Kalalla
 
 Opened at 4:00 pm
 
 Mandate of the association:  
 "to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
-## Constitution of the meeting - quorum based on registered members
+### Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.    
 By the time of the meeting, **48** members had paid their membership fees. 32 people attended the meeting representing 21 household memberships. Quorum requires at least 25% of members to be present to reach quorum. Bylaws state that people who've paid the $10 membership fee are members and can vote.
@@ -41,7 +42,7 @@ Approve agenda for 2024 meeting
 Moved by: Lisa Fast  
 Seconded by: William Hebert
 
-## Financial Report, presented by Lisa Fast
+### Financial Report, presented by Lisa Fast
  
 (Brian Cook, Treasurer was unable to attend)
 
@@ -57,7 +58,7 @@ Moved by: Lisa Fast
 
 Seconded by: Dave Hayward
 
-## Water quality report presented by Lisa Fast
+### Water quality report presented by Lisa Fast
 
 Water quality report (/water/quality reports/) online
 
@@ -90,7 +91,7 @@ Phosphorus levels at location 11 have been higher than the target level of 0.01 
 
 All results posted in [spreadsheet of water data to 2004](https://lacnotredame.org/water/qualityreports/)
 
-## Weed team report \- presented by Jane Hayward
+### Weed team report \- presented by Jane Hayward
 
 Two mornings of work by team volunteers in July yielded a significant collection, now decomposing on Jane's property. Special thanks to Ken and his tractor for moving them from the boat launch.
 
@@ -136,7 +137,7 @@ The Board recommends moving the timing of the AGM to avoid peak summer season.  
 * Moved by: William Hebert  
 * Seconded by:  Jane Hayward
 
-## Current board and election of new members
+### Current board and election of new members
 
 The Board meets 4-5 x times, usually online, per year plus the AGM. Current bylaws require board members to serve for a maximum of 6 years. 
 
