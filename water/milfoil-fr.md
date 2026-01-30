@@ -1,4 +1,9 @@
-[ARTICLE DU MENU N° 2] MIROP D'EAU - HTTPS://LACNOTREDAME.ORG/MILFOIL
+---
+layout: default-fr
+title: Eurasian Milfoil
+description: Eurasian watermoil overview - French version
+date: 2026-01-27
+---
 
 Myriophylle à épis (Myriophylle du Canada)
 
