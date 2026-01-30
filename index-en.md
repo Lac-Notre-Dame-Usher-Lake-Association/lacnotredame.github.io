@@ -6,7 +6,7 @@ description: Homepage of the Association in English
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
-#### Welcome! Read all about the priorities and activities of the Notre-Dame and Usher Lakes Association in the links below.
+#### Welcome! <br>Read all about the priorities and activities of the Notre-Dame and Usher Lakes Association in the links below.
 ***
 #### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
 ***
@@ -30,7 +30,7 @@ description: Homepage of the Association in English
 * ##### [Do a jar test](/water/jartest-en.md/)
 ***
 #### Wildfires
-* ##### [Know when and when <b>not</b> to burn](/water/wildfires-en.md/)
+* ##### [Know when and when <i><b>not</b></i> to burn](/water/wildfires-en.md/)
 ***
 #### About the Association
 * ##### [Association's Mandate](/about/about.md/) 
