@@ -1,19 +1,20 @@
 ---
+layout: default-en
 title: 2019 Annual General Meeting of the Lac Notre Dame and Usher Lake Association
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2019-08-13T13:10:52-05:00
 ---
 
-# 2019 Annual General Meeting minutes
+## 2019 Annual General Meeting minutes
 
-## Agenda
+### Agenda
 
 Annual General Meeting - Rupert Community Hall, August 24, 2019, 10:00 am
 
 Mandate of the association:
 "to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
-## Constitution of the meeting - quorum based on registered members
+### Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
 Quorum requires at least 25% of members be present - there were 18 members present at the meeting - quorum was reached. All members present paid the $10 per family membership fee - another 4 members paid prior to the meeting but were not able to attend.  
@@ -22,7 +23,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: Dave Hayward
 
-## [Approval of previous year's minutes](../2018BoardReport/)
+### [Approval of previous year's minutes](../2018BoardReport/)
 
 Minutes of the previous year's meeting were approved.
 
@@ -30,7 +31,7 @@ Moved by: Robert Boucher
 
 Seconded by: Erin Jamison
 
-## Approve agenda for 2019 meeting
+### Approve agenda for 2019 meeting
 
 * Financial Report
 * Water Testing Report
@@ -43,7 +44,7 @@ Moved by Erin Jamison
   
 Seconded by Marie Maisonneuve
 
-## Financial Report  
+### Financial Report  
 
 * Presented by Dave Hayward, treasurer for the fiscal year 2018-2019
 Summmary:
@@ -78,7 +79,7 @@ Seconded by Danielle Doré
 * Milfoil is generally lower this year, and native weeds have taken its place in some locations, particularly off the Bishop's Manor point. Buoys were not placed out this year as the milfoil levels were so low. The eastern end of the lake has more milfoil than the western end although in most places it has not reached the surface. We discussed cutting and the importance of removal of the cuttings. There are cutter recommendations on the web site, and Danielle offered that people could borrow her cutter if they wished. Lisa will add that to the website.
 * Biologist Paul Hamilton reviews the reports and implications. This year, he warns us to watch for Blue-Green Algae (Cyanobacteria), which may take the ecological niche the milfoil was holding. He suggested that high water in the spring and through July contributed to the decreased milfoil.
 
-## Board report of program for 2018-2019
+### Board report of program for 2018-2019
 
 * Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network
 * Position: do not join
@@ -100,7 +101,7 @@ Seconded by Danielle Doré
 
   Seconded: Robert Boucher
 
-## Current board and election of new members
+### Current board and election of new members
 
 We request new members for the board. We meet 2-3 times per year plus the AGM.
 
@@ -115,11 +116,11 @@ Jim Bickford resigned from the Board in June 2019 - is no longer a lake property
 
 Election of Danielle Doré - 18 in favour. Thank you Danielle!
 
-## Members open issues
+### Members open issues
 
 Boat launch issue was raised and addressed by Marc Desrochers, President of the Bishop's Manor Association. Several members of the lake association met with Mr. Desrochers in June to discuss options. He has met with the Mayor of La Peche to discuss the possibility of a locked gate and fence at the causeway, where people - not lake owners - are circumventing the concrete blocks and launching small boats.
   
-## Proposed Association program for 2019-2020
+### Proposed Association program for 2019-2020
 
 * Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound test to water testing suite)
 * Jane Hayward suggesting investigating and prepare a hand-out/tip sheet about fire pits, and handling of ashes.
@@ -129,7 +130,7 @@ Moved by Lisa Fast
 
 Seconded by Erin Jamison
 
-## Move to adjourn
+### Move to adjourn
 
 Moved by Marie Maisonneuve
 
