@@ -6,6 +6,7 @@ description: Homepage of the Association in English
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
+<br>
 #### Welcome! <br>Read all about the priorities and activities of the association.
 <br>
 #### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
@@ -18,20 +19,20 @@ description: Homepage of the Association in English
 * ##### [Restore your shoreline to its natural state](/water/shoreline-en.md/)
 * ##### [Provincial Rules and Regulations](/water/rules-en.md/)
 * ##### [Watch these videos to learn more about Milfoil](/water/milfoil_videos-en.md/)
-***
+
 #### Water Quality
 * ##### [Annual Test Results](/water/qualityreports-en.md/)
 * ##### [Map of testing locations](/map/map-en.md/)
 * ##### [Tips to keep the lake clean](/water/keepclean-en.md/)
 * ##### [Canada Goose Action Plan](/water/gooseaction-en.md/)
-***
+
 #### Blue Green Algae
 * ##### [Blue Green Algae are toxic](/water/bluegreen-en.md/)
 * ##### [Do a jar test](/water/jartest-en.md/)
-***
+
 #### Wildfires
 * ##### [Know when and when <i><b>not</b></i> to burn](/water/wildfires-en.md/)
-***
+
 #### About the Association
 * ##### [Association's Mandate](/about/about.md/) 
 * ##### [Board Members](/about/BoardMembers.md/)
