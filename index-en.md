@@ -29,12 +29,12 @@ description: Homepage of the Association in English
 * ##### [Do a jar test](/water/jartest-en.md/)
 
 #### Wildfires
-* ##### [Know when and when <i><b>not</b></i> to burn](/water/wildfires-en.md/)
+* ##### [Know when and when <i><b>not</b></i> to burn](/water/wildfire-en.md/)
 
 #### About the Association
-* ##### [Association's Mandate](/about/about.md/) 
-* ##### [Board Members](/about/BoardMembers.md/)
-* ##### [Yearly Board Reports](/about/BoardReports.md/)
+* ##### [Association's Mandate](/about/about-en.md/) 
+* ##### [Board Members](/about/BoardMembers-en.md/)
+* ##### [Yearly Board Reports](/about/BoardReports-en.md/)
 * ##### [Join Us](/water/association-en.md/)
 * ##### Contact us by email: [info@lacnotredame.org](mailto:info@lacnotredame.org)
 * ##### Facebook: [Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
