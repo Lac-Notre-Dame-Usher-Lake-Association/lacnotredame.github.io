@@ -3,11 +3,9 @@ layout: default-en
 title: Association des lacs Notre-Dame et Usher - Notre-Dame & Usher Lakes Association
 description: Homepage of the Association in English
 ---
-
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
-
 ### Welcome! Read all about the priorities and activities of the Notre-Dame and Usher Lakes Association in the links below.
 ***
 ### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
@@ -28,7 +26,7 @@ description: Homepage of the Association in English
 * #### [Canada Goose Action Plan](/water/gooseaction-en.md/)
 ***
 ### Blue Green Algae
-* #### [Blue Green Alguea are toxic](/water/bluegreen-en.md/)
+* #### [Blue Green Algae are toxic](/water/bluegreen-en.md/)
 * #### [Do a jar test](/water/jartest-en.md/)
 ***
 ### Wildfires
