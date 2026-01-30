@@ -1,19 +1,20 @@
 ---
+layout: default-en
 title: 2018 Annual General Meeting
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2018-12-29T13:10:52-05:00
 ---
 
-# 2018 Annual General Meeting minutes
+### 2018 Annual General Meeting minutes
 
-## Minutes of 2018 Annual General Meeting of the Notre Dame and Usher Lakes Association
+#### Minutes of 2018 Annual General Meeting of the Notre Dame and Usher Lakes Association
 
 Annual General Meeting - Rupert Community Hall, August 18, 2018, 10:00 am
 
 Mandate of the association:
 "to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
-## Constitution of the meeting - quorum based on registered members
+#### Constitution of the meeting - quorum based on registered members
 
 As the new president, Lisa Fast opened the meeting, and thanked Jane Hayward for her work as president for the previous three years.  Quorum requires at least 25% of members be present - there were 21 members present at the meeting - quorum was reached.  
 
@@ -21,7 +22,7 @@ Move to open the meeting by Lisa Fast
 
 Seconded by Jane Hayward
 
-## [Approval of previous year's minutes](/assets/docs/minutes/AGM_Minutes_2017.pdf)
+#### [Approval of previous year's minutes](/assets/docs/minutes/AGM_Minutes_2017.pdf)
 
 Minutes of the previous year's meeting were approved.
 
@@ -29,13 +30,13 @@ Moved by Robert Boucher
 
 Seconded by Dave Hayward
 
-## Approve agenda for 2018 meeting
+#### Approve agenda for 2018 meeting
 
 Addition of discussion of boat entry/exit challenges, proposed by Mr. Marc Desrochers, President of the Bishop's Manor Association
 Moved by Carole Doré
 Seconded Bryan Watkinson
 
-## Financial Report  - annual expenses including water testing & reserve
+#### Financial Report  - annual expenses including water testing & reserve
 
 * Presented by Lisa Fast, treasurer for the fiscal year 2017-2018
 * At the end of our financial year on June 31, 2018 - there was $5,633.40 in the Association's bank accounts
@@ -51,7 +52,7 @@ Move to accept Treasurer's report by Bryan Watkinson
 
 Seconded by Danielle Lévesque
 
-### Your membership fees support the following:
+#### Your membership fees support the following:
 
 * Water testing $400-$500 per year
 * Buoys and signs (not every year)
@@ -60,7 +61,7 @@ Seconded by Danielle Lévesque
 * Quebec non-profit corporation fees ($35/year)
 * Domain name fees for the web site every two years
 
-## Board report
+#### Board report
 
 * Water tip cards were distributed to lake owners by board members in July and August. This worked out well, we met new lake owners, shared the ideas about how to keep the water clean and how to cut and remove milfoil,  discussed problems such as the geese and collected membership fees towards the water testing.   The tips and binder page is posted on the site [https://lacnotredame.org/water/keepclean/](/water/keepclean/). There are spare cards - we discussed going out on rounds again in 2020.  
 * New website was launched that also works well on phones, with map of water testing sites, and all water quality reports.
@@ -72,7 +73,7 @@ Seconded by Danielle Lévesque
 
 <img src="/assets/img/geese.jpg" class="img-fluid py-3" alt="Canada geese in front of a cottage on Lac Notre Dame. Residents installed pinwheels and ropes in an attempt to prevent their entry from the water, but unfortunately the geese have become acclimated to these barriers." />
 
-### Water testing report was presented by Carol Doré and Lisa Fast
+#### Water testing report was presented by Carol Doré and Lisa Fast
 
 [Results of 2017 and 2018 water testing - e-coli concern](/water/qualityreports/)
 
@@ -82,7 +83,7 @@ Seconded by Danielle Lévesque
 * It is possible the Canada Geese in the are contributed to or were the source of the contamination. There is evidence that geese feces can contaminate surface water. [Free-living Canada Geese and antimicrobial resistance:](https://wwwnc.cdc.gov/eid/article/11/6/04-0717_article)
 * Action plan: if e-coli levels had continued to be high in subsequent tests, we would have brought them to the Municipality for assistance and advice.  
 
-## Proposed Association program for 2018
+#### Proposed Association program for 2018
 
 * Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- [Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network](https://www.environnement.gouv.qc.ca/eau/rsvl/index.htm)
 * Decide whether to maintain Facebook page now that new web site is up
@@ -91,7 +92,7 @@ Seconded by Danielle Lévesque
 Move to accept proposed program - André François Giroux
 Seconded - Nathalie Byk
 
-## Members open issues
+#### Members open issues
 
 * Marc Desrochers, President of the Bishop's Manor Association led a discussion of the challenges property-owners face in getting their boats in and out of the water in the spring and fall. Not all property owners on the lakes are members of the Bishop's Manor Association, but all property owners face these challenges, particularly since the Municipality installed cement blocks to prevent launching from the causeway on Ch. Du Manoir.  
 * Lisa Fast maintained that the Lake Association mandate prevents the Board from devoting funds to this effort, since the mandate is not to provide access to boat owners, but rather to "promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all"
@@ -101,7 +102,7 @@ Seconded - Nathalie Byk
   
   Moved by Lynn, Seconded by Nathalie
   
-## Current board and election of new members
+#### Current board and election of new members
 
 We requested new members for the board. We meet 2-3 times per year plus the AGM.
 
@@ -116,7 +117,7 @@ Two new members were nominated and acclaimed - Jim Bickford and André François
 * Jim Bickford (new)
 * André François Giroux (new)
 
-## Move to adjourn
+#### Move to adjourn
 
 Moved Morag Hutcheson
 
