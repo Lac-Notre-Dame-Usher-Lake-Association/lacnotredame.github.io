@@ -7,9 +7,9 @@ description: Homepage of the Association in English
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
 #### Welcome! <br>Read all about the priorities and activities of the association.
-
+<br>
 #### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
-
+<br>
 #### Milfoil
 * ##### [What is Eurasian Watermilfoil (Milfoil) and why is it bad?](/water/milfoil-en.md/)
 * ##### [Are herbicides the solution? The answer is NO!](/water/ProcellaCOR-en.md)
