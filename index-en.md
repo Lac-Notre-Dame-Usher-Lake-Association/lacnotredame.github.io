@@ -20,6 +20,7 @@ description: Homepage of the Association in English
 * ##### [Watch these videos to learn more about Milfoil](/water/milfoil_videos-en.md/)
 ***
 #### Water Quality
+#### Water Quality
 * ##### [Annual Test Results](/water/qualityreports-en.md/)
 * ##### [Map of testing locations](/map/map-en.md/)
 * ##### [Tips to keep the lake clean](/water/keepclean-en.md/)
