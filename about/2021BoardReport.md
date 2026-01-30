@@ -1,19 +1,20 @@
 ---
+layout: default-en
 title: 2021 Annual General Meeting of the Lac Notre Dame and Usher Lake Association
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2021-08-21T13:10:52-05:00
 ---
 
-# 2021 Annual General Meeting minutes
+## 2021 Annual General Meeting minutes
 
-## Agenda
+### Agenda
 
 Annual General Meeting - Online via Zoom, August 21, 2021, 10:00 am
 
 Mandate of the association:
 "to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
 
-## Constitution of the meeting - quorum based on registered members
+### Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
 By the time of the meeting, 44 members had paid their membership fees. 14 members joined the online meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.
@@ -22,7 +23,7 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by:Robert Boucher
 
-## Approval of previous year's minutes
+### Approval of previous year's minutes
 
 Minutes of the [2020 Annual General Meeting](../2020BoardReport/) meeting were approved.
 
@@ -32,7 +33,7 @@ Moved by:Lisa  Fast
 
 Seconded by: Don Herweyer
 
-## Approve agenda for 2021 meeting
+### Approve agenda for 2021 meeting
 
 * Financial report
 * Water Testing and water levels report
@@ -45,7 +46,7 @@ Moved by: Lisa Fast
 
 Seconded by: Bryan Watkinson
 
-## Financial Report  
+### Financial Report  
 
 Presented by Brian Cook, treasurer for the fiscal year 2020 - 2021
 
@@ -78,7 +79,7 @@ Seconded by: Dave Hayward
 * Preventing erosion & septic maintenance should be a priority - lake members should naturalize their shore lines to hold the soil and prevent erosion from boat wakes. On a more positive note, E-Coli levels were better this year, with only 1 location above the target level.
 * At Usher: High nitrogen and phosphorus levels as well at Usher, and e-Coli levels higher than target levels as usual, although not as high as previous years.
 
-## Water level report
+### Water level report
 
 * In 2019, the board agreed to develop a better understanding of the changing water levels and the interaction with milfoil growth and lake health (high water levels tend to reduce milfoil but risk erosion and damage to trees on the shoreline) and water quality (high water can cause erosion & nutrient input, and risks septic contamination).
 * There are now 2 beaver lodges with beavers damming at the outlet, with resulting fluctuating water levels whenever there were heavy rains and/or parts of the dam were removed. In mid-August 2021, they are higher than in mid-August 2018 and 2019.
@@ -86,7 +87,7 @@ Seconded by: Dave Hayward
 * Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detail in 2020: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing)
 * MRC des Collines called back, they could get involved, give us options, Jane has name of person there.
 
-## Board report on program that had been planned for 2019-2021
+### Board report on program that had been planned for 2019-2021
 
 * Plan for replacement buoys: Brian Cook arranged for the purchase and placement of 40 new yellow buoys this summer. There are areas that may need more, and we plan to purchase new/more signs. Boats are clearly cutting through the weeds, as many cuttings are floating in the water.
 * Jane: creating route for motorboats vs marking high points, high points need to be marked, island shallower side is high, motorboats going through that pinch point
@@ -105,7 +106,7 @@ Move to accept the board and water testing report: Lisa Fast
 
 Seconded: Jane Hayward
 
-## Current board and election of new members
+### Current board and election of new members
 
 The Board meets 3-4x times per year plus the AGM.
 
@@ -121,9 +122,9 @@ The Board meets 3-4x times per year plus the AGM.
 
 Any changes? Voted in Graeme Simpson
 
-## Members open issues
+### Members open issues
 
-## Proposed Association program for 2021-2022
+### Proposed Association program for 2021-2022
 
 * Sign idea for island - Slow down, reduce your wake Max $1000, voted, accepted
 * Sign - will take up with Municipality and other lake association, might need to spend some money on these - meeting being arranged
@@ -137,7 +138,7 @@ Moved by: Dave Hayward
 
 Seconded by: Lisa Fast
 
-## Move to adjourn
+### Move to adjourn
 
 Moved by Robert Boucher
 
