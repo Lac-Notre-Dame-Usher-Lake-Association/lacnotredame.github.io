@@ -6,7 +6,7 @@ date: 2024-10-29T13:10:52-05:00
 ---
 ### Toxic Blue Green Algae
 
-* Alarmingly, Lac Notre Dame and other area lakes have had some recent blue-green algae sightings. Some of this type of algae is dangerous for swimming, washing and drinking.
+Alarmingly, Lac Notre Dame and other area lakes have had some recent blue-green algae sightings. Some of this type of algae is dangerous for swimming, washing and drinking.
 
 Dense blue-green algal blooms can look like green pea soup or solid-looking mats of turquoise paint. Blooms can also be other colours such as yellow, purple, red or brown.
 
@@ -18,13 +18,13 @@ Blue green algae can grow into substantial blooms that consume large amounts of 
 
 Fresh blooms smell like freshly mowed grass but older blooms can smell like rotting garbage.
 
-## Blue-green algae can be poisonous
+### Blue-green algae can be poisonous
 
 Not all types of blue-green algae make us sick, but some produce toxins that can cause diarrhea, vomiting, skin irritation and headaches.
 
 Imagine coming to the lake but being unable to swim, fish or otherwise enjoy the water. Thankfully, we are not there yet but we need to do all we can to avoid this future.
 
-## Prevent blue-green algae in our lakes
+### Prevent blue-green algae in our lakes
 
 Blue green algae (and other species of algae) grow in the presence of nutrients like nitrogen and phosphorous.  Sources of these nutrients include leaking septic systems, lawn fertilizers, and animal waste, among others. Runoff from rainfall magnifies the harmful impact of these sources.
 
