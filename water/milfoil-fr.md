@@ -55,4 +55,4 @@ Le myriophylle à épis, une plante envahissante, est bien implanté dans le lac
 
 Veuillez suivre ces lignes directrices (évitez les zones rouges!) et demandez à vos invités d'en faire autant!
 
-[Guide]
+<img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
