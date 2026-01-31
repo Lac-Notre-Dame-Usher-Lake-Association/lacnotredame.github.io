@@ -1,7 +1,11 @@
+---
+layout: default-en
+title: Weed Report
+description: Information on weed report, English version
+date: 2026-01-30
+---
 
-
-
-# Weed team report 2024 - presented by Jane Hayward
+### Weed Team Teport 2024 - presented by Jane Hayward
 
 Two mornings of work by team volunteers in July yielded a significant collection, now decomposing on Jane's property. Special thanks to Ken and his tractor for moving them from the boat launch.
 
