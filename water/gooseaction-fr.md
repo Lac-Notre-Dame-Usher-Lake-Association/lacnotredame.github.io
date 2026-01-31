@@ -16,7 +16,7 @@ date: 2019-08-23T13:10:52-05:00
 
 * Les bernaches veulent pouvoir s'échapper facilement dans l'eau. Elles seront plus susceptibles d’éviter votre propriété s’il existe des plantes et des arbustes suffisamment hauts pour les empêcher de voir au-dessus de ceux-ci.
 * La naturalisation du rivage est bénéfique pour l’ensemble de l’écosystème du lac! Les plantations denses et larges sont plus efficaces que les plantations minces et étroites; laissez quelques sentiers pour votre accès.
-* Utilisez des arbustes indigènes comme le cornouiller, le chèvrefeuille Bush, le Ninebark et le Buttonbush. Le site Ottawa RiverKeeper a des suggestions de plantes additionnelles que vous pourriez vous procurer à un magasin de jardinage local: [OttawaRiverKeeper.ca](https://eadn-wc01-4092020.nxedge.io/cdn/wp-content/uploads/2018/01/3_ORK_ShorelineNature_FR_web.pdf)
+* Utilisez des arbustes indigènes comme le cornouiller, le chèvrefeuille Bush, le Ninebark et le Buttonbush. Le site Ottawa RiverKeeper a des suggestions de plantes additionnelles que vous pourriez vous procurer à un magasin de jardinage local: [Naturalisez votre rivage - OttawaRiverKeeper.ca](https://eadn-wc01-4092020.nxedge.io/cdn/wp-content/uploads/2018/01/3_ORK_ShorelineNature_FR_web.pdf)
 
 #### 2. POSEZ DES CLÔTURES À BERNACHES OU DES BARRIÈRES ALORS QUE VOUS NATURALISER VOTRE RIVAGE.
 
