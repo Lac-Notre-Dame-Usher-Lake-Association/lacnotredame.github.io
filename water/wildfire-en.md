@@ -1,10 +1,11 @@
 ---
+layout: default-en
 title: Wildfire
 description: Preventing Wildfire, English version
 date: 2025-12-15
 ---
 
-### Preventing Wildfires!
+### Preventing Wildfires
 
 #### To help prevent wildfires, please consult:
 
