@@ -7,8 +7,10 @@ date: 2019-08-23T13:10:52-05:00
 
 ### Plan d'action pour la gestion des bernaches
 
-En 2018, un groupe de plus de 20 bernaches s'est établi sur le lac. En 2019, le troupeau est plus petit - 4 adultes et 5 oisons. Une bernache adulte peut produire jusqu'à un kilo de caca tous les jours, et ces excréments peuvent contaminer notre eau - et votre propriété. Nous avons créé un plan d’action pour le lac afin de minimiser les dégâts.
-Certains propriétaires riverains avec des pelouses près de l'eau réussissent à garder les bernaches loin de leur nourriture préférée: l'herbe. Suivez ces étapes pour garder les bernaches loin de votre propriété.
+* Une oie adulte peut produire jusqu'à un kilogramme de crottes par jour, et ces déjections peuvent contaminer notre eau - ainsi que votre propriété.
+* Certains propriétaires de lacs avec des pelouses près de l'eau réussissent à éloigner les oies de leur nourriture préférée : l'herbe.
+* Nous avons élaboré un plan d'action pour le lac afin de minimiser les dégâts.
+* Suivez ces étapes pour empêcher les oies d'envahir votre propriété.
 
 #### 1. NATURALISEZ VOTRE RIVAGE.
 
