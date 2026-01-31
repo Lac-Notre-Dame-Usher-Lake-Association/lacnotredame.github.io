@@ -17,7 +17,7 @@ description: Homepage of the Association in English
 * ##### [Restore your shoreline to its natural state](/water/shoreline-en.md/)
 * ##### [Provincial Rules and Regulations](/water/rules-en.md/)
 * ##### [Watch these videos to learn more about Milfoil](/water/milfoil_videos-en.md/)
-[Watch these videos to learn more about Milfoil](/layouts/milfoil_videos-en.html)
+[Watch these videos to learn more about Milfoil](/layouts/milfoil_videos-en.html/)
 
 #### Water Quality
 * ##### [Annual Test Results](/water/qualityreports-en.md/)
