@@ -21,4 +21,6 @@ date: 2026-01-27
 * The Lake Association was founded in 2004 in response to the Eurasian watermilfoil explosion in the lakes. The Association received valued advice and assistance from biologist Paul Hamilton of the Canadian Museum of Nature. Mr. Hamilton continues to support the Association's efforts by analyzing water test results and advising us about important changes in the water quality.
 * An electric cutter was purchased before 2008 by the Association, with a financial contribution of $6,400 from the Municipality of La Pêche. While the cutter was put to use initially, it was soon found to be impractical. 
 It is unlikely that the use of any cutter, electric or manual, would be authorized by the province.
+* Learn more about blue-green algae in this [great article by Watersheds Canada](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
+
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
