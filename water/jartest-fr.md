@@ -1,4 +1,5 @@
 ---
+layout: default-fr
 title: Toxic blue-green algae - Les algues bleues toxiques
 description: Jar test and preventions, French version
 date: 2024-10-29T13:10:52-05:00
