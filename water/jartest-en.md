@@ -1,8 +1,10 @@
 ---
+layout: default-en
 title: Toxic blue-green algae - Les algues bleues toxiques
-description: Jar test and preventions
+description: Jar test and preventions, English version
 date: 2024-10-29T13:10:52-05:00
 ---
+
 ### Do a jar test if you suspect blue-green algae
 
 If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, follow these steps:
@@ -17,5 +19,3 @@ If you see a blue-green film (looks like paint or pollen) floating on the surfac
 
 In 2021, regular algae stayed mixed in water after 2-4 hours in fridge, versus a jar in 2020 where Blue-green algae floated to form a layer at the top. <br>
  <img src="/assets/img/jarsAfter2Hours.png" class="img-fluid py-3" alt="jar of regular algae stayed mixed in water and jar of blue-green algae floated to layer at top of water"/>
-
-Learn more about blue-green algae in this [great article by Watersheds Canada](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
