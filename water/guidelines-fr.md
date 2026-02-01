@@ -20,3 +20,5 @@ date: 2025-09-01
 
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/fa65a6b2-a624-48a4-9cc2-d5bcd3b83417" />
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/f5694efe-57f2-487d-939d-4beba3e20694" />
+
+Des copies imperméables en couleur d'une page des directives sont disponibles. Demandez qu'une (ou plusieurs) vous soit envoyée par la poste en envoyant votre adresse et votre langue de préférence à info@lacnotredame.org.
