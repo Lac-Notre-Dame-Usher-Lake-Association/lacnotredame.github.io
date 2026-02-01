@@ -7,13 +7,15 @@ date: 2025-09-01
 
 ### Directives relatives aux embarcations
 
-* Après consultation des résidents, l'association du lac a adopté des directives relatives aux embarcations visant à empêcher la propagation du myriophylle dans le lac. C'est simple: Il suffit d'éviter les mauvaises herbes.
-* La situation n'était pas aussi grave en 2025, mais le myriophylle était toujours présent dans toutes les zones rouges.
-* Veuillez rester en dehors des zones rouges, suivre toutes les directives et vous tenir à l'écart des bouées.
-* L'éte passé, nous avons frappé à toutes les portes autour du lac pour distribuer une copie durable de la carte des directives, qui a été réalisée pour montrer l'étendue de la couverture du myriophylle en 2024.
+* Le myriophylle à épis invasif de l’Eurasie est bien implanté dans le Lac Notre-Dame.  
+* Le myriophylle est présent dans une grande partie du lac car cette plante robuste se propage facilement et prospère dans les nombreuses zones peu profondes du Lac Notre-Dame.  
+* En juillet 2025, les membres présents à l’Assemblée annuelle de l’Association ont adopté à l’unanimité les Directives pour les embarcations afin de ralentir la propagation de cette plante.  
+* Merci de suivre les Directives (restez hors des zones ROUGES !) et de demander à vos invités de les suivre également !  
+* L’été dernier, nous avons frappé à chaque porte autour du lac pour remettre une copie durable de la Carte des Directives, produite pour montrer l’étendue de la couverture de myriophylle en 2024.  
 * Version imprimable (PDF): [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf)
 
 ### Sondage auprès des résidents
+* Une enquête menée auprès des résidents en juin 2025 a révélé un niveau élevé d’inquiétude concernant l’impact du myriophylle sur les usagers du lac et sur l’environnement.
 * Version imprimable (PDF): [Sondage auprès des résidents sur le myriophylle à épis - Juillet 2025](/assets/docs/Milfoil_survey_report_F.pdf)
 
 <img width="999" height="772" alt="image" src="https://github.com/user-attachments/assets/fa65a6b2-a624-48a4-9cc2-d5bcd3b83417" />
