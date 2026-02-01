@@ -1,7 +1,11 @@
+---
+layout: default-fr
+title: Weed Report
+description: Information on weed report, French version
+date: 2026-01-30
+---
 
-
-
-### Weed Team Report 2024 - présenté par Jane Hayward
+### Rapport 2024 du Weed Team - présenté par Jane Hayward
 
 Deux matinées de travail des bénévoles de l'équipe en juillet ont donné lieu à une collection importante, désormais en décomposition sur la propriété de Jane. Un merci spécial à Ken et à son tracteur pour les avoir déplacés de la rampe de mise à l'eau.
 
@@ -13,3 +17,5 @@ Même si nous avons apprécié l'effort communautaire, il est clair que gérer n
 4. Plus d'équipement : Les grands râteaux et les tapis de collecte sont essentiels mais coûteux.
 5. Nous devons changer la culture du lac pour empêcher la propagation du myriophylle grâce à une campagne de sensibilisation du public. 
 * Question sur l'opportunité d'arracher ou non les mauvaises herbes: Oui, arracher manuellement les mauvaises herbes par les racines est plus efficace que de couper sur de petites zones. Plus facile en eau peu profonde, équipement disponible chez CanadianPond. Cela ne devrait être fait qu'au début du printemps ou après la mi-juillet après la saison du frai. Essayez de ne pas trop perturber le fond pour réduire la dispersion des sédiments.
+
+<img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
