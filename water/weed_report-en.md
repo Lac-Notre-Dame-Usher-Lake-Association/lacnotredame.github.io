@@ -16,6 +16,6 @@ While we enjoyed the community effort, it's clear that managing the weeds oursel
 3. Flat-fronted boat (like a Jon boat) with an electric motor for more effective removal.  
 4. More equipment: Large rakes and collection mats are essential but costly.  
 5. We must shift the lake's culture to prevent milfoil spread through a public awareness campaign.    
-   * Question on whether or not to pull up weeds. Yes, manually pulling up the weeds by the roots is more effective than cutting for small areas.  Easiest in shallow water, equipment available at CanadianPond.  Should be done only in early spring or after mid-July after spawning season. Try not to disturb the bottom too much to reduce dispersion of sediment.
+   * Question on whether or not to pull up weeds: Yes, manually pulling up the weeds by the roots is more effective than cutting for small areas.  Easiest in shallow water, equipment available at CanadianPond.  Should be done only in early spring or after mid-July after spawning season. Try not to disturb the bottom too much to reduce dispersion of sediment.
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
