@@ -9,6 +9,7 @@ description: Homepage of the Association in English
 #### Welcome! <br>Read all about the priorities and activities of the association.
 ##### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
 <br>
+
 #### Milfoil
 * ##### [What is Eurasian Watermilfoil (Milfoil) and why is it bad?](/water/milfoil-en.md/)
 * ##### [Are herbicides the solution? The answer is NO!](/water/ProcellaCOR-en.md)
@@ -17,7 +18,6 @@ description: Homepage of the Association in English
 * ##### [Restore your shoreline to its natural state](/water/shoreline-en.md/)
 * ##### [Provincial Rules and Regulations](/water/rules-en.md/)
 * ##### [Watch these videos to learn more about Milfoil](/water/milfoil_videos-en.md/)
-[Watch these videos to learn more about Milfoil](/layouts/milfoil_videos-en.html/)
 
 #### Water Quality
 * ##### [Annual Test Results](/water/qualityreports-en.md/)
