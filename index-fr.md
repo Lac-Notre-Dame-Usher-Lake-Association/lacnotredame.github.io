@@ -6,9 +6,10 @@ description: Page principale de l'association en francais
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
+
 #### Bienvenue! <br>Découvrez les priorités et les activités de l’association.
 
-##### [Si ce n’est pas déjà fait, rejoignez l’association des lacs Notre-Dame et Usher!](/water/association-fr.md/)
+##### [Si ce n’est pas déjà fait, rejoignez l’association!](/water/association-fr.md/)
 <br> 
 
 #### Myriophylle
@@ -21,13 +22,13 @@ description: Page principale de l'association en francais
 * ##### Visionnez ces vidéos pour en savoir plus sur le myriophylle
 
 #### Qualité de l'eau
-* ##### Résultats des analyses annuelles
+* ##### [Résultats des analyses annuelles](/water/qualityreports-fr.md/)
 * ##### [Carte des sites de test](/map/map-fr.md/)
 * ##### [Conseils pour garder le lac propre](/water/keepclean-fr.md/)
 * ##### [Plan d'action pour la Bernache du Canada](/water/gooseaction-fr.md/)
 
-#### Cyanobactéries
-* ##### [Les cyanobactéries sont toxiques](/water/bluegreen-fr.md/)
+#### Algues bleues-vertes
+* ##### [Les algues bleues-vertes (cyanobactéries) sont toxiques](/water/bluegreen-fr.md/)
 * ##### [Effectuer le test du bocal](/water/jartest-fr.md/)
 
 #### Feux de forêt
