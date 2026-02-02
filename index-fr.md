@@ -40,22 +40,14 @@ Visionnez ces vidéos pour en savoir plus sur le myriophylle
 * ##### [Les cyanobactéries sont toxiques](/water/bluegreen-en.md/)
 
 * ##### [Effectuer un test en bocal](/water/jartest-en.md/)
-
 #### Feux de forêt
-
-* ##### [Savoir quand brûler et quand ne pas brûler](/water/wildfire-en.md/)
-
+* ##### [Savoir quand brûler et quand <i><b>ne pas brûler](/water/wildfire-en.md/)
 #### À propos de l'Association
-
 * ##### [Mandat de l'Association](/about/about-en.md/)
-
 * ##### [Membres du conseil d'administration](/about/BoardMembers-en.md/)
-
 * ##### Rapports annuels du conseil d'administration
-
 * ##### Rejoignez-nous
-
 * ##### Contactez-nous par courriel : info@lacnotredame.org
-##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
+* ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
