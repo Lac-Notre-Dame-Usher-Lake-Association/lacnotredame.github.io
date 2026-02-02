@@ -14,7 +14,7 @@ date: 2025-12-15
   * Ensure cigarettes or other smoking materials are dead cold before discarding them in the forest.
   * Follow [Municipality of La Pêche fire restrictions](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) which prohibit open fires of any kind when winds exceed 15 km/hour or when the Fire Danger Index is <r>Extreme</r>.
 
-
+assets/img/Wildfires.png
 * #### [Municipality of La Pêche fire restrictions](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png)
 
 * #### [SOPFEU's website for advices on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
