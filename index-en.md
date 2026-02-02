@@ -6,6 +6,7 @@ description: Homepage of the Association in English
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
+
 #### Welcome! <br>Read all about the priorities and activities of the association.
 ##### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
 <br>
