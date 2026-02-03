@@ -6,6 +6,7 @@ date: 2025-11-22
 ---
 ### Are herbicides the solution? The answer is NO
 <br>
+
 #### ***ProcellaCOR for milfoil is a permit-only herbicide!***
 Several property owners have asked whether ProcellaCOR can be used to control Eurasian milfoil. The answer is no — not without government permits, and possibly not at all.
 
