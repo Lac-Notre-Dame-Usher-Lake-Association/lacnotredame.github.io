@@ -5,6 +5,7 @@ description: Information on ProcellaCOR and herbicides, French version
 date: 2025-11-22
 ---
 ### Les herbicides sont-ils la solution ? La réponse est NON
+<br>
 
 #### ***ProcellaCOR contre le myriophylle à épis est un herbicide nécessitant un permis!***
 Plusieurs propriétaires se sont demandé si ProcellaCOR pouvait être utilisé pour contrôler le myriophylle à épis. La réponse est non — pas sans permis gouvernementaux, et peut-être pas du tout.
