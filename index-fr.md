@@ -13,13 +13,13 @@ description: Page principale de l'association en francais
 <br> 
 
 #### Myriophylle
-* ##### [Qu’est-ce que le myriophylle à épis (myriophylle) et pourquoi est-il nuisible ?](/water/milfoil-en.md/)
-* ##### [Les herbicides sont-ils la solution?] La réponse est NON!
-* ##### Veuillez suivre les consignes de navigation pour ralentir la propagation du myriophylle
-* ##### Éloignez-vous des bouées jaunes
-* ##### Restaurez votre rivage à son état naturel
-* ##### Règlements provinciaux
-* ##### Visionnez ces vidéos pour en savoir plus sur le myriophylle
+* ##### [Qu’est-ce que le myriophylle à épis (myriophylle) et pourquoi est-il nuisible ?](/water/milfoil-fr.md/)
+* ##### [Les herbicides sont-ils la solution? La réponse est NON!](/water/ProcellaCOR-fr.md/)
+* ##### [Veuillez suivre les consignes de navigation pour ralentir la propagation du myriophylle](/water/guidelines-fr.md/)
+* ##### [Éloignez-vous des bouées jaunes](/water/buoys-fr.md/)
+* ##### [Restaurez votre rivage à son état naturel](/water/sholeline-fr.md/)
+* ##### [Règlements provinciaux](/water/rules-fr.md/)
+* ##### [Visionnez ces vidéos pour en savoir plus sur le myriophylle](/water/milfoil_videos-fr.md/)
 
 #### Qualité de l'eau
 * ##### [Résultats des analyses annuelles](/water/qualityreports-fr.md/)
