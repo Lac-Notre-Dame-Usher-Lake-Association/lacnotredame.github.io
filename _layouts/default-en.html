@@ -29,11 +29,11 @@
                 </a>
                 <ul class="dropdown-menu me-auto dropdown-menu-lg-end" aria-labelledby="waterDropdown">
                   <li>
-                    <a class="dropdown-item {% if page.url == '/water/'%}active{% endif %} Milfoil</a>
+                    <a class="dropdown-item {% if page.url == '/water/' or page.url == '/water/qualityreports/index.html'%}active{% endif %}>Milfoil</a>
                   </li>
                   <li>
                    <ul>
-                     <li><a class="dropdown-item {% if page.url == '/water/milfoil-en/' %}active{% endif %}" href="/water/milfoil-en/">What is Eurasian Watermilfoil (Milfoil) and why is it bad?</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/water/milfoil-en/' %}active{% endif %}" href="/water/milfoil-en/" or page.url == '/water/qualityreports/index.html' What is Eurasian Watermilfoil (Milfoil) and why is it bad?</a></li>
                      <li><a class="dropdown-item {% if page.url == '/water/ProcellaCOR-en/' or page.url == '/water/ProcellaCOR-en/index.html' %}active{% endif %}" href="/water/milfoil-en/">Are herbicides the solution? The answer is NO!</a></li>
                      <li><a class="dropdown-item {% if page.url == '/water/guidelines-en/' or page.url == '/water/lnd-milfoil/index.html' %}active{% endif %}" href="/water/guidelines-en/"> Please follow Watercraft Guidelines to slow the spread of milfoil </a></li>
                    </ul>
