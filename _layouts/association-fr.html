@@ -25,38 +25,47 @@
         <ul class="navbar-nav me-auto"> <!-- me-auto aligns items to the left -->
            <li class="nav-item dropdown navbarNav">
                 <a class="nav-link dropdown-toggle {% if page.url contains '/water/' %}active{% endif %}" href="#" id="waterDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                 <b> Menu </b>
+                 <b> MENU </b>
                 </a>
                 <ul class="dropdown-menu me-auto dropdown-menu-lg-end" aria-labelledby="waterDropdown">
+                <li>
+                  <a href="/index-fr" id="enBtn">English</a>
+                </li>
                   <li>
-                    <a class="dropdown-item {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}" href="/">Page principale - Main page</a>
+                    <a class="dropdown-item {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}" href="/index-en">Accueil</a>
                   </li>
+                  <a>Myriophylle</a>
                   <li>
-                    <a class="dropdown-item {% if page.url == '/water/Guidelines/' or page.url == '/water/Guidelines/index.html' %}active{% endif %}" href="/water/Guidelines/">Directives aux embarcations - Watercraft Guidelines</a>
+                     <li><a class="dropdown-item {% if page.url == '/water/milfoil-fr/' or page.url == '/water/milfoil-fr/index.html' %}active{% endif %}" href="/water/milfoil-fr/">Qu’est-ce que le myriophylle à épis?</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/water/ProcellaCOR-fr/' or page.url == '/water/ProcellaCOR-fr/index.html' %}active{% endif %}" href="/water/ProcellaCOR-fr/">Les herbicides sont-ils la solution?</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/water/guidelines-fr/' or page.url == '/water/guidelines-fr/' %}active{% endif %}" href="/water/guidelines-fr/">Veuillez suivre les consignes de navigation</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/water/buoys-fr/' or page.url == '/water/buoys-fr/index.html' %}active{% endif %}" href="/water/buoys-fr/">Éloignez-vous des bouées jaunes</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/water/shoreline-fr/' or page.url == '/water/shoreline-fr/index.html' %}active{% endif %}" href="/water/shoreline-fr/">Restaurez votre rivage</a></li>        
+                     <li><a class="dropdown-item {% if page.url == '/water/rules-fr/' or page.url == '/water/rules-fr/index.html' %}active{% endif %}" href="/water/rules-fr/">Provincial Rules and Regulations</a></li> 
+                     <li><a class="dropdown-item {% if page.url == '/water/milfoil_videos-fr/' or page.url == '/water/milfoil_videos-fr/index.html' %}active{% endif %}" href="/water/milfoil_videos-fr/">Vidéos pour en savoir plus sur le myriophylle</a></li> 
                   </li>
+                  <a>Qualité de l'eau</a>
                   <li>
-                    <a class="dropdown-item {% if page.url == '/water/lnd-milfoil/' or page.url == '/water/lnd-milfoil/index.html' %}active{% endif %}" href="/water/lnd-milfoil/">Contrôle du myriophylle - Milfoil Control</a>
+                     <li><a class="dropdown-item {% if page.url == '/water/qualityreports-fr/' or page.url == '/water/qualityreports-fr/index.html' %}active{% endif %}" href="/water/qualityreports-fr/">Résultats des analyses annuelles</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/map/map-fr/' or page.url == '/map/map-fr/index.html' %}active{% endif %}" href="/map/map-fr/">Carte des sites d'analyse</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/water/keepclean-fr/' or page.url == '/water/keepclean-fr/' %}active{% endif %}" href="/water/keepclean-fr/">Conseils pour garder le lac propre</a></li>
+                     <li><a class="dropdown-item {% if page.url == '/water/gooseaction-fr/' or page.url == '/water/gooseaction-fr/index.html' %}active{% endif %}" href="/water/gooseaction-fr/">Plan d'action pour la Bernache du Canada</a></li>
                   </li>
+                  <a>Algues bleues-vertes</a>
                   <li>
-                    <a class="dropdown-item {% if page.url == '/water/qualityreports/' or page.url == '/water/qualityreports/index.html' %}active{% endif %}" href="/water/qualityreports/">Résultats des analyses d’eau - Water Testing Results</a>
+                    <li><a class="dropdown-item {% if page.url == '/water/bluegreen-fr/' or page.url == '/water/bluegreen-fr/index.html' %}active{% endif %}" href="/water/bluegreen-fr/">Les algues bleues-vertes sont toxiques</a></li>
+                    <li><a class="dropdown-item {% if page.url == '/water/jartest-fr/' or page.url == '/water/jartest-fr/index.html' %}active{% endif %}" href="/water/jartest-fr/">Effectuer le test du bocal</a></li>
                   </li>
+                  <a>Wildfires</a>
                   <li>
-                    <a class="dropdown-item {% if page.url == '/water/bluegreen/' or page.url == '/water/bluegreen/index.html' %}active{% endif %}" href="/water/bluegreen/">Algues bleu-vertes - Blue-green Algae</a>
+                    <li><a class="dropdown-item {% if page.url == '/water/wildfire-fr/' or page.url == '/water/wildfire-fr/index.html' %}active{% endif %}" href="/water/wildfire-fr/">Savoir quand brûler et quand ne pas brûler</a></li>
                   </li>
+                  <a>About the Association</a>
                   <li>
-                    <a class="dropdown-item {% if page.url == '/water/gooseaction/' or page.url == '/water/gooseaction/index.html' %}active{% endif %}" href="/water/gooseaction/">Plan d’action pour les bernaches - Canada Goose Action Plan</a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item {% if page.url == '/water/keepclean/' or page.url == '/water/qualityreports/index.html' %}active{% endif %}" href="/water/keepclean/">Gardons l’eau propre - Keep the Water Clean</a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item {% if page.url == '/water/Wildfire/' or page.url == '/water/Wildfire/index.html' %}active{% endif %}" href="/water/Wildfire/">Prévenir les feux de forêt - Preventing Wildfires</a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item {% if page.url == '/map/maps/' or page.url == '/water/Wildfire/index.html' %}active{% endif %}" href="/map/maps/">Carte du lac- Lake Map</a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item {% if page.url == '/about/Main/' or page.url == '/water/Wildfire/index.html' %}active{% endif %}" href="/about/Main/">Association</a>
+                    <li><a class="dropdown-item {% if page.url == '/about/about-fr/' or page.url == '/about/about-fr/index.html' %}active{% endif %}" href="/about/about-fr/">Mandat de l'association</a></li>
+                    <li><a class="dropdown-item {% if page.url == '/about/BoardMembers-fr/' or page.url == '/about/BoardMembers-fr/index.html' %}active{% endif %}" href="/about/BoardMembers-fr/">Membres du conseil d'administration</a></li>
+                    <li><a class="dropdown-item {% if page.url == '/about/BoardReports-fr/' or page.url == '/about/BoardReports-fr/index.html' %}active{% endif %}" href="/about/BoardReports-fr/">Rapports annuels du conseil d'administration</a></li>
+                    <li><a class="dropdown-item {% if page.url == '/water/association-fr/' or page.url == '/water/association-fr/index.html' %}active{% endif %}" href="/water/association-fr/">Rejoignez-nous</a></li>
                   </li>
                 </ul>
               </li> 
