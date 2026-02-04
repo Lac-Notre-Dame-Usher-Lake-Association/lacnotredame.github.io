@@ -77,13 +77,13 @@ l<!DOCTYPE html>
           </ul>
  </div>
 
-    <!-- NAVBAR -->
+    <!-- NAVBAR
     <nav class="navbar navbar-expand-lg navbar-light bg-light mb-0">
       <div class="container-fluid px-0">
         <a class="navbar-brand d-flex align-items-center" href="/">
         </a> 
         <div class="collapse navbar-collapse" id="navbarNav">
-           <ul class="navbar-nav me-auto mb-2 mb-lg-0"> <!-- me-auto aligns items to the left -->
+           <ul class="navbar-nav me-auto mb-2 mb-lg-0"> <!-- me-auto aligns items to the left
             {% if site.data.navigation %}
               {% for item in site.data.navigation %}
                 <li class="mainNav">
@@ -91,7 +91,7 @@ l<!DOCTYPE html>
                 </li>
               {% endfor %}
             {% else %}
-              <!-- Fallback: hard-coded links if no data file present -->
+              <!-- Fallback: hard-coded links if no data file present 
               <li class="mainNav"><a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/"><b>Accueil</b></a></li>
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/Guidelines/' %}active{% endif %}" href="/water/Guidelines/"><b>Directives aux embarcations</b></a></li>
               <li class="mainNav"><a class="nav-link {% if page.url == '/water/lnd-milfoil/' %}active{% endif %}" href="/water/lnd-milfoil/"><b>Contrôle du myriophylle</b></a></li>
@@ -107,8 +107,7 @@ l<!DOCTYPE html>
         </div>
       </div>
     </nav>
-    <!-- END NAVBAR -->
-
+     END NAVBAR -->
     <br>
     <main>
       {{ content }}
