@@ -13,7 +13,7 @@ description: Page principale de l'association en francais
 <br> 
 
 #### Myriophylle
-* ##### [Qu’est-ce que le myriophylle à épis (myriophylle) et pourquoi est-il nuisible ?](/water/milfoil-fr.md/)
+* ##### [Qu’est-ce que le myriophylle à épis et pourquoi est-il nuisible ?](/water/milfoil-fr.md/)
 * ##### [Les herbicides sont-ils la solution? La réponse est NON!](/water/ProcellaCOR-fr.md/)
 * ##### [Veuillez suivre les consignes de navigation pour ralentir la propagation du myriophylle](/water/guidelines-fr.md/)
 * ##### [Éloignez-vous des bouées jaunes](/water/buoys-fr.md/)
@@ -23,7 +23,7 @@ description: Page principale de l'association en francais
 
 #### Qualité de l'eau
 * ##### [Résultats des analyses annuelles](/water/qualityreports-fr.md/)
-* ##### [Carte des sites de test](/map/map-fr.md/)
+* ##### [Carte des sites d'analyse](/map/map-fr.md/)
 * ##### [Conseils pour garder le lac propre](/water/keepclean-fr.md/)
 * ##### [Plan d'action pour la Bernache du Canada](/water/gooseaction-fr.md/)
 
@@ -35,7 +35,7 @@ description: Page principale de l'association en francais
 * ##### [Savoir quand brûler et quand <i><b>ne pas</b></i> brûler](/water/wildfire-fr.md/)
 
 #### À propos de l'association
-* ##### [Mandat de l'Association](/about/about-fr.md/)
+* ##### [Mandat de l'association](/about/about-fr.md/)
 * ##### [Membres du conseil d'administration](/about/BoardMembers-fr.md/)
 * ##### [Rapports annuels du conseil d'administration](/about/BoardReports-fr.md/)
 * ##### [Rejoignez-nous](/water/association-fr.md/)
