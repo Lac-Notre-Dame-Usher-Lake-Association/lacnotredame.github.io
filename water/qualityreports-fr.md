@@ -1,6 +1,7 @@
 ---
+layout: default-fr
 Titre : Résultats des analyses d'eau
-Description : Résultats des analyses d'eau du lac Notre-Dame, Frenc version
+Description : Résultats des analyses d'eau du lac Notre-Dame, French version
 Date : 12 septembre 2023 à 13h10 (UTC-5)
 ---
 
