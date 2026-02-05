@@ -5,7 +5,7 @@ description: Yellow Buoys directive - French version
 date: 2026-01-27
 ---
 
-### Évitez les bouées jaunes
+### Éloignez-vous des bouées jaunes
 
 * Les bouées jaunes sur l'eau marquent les zones où la myriophylle à épis est proche de la surface.
 * Chaque morceau d'algue coupé par votre moteur forme de nouvelles plantes.
