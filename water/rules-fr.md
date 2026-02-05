@@ -5,7 +5,7 @@ description: Provincial Rules and Regulations overview - French version
 date: 2026-01-27
 ---
 
-### Règles et règlements provinciaux
+### Règlements provinciaux
 
 * Le gouvernement du Québec a établi des règles et des exigences strictes pour quiconque entreprend des mesures visant à gérer la présence du myriophylle à épis dans un plan d’eau du Québec.
 * Ces règles et exigences visent à protéger les espèces végétales et animales indigènes de nos lacs et de leurs abords.
