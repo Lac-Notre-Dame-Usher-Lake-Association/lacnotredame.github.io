@@ -4,7 +4,7 @@ title: Toxic blue-green algae - Les algues bleues toxiques
 description: Information on blue-green algae, English version
 date: 2024-10-29T13:10:52-05:00
 ---
-### Toxic Blue Green Algae
+### Blue Green Algae
 
 Alarmingly, Lac Notre Dame and other area lakes have had some recent blue-green algae sightings. Some of this type of algae is dangerous for swimming, washing and drinking.
 
