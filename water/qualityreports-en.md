@@ -47,11 +47,13 @@ Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. Lac Notre Dame has never had readings of less than 3 meters but some years readings are below 4m. 
 
-### 2014 ABV-7 Report and recommendations
+### 2014 ABV-7 Report and Recommendations
 
-In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre Dame. The report is in French.
+In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre-Dame. The report is available at the following links:
 
-* [Download the full report (PDF, Francais)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+* [Download the full report (PDF) in French](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+
+* [Download the full report (PDF) in English (translated by Deepl)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
 ABV-7 was mandated in June 2014 by the Municipality of La Pêche to characterize the shoreline of Lake Notre-Dame, assess the physico-chemical quality of the water and delimit the milfoil meadows on the lake. This information provided a picture of the current situation in order to slow down the eutrophication of the lake and combat its invasion by Eurasian water milfoil.
 
