@@ -29,9 +29,9 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * [Tous les résultats d'analyses d'eau par date et emplacement pour E. coli, les phosphates et l'azote depuis 2005 (Google Sheets)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
-* Des bénévoles de l'association prélèvent des échantillons d'eau à <u>des points précis</u> d'entrée et de sortie des lacs.
+* Des bénévoles de l'association prélèvent des échantillons d'eau à des <u>points précis</u> d'entrée et de sortie des lacs.
 
-* [Carte des emplacements de prélèvements d'eau](/map/maps/).
+* [Carte des emplacements de prélèvements d'eau](/map/map-fr/).
 
 #### Interprétation des résultats d'analyse de l'eau
 
