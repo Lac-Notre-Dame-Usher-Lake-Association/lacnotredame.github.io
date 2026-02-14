@@ -56,6 +56,7 @@ Pour une analyse plus approfondie des résultats, les [Lignes directrices canadi
 * En 2014, la municipalité de La Pêche et l’Association du lac ont mandaté la firme de consultants ABV-7 pour étudier le littoral et la qualité de l’eau du lac Notre-Dame. Le rapport est disponible au lien suivant:
 
   * [Télécharger le rapport complet (PDF)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+    
 
 * L’étude ABV-7 a été menée afin de caractériser le littoral du lac Notre-Dame, d’évaluer la qualité de l’eau et de cartographier les herbiers de myriophylle. L’objectif était de mieux comprendre l’état du lac pour lutter contre l’invasion du myriophylle à épis.
 
