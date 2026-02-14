@@ -65,6 +65,7 @@ To understand the in-depth results, these [Canadian Water Quality Guidelines for
 #### Stages of Eutrophication
 
 
+assets/img/Eutrophication-en.png
 
 * According to the ABV7 report, Lac Notre-Dame, originally an oligotrophic lake with clear, well-oxygenated waters and low nutrient levels, is showing signs of eutrophication. The lake's condition is shifting towards mesotrophy, as indicated by water quality data such as E. coli levels (2-10 CFU/100 ml), total phosphorus concentration (0.015 mg/L), water transparency (4-5 m), and dissolved oxygen saturation (<54%).
   
