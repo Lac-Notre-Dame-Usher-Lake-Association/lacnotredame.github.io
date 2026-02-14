@@ -5,11 +5,11 @@ description: Lac Notre Dame water testing results, English version
 date: 2023-09-12T13:10:52-05:00
 ---
 
-### Water testing results 
+### Water Resting Results 
 
 * With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
-#### Lac Notre Dame August 12, 2025 summary
+#### Lac Notre-Dame August 12, 2025 summary
 
 * Good news! The water this summer in Lac Notre Dame is very clean and healthy. E-coli at all locations is either below or just at detectable levels.
   
@@ -52,12 +52,12 @@ date: 2023-09-12T13:10:52-05:00
 
 #### 2014 ABV-7 Report and Recommendations
 
-In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre-Dame. The report is available at the following links:
+* In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre-Dame. The report is available at the following links:
 
-* [Download the full report (PDF) in French](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+  * [Download the full report (PDF) in French](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
-* [Download the full report (PDF) in English (translated by Deepl)](assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014-English.pdf)
+  * [Download the full report (PDF) in English (translated by Deepl)](assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014-English.pdf)
 
-ABV-7 was mandated in June 2014 by the Municipality of La Pêche to characterize the shoreline of Lake Notre-Dame, assess the physico-chemical quality of the water and delimit the milfoil meadows on the lake. This information provided a picture of the current situation in order to slow down the eutrophication of the lake and combat its invasion by Eurasian water milfoil.
+* ABV-7 was mandated in June 2014 by the Municipality of La Pêche to characterize the shoreline of Lake Notre-Dame, assess the physico-chemical quality of the water and delimit the milfoil meadows on the lake. This information provided a picture of the current situation in order to slow down the eutrophication of the lake and combat its invasion by Eurasian water milfoil.
 
-Eutrophication is the gradual process of a lake becoming too rich in nutrients like nitrogen and phosphorus. The nutrients feed the cycle of plant and algae growth, which over time, can result in oxygen depletion. Lac Notre Dame was characterized as between oligotrophic and the next stage of mesotrophic.
+* Eutrophication is the gradual process of a lake becoming too rich in nutrients like nitrogen and phosphorus. The nutrients feed the cycle of plant and algae growth, which over time, can result in oxygen depletion. Lac Notre Dame was characterized as between oligotrophic and the next stage of mesotrophic.
