@@ -9,9 +9,9 @@ date: 2026-01-27
 
 * Le myriophylle à épis, ou myriophylle, est une plante aquatique invasive qui pousse généralement entre un et quatre mètres de profondeur, mais peut s'enraciner jusqu'à dix mètres. Il peut former des tapis denses à la surface du lac, gênant la baignade, la pêche, la navigation et d'autres activités.
 
-* En mourant et en se décomposant à la fin de chaque saison, la plante consomme l'oxygène dissous dans l'eau, ce qui peut avoir des conséquences environnementales négatives.
+* En mourant et en se décomposant à la fin de chaque saison, la plante consomme l'oxygène dissous dans l'eau. Cela peut avoir un effet négatif sur les poissons et les autres animaux sauvages.
 
-* Le myriophylle se reproduit par fragmentation de ses tiges. Ce phénomène se produit naturellement de la mi-juillet à octobre, mais il peut être considérablement aggravé par les activités nautiques. Les embarcations de toutes sortes, motorisées ou non, contribuent à la création et à la propagation des fragments de myriophylle.
+* Le myriophylle se reproduit par fragmentation de ses tiges. Ce phénomène se produit naturellement de la mi-juillet à octobre, mais elle peut aussi être considérablement aggravée par les activités nautiques, qui sont connues pour être une cause importante de la propagation du myriophylle.
 
 * Le myriophylle entre en compétition avec les plantes indigènes pour les nutriments et, avec le temps, peut envahir la quasi-totalité, voire la totalité, de la végétation aquatique naturelle.
 
@@ -25,8 +25,9 @@ date: 2026-01-27
 
 * L'association a été fondée en 2004 en réponse à la prolifération du myriophylle à épis dans les lacs. L'Association a bénéficié des précieux conseils et de l'aide du biologiste Paul Hamilton du Musée Canadien de la Nature. M. Hamilton continue d'appuyer les efforts de l'association en analysant les résultats des analyses d'eau et en nous informant des changements importants de la qualité de l'eau.
 
-* Avant 2008, l'association a fait l'acquisition d'un coupe-lames électrique grâce à une contribution financière de $6400 de la municipalité de La Pêche. Bien que l'appareil ait été utilisé au début, il s'est rapidement avéré peu pratique. Il est peu probable que l'utilisation d'un coupe-lames, électrique ou manuel, soit autorisée par la province.
+* Avant 2008, l'association a fait l'acquisition d'un coupe-lames électrique grâce à une contribution financière de $6400 de la municipalité de La Pêche. Bien que l'appareil ait été utilisé au début, il s'est rapidement avéré peu pratique. De plus, les règlements provinciaux interdisent aujourd'hui la coupe du myriophylle.
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+
 
 
