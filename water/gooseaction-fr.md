@@ -9,8 +9,7 @@ date: 2019-08-23T13:10:52-05:00
 
 * Une oie adulte peut produire jusqu'à un kilogramme de crottes par jour, et ces déjections peuvent contaminer notre eau - ainsi que votre propriété.
 * Certains propriétaires de lacs avec des pelouses près de l'eau réussissent à éloigner les oies de leur nourriture préférée : l'herbe.
-* Nous avons élaboré un plan d'action pour le lac afin de minimiser les dégâts.
-* Suivez ces étapes pour empêcher les oies d'envahir votre propriété.
+* Nous avons élaboré un plan d'action pour le lac afin de minimiser les dégâts. Suivez ces étapes pour empêcher les oies d'envahir votre propriété.
 
 #### 1. NATURALISEZ VOTRE RIVAGE.
 
@@ -23,12 +22,12 @@ date: 2019-08-23T13:10:52-05:00
 * Les clôtures et les barrières de corde doivent mesurer au moins un demi-mètre et être proches du bord de l’eau.
 * Approches réussies: les propriétaires riverains utilisent des grosses branches, des cordes sur des piquets, des bordures ornementales (du magasin Dollorama), des câbles au milieu de leurs radeaux et d’autres solutions créatives qui empêchent les bernaches de sortir de l’eau.
 * Plus d’idées sur les clôtures et les obstacles disponibles sur le site d’Environnement Canada dans le [Manuel pour la gestion des populations de bernache](https://www.canada.ca/fr/environnement-changement-climatique/services/conservation-oiseaux-migrateurs/publications/manuel-gestion-bernache-hutchins-sud/chapitre-3.html#_toc07010201)
-* Autres idées qui semblent fonctionner: J & C ont installé des leurres pour cygnes avec des clôtures en corde et en métal, et S a installé un voyant «Away with Geese» qui clignote la nuit pour perturber les habitudes de sommeil des bernaches.
+* Autres idées qui semblent fonctionner: installer des leurres pour cygnes avec des clôtures en corde et en métal; installer un voyant «Away with Geese» qui clignote la nuit pour perturber les habitudes de sommeil des bernaches.
 
-#### 3. PRÉVENEZ L’ÉCLOSION OU EFFRAYEZ LES BERNACHES AU PRINTEMPS AVANT QU’ELLES NICHENT.
+#### 3. EFFRAYEZ LES BERNACHES AU PRINTEMPS AVANT QU’ELLES NICHENT.
 
 * Les adultes vont probablement partir tôt au printemps, avant leur mue, si leur nidification n’est pas réussie.
-* Nous avons cherché des nids en mai et au début de juin, mais ils étaient bien cachés - deux nids ont réussi cette année. Surveillez-les au printemps prochain – la bernache mâle est la sentinelle.
+* Surveillez les nids chaque printemps – la bernache mâle est la sentinelle.
 * Contactez-nous à [info@lacnotredame.org](mailto:info@lacnotredame.org) si vous repérez un nid et que vous souhaitez obtenir de l'aide.
 
 #### Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
