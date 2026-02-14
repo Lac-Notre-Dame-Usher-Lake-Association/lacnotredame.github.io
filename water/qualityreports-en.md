@@ -29,7 +29,7 @@ date: 2023-09-12T13:10:52-05:00
 
 * [All water testing results by date and location for E-coli, phosphates and nitrogen from 2005 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
-* Association volunteers collect water samples at specific locations where water enters and exits the lakes.
+* Association volunteers collect water samples at <u>specific locations</u> where water enters and exits the lakes.
 
 * [Map of water testing locations](/map/map-en.md/).
 
