@@ -14,7 +14,7 @@ date: 2017-12-29T13:10:52-05:00
 #### Il y a des zones peu profondes envahies par le myriophylle - tenez-vous éloigné d'elles.
 
 * Les bénévoles de l'association du lac placent des bouées chaque printemps pour marquer les zones avec un fort taux de myriophylle.
-* Le moteur de votre bateau hache le myriophylle en morceaux minuscules. Chacun de ces morceaux peut prendre racine et devenir une nouvelle plante, créant encore plus de myriophylle.
+* Tous les bateaux (motorisés ou non motorisés) hachent le myriophylle en petits morceaux. Chacun de ces morceaux peut développer des racines et devenir une nouvelle plante, créant ainsi davantage de myriophylle.
 
 #### Ce n'est pas une baignoire ou des toilettes – pas de savon, de déchets ou d'urine.
 
