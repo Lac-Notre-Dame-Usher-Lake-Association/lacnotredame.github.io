@@ -36,7 +36,7 @@ description: Homepage of the Association in English
 #### About the Association
 * ##### [Association's Mandate](/about/about-en.md/) 
 * ##### [Board Members](/about/BoardMembers-en.md/)
-* ##### [Yearly Board Reports](/about/BoardReports-en.md/)
+* ##### [Annual General Meeting Minutes](/about/BoardReports-en.md/)
 * ##### [Join Us](/water/association-en.md/)
 * ##### Contact us by email: [info@lacnotredame.org](mailto:info@lacnotredame.org)
 * ##### Facebook: [Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
