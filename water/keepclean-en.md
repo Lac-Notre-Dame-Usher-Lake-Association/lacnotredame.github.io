@@ -34,4 +34,4 @@ date: 2017-12-29T13:10:52-05:00
 
 * [Add this printable page to your guest binder (PDF in English & French)](/assets/docs/LacBinderPage-EN-FR.pdf)
 
-#### [Learn about reducing milfoil on Lakes Notre-Dame and Usher](/water/milfoil-en)
+#### [Learn about reducing milfoil on Lakes Notre-Dame and Usher](water/milfoil-en.md)
