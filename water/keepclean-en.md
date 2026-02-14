@@ -9,7 +9,6 @@ date: 2017-12-29T13:10:52-05:00
 
 #### It’s not a garden – don't dump ashes, fertilizer, or anything at all into the lake.
 
-* Do cut then remove the invasive Eurasian milfoil. Avoid pulling up weeds or doing anything to stir up the sediments on the bottom.
 * Avoid using fertilizer anywhere near the lake.
 
 #### There are shallow areas choked with milfoil - stay clear of them.  
