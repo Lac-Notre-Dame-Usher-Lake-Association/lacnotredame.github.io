@@ -29,9 +29,8 @@ date: 2026-01-27
 
 * Une [enquête menée auprès des résidents](/assets/docs/Milfoil_survey_report_F.pdf) en juin 2025 a révélé un niveau élevé d’inquiétude concernant l’impact du myriophylle sur les usagers du lac et sur l’environnement.
 
-* En savoir plus sur les algues bleues-vertes dans cet [excellent article de Watersheds Canada (en anglais)](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
-
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+
 
 
 
