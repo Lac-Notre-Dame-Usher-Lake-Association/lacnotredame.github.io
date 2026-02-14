@@ -7,40 +7,41 @@ date: 2023-09-12T13:10:52-05:00
 
 ### Water Resting Results 
 
-* With financial support from our members (Association membership fees & donations) and occasional financial support like the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
-
-#### Lac Notre-Dame August 12, 2025 summary
+#### Notre-Dame Lake - August 12, 2025 Summary
 
 * Good news! The water this summer in Lac Notre Dame is very clean and healthy. E-coli at all locations is either below or just at detectable levels.
   
-* Nitrogen  and phosphorus levels continue to be in the 'healthy' range with little change over the last 20+ years in these nutrients. Keep up the good work everyone on maintaining your septic systems, no fertilizer use,  and naturalizing your shorelines to reduce erosion and filter the run-off!
+* Nitrogen and phosphorus levels continue to be in the ‘healthy’ range with little change over the last 20+ years in these nutrients. Keep up the good work everyone on maintaining your septic systems, no fertilizer use, and naturalizing your shorelines to reduce erosion and filter the run-off!
   
 * The rain and high water levels in June and July reduced the light reaching the milfoil - there are very few mats on the surface and less growth, even in shallow areas. Water clarity is considerably higher than last year in 2024, signalling less nutrients in the water to feed milfoil and algae.
   
-* Thank you to volunteers Lisa Fast, Denis Corbeil and Carole Doré for collecting and delivering the water samples to the lab. 
+* Thank you to volunteers Lisa Fast, Denis Corbeil and Carole Doré for collecting and delivering the water samples to the lab.
+  
+Water samples are collected every year at the locations on the [map](https://lacnotredame.org/map/map-en/). Your association membership fees and donations pay for the water testing.
 
-#### Usher Lake August 12, 2025 summary  
-* Usher has better results than previous years. Bacteria levels, with higher e-coli  of 60 CFU [at location 10](https://lacnotredame.org/map/maps/). That is well below the 200 CFU limit for safe swimming. 
+#### Usher Lake - August 12, 2025 Summary 
 
-* Usher's nitrogen and phosphorus levels are expected given the small size of Usher, but do increase the risk of toxic Blue-Green Algae. 
+* Usher has better results than previous years. Bacteria levels, with higher e-coli of 60 CFU [at location 10](https://lacnotredame.org/map/maps/). That is well below the 200 CFU limit for safe swimming. 
+
+Usher’s nitrogen and phosphorus levels are expected given the small size of Usher but do increase the risk of toxic Blue Green Algae.
 
 #### View spreadsheet of water testing results by map location
 
 * [All water testing results by date and location for E-coli, phosphates and nitrogen from 2005 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
-* To understand the in-depth results, these [Canadian Water Quality Guidelines for the Protection of Aquatic Life](/assets/docs/water/water_quality_guidelines.pdf) provide some target levels.
-
-* Association volunteers collect water samples at specific locations where water enters and exits the lakes. Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
+Association volunteers collect water samples at specific locations where water enters and exits the lakes.
 
 * [Map of water testing locations](/map/map-en.md/).
 
 #### Understanding water testing results
 
-* <b>E.coli bacterium</b> - target levels below 10**. E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 200 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
+* To understand the in-depth results, these [Canadian Water Quality Guidelines for the Protection of Aquatic Life](/assets/docs/water/water_quality_guidelines.pdf) provide some target levels.
+  
+* <b>E.coli bacterium</b> - target levels below 10</b>E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 200 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
 
   * Prevention: septic system maintenance, and naturalized/protected shoreline to prevent geese.
 
-* <b>Phosphorus/phosphates</b> - target levels are below .005 mg/L**. Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. Lac Notre Dame is consistently close or within this range. 
+* <b>Phosphorus/phosphates</b> - target levels are below .005 mg/L</b>. Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. Lac Notre Dame is consistently close or within this range. 
 
   * Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers.  
 
