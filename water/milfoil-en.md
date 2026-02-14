@@ -9,9 +9,9 @@ date: 2026-01-27
  
 * Eurasian watermilfoil, or milfoil for short, is an invasive aquatic plant that generally grows at depths of one to four meters but can take root in depths up to ten meters. It can form dense carpets on the lake's surface interfering with swimming, fishing, boating and other activities.
   
-* As the plant dies and decays at the end of each season, it consumes oxygen dissolved in the water. This can have negative environmental consequences.
+* As the plant dies and decays at the end of each season, it consumes oxygen dissolved in the water. This can negatively affect fish and other wildlife.
   
-* Milfoil reproduces through the fragmentation of its stems. This occurs naturally from mid-July to October, but it can also be drastically worsened through nautical activities and watercraft of all kinds (both motorized and non-motorized) are known to contribute to the creation and spread of milfoil fragments.
+* Milfoil reproduces through the fragmentation of its stems. This occurs naturally from mid-July to October, but it can also be drastically worsened by nautical activities which are known to be a significant cause of milfoil spread.
   
 * Milfoil outcompetes native plants for nutrients and over time can overtake most if not all natural aquatic vegetation.
 
@@ -27,11 +27,11 @@ date: 2026-01-27
  
 * The Lake Association was founded in 2004 in response to the Eurasian watermilfoil explosion in the lakes. The Association received valued advice and assistance from biologist Paul Hamilton of the Canadian Museum of Nature. Mr. Hamilton continues to support the Association's efforts by analyzing water test results and advising us about important changes in the water quality.
  
-* An electric cutter was purchased before 2008 by the Association, with a financial contribution of $6,400 from the Municipality of La Pêche. While the cutter was put to use initially, it was soon found to be impractical. 
-It is unlikely that the use of any cutter, electric or manual, would be authorized by the province.
+* An electric cutter was purchased before 2008 by the Association, with a financial contribution of $6,400 from the Municipality of La Pêche. While the cutter was put to use initially, it was soon found to be impractical. Furthermore, provincial regulations today prohibit cutting of the milfoil.
 
 * Learn more about blue-green algae in this [great article by Watersheds Canada](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+
 
 
