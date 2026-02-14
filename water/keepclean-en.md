@@ -14,7 +14,7 @@ date: 2017-12-29T13:10:52-05:00
 #### There are shallow areas choked with milfoil - stay clear of them.  
 
 * Lake Association volunteers place buoys out each sprint to mark areas with heavy milfoil.
-* Your boat motor chops up milfoil into tiny pieces. Each of those pieces can grow roots and become a new plant, creating more milfoil.
+* All boats (motorized or non-motorized) chop up milfoil into tiny pieces. Each of those pieces can grow roots and become a new plant, creating more milfoil.
 
 #### It’s not a bathtub or toilet – no soap, waste or pee.
 
