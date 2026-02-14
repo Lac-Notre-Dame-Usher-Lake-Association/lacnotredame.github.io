@@ -30,9 +30,9 @@ date: 2024-10-29T13:10:52-05:00
 * Les algues bleues-vertes (et d'autres espèces d'algues) se développent en présence de nutriments tels que l'azote et le phosphore.  Les sources de ces nutriments sont, entre autres, les fosses septiques qui fuient, les engrais pour gazon et les déjections animales. Le ruissellement des eaux de pluie amplifie l'impact néfaste de ces sources.
 
 * Vous pouvez faire la différence dans notre lutte pour un lac sain :
- * Évitez d'utiliser des engrais pour pelouse sur votre propriété, surtout si les plantes naturelles et les arbustes ont été enlevés de votre rivage.
- * Laissez au moins 5 mètres non tondus près du rivage.
- * Plantez des espèces indigènes sur vos rives pour absorber et filtrer les nutriments avant qu'ils ne soient entraînés dans le lac par la pluie.
- * Maintenez votre système septique en bon état et vidangez-le au besoin, ou au moins tous les 2 ans pour les résidents permanents et tous les 4 ans pour les résidents saisonniers, selon les règles du Québec.
- * Réduisez le sillage produit par votre bateau.
- * En savoir plus sur les algues bleues-vertes dans cet [excellent article de Watersheds Canada (en anglais)](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
+  * Évitez d'utiliser des engrais pour pelouse sur votre propriété, surtout si les plantes naturelles et les arbustes ont été enlevés de votre rivage.
+  * Laissez au moins 5 mètres non tondus près du rivage.
+  * Plantez des espèces indigènes sur vos rives pour absorber et filtrer les nutriments avant qu'ils ne soient entraînés dans le lac par la pluie.
+  * Maintenez votre système septique en bon état et vidangez-le au besoin, ou au moins tous les 2 ans pour les résidents permanents et tous les 4 ans pour les résidents saisonniers, selon les règles du Québec.
+  * Réduisez le sillage produit par votre bateau.
+  * En savoir plus sur les algues bleues-vertes dans cet [excellent article de Watersheds Canada (en anglais)](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
