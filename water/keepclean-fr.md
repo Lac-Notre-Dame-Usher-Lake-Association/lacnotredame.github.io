@@ -34,4 +34,4 @@ date: 2017-12-29T13:10:52-05:00
 
 * [Ajoutez cette page imprimable à votre dossier d'invité (PDF en anglais et en français)](/assets/docs/LacBinderPage-EN-FR.pdf)
 
-#### [Découvrez comment réduire la myriophylle dans les lacs Notre-Dame et Usher](/assets/water/LacBinderPage-EN-FR.pdf)
+#### [Découvrez comment réduire la myriophylle dans les lacs Notre-Dame et Usher](/water/milfoil-fr.md)
