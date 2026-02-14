@@ -49,7 +49,7 @@ To understand the in-depth results, these [Canadian Water Quality Guidelines for
   * Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
   
 
-* <b>Transparency/Clarity</b> is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. Lac Notre Dame has never had readings of less than 3 meters but some years readings are below 4m.
+* <b>Transparency/Clarity</b> is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. Lac Notre Dame has never had readings of less than 3 meters but some years readings are below 4 meters.
 
 #### 2014 ABV-7 Report and Recommendations
 
