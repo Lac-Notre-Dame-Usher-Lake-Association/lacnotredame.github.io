@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: default-en
 title: Association
-description: Information about the association - English page
+description: Contact information - English page
 ---
 
 #### Contact the Association
