@@ -21,7 +21,7 @@ date: 2023-09-12T13:10:52-05:00
 
 #### Usher Lake - August 12, 2025 Summary 
 
-* Usher has better results than previous years. Bacteria levels, with higher e-coli of 60 CFU [at location 10](https://lacnotredame.org/map/maps/). That is well below the 200 CFU limit for safe swimming. 
+* Usher has better results than previous years. Bacteria levels, with higher e-coli of 60 CFU [at location 10](https://lacnotredame.org/map/map-en/). That is well below the 200 CFU limit for safe swimming. 
 
 * Usher’s nitrogen and phosphorus levels are expected given the small size of Usher but do increase the risk of toxic Blue Green Algae.
 
