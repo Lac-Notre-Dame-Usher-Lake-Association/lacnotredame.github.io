@@ -39,12 +39,15 @@ To understand the in-depth results, these [Canadian Water Quality Guidelines for
   
 * <b>E.coli bacterium - target levels below 10</b> E. coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 200 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it’s below 4 CFU.
   * Prevention: septic system maintenance and naturalized/protected shoreline to prevent geese from gathering and excess rain run-off.
+  
 
 * <b>Phosphorus/phosphates - target levels are below .005 mg/L</b> Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake and can reduce the oxygen content. Lac Notre Dame is consistently close or within this range.
-  * Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers.  
+  * Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers.
+  
 
 * <b>Nitrogen and nitrates - target levels below 0.35</b> Nitrogen occurs naturally and from fertilizers leaching into the water. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N). Lac Notre Dame locations are usually below 0.35 TKN. 
   * Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
+  
 
 * <b>Transparency/Clarity</b> is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. Lac Notre Dame has never had readings of less than 3 meters but some years readings are below 4m.
 
