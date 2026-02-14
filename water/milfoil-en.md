@@ -14,10 +14,10 @@ date: 2026-01-27
 * Milfoil reproduces through the fragmentation of its stems. This occurs naturally from mid-July to October, but it can also be drastically worsened through nautical activities and watercraft of all kinds (both motorized and non-motorized) are known to contribute to the creation and spread of milfoil fragments.
   
 * Milfoil outcompetes native plants for nutrients and over time can overtake most if not all natural aquatic vegetation.
-* 
+
 * Eurasian watermilfoil is estimated to have arrived in Lac Notre-Dame in 1994. Most likely the plant was first deposited in the lake by a boat or trailer carrying a small fragment of the weed.
  
-* The first attempt to map the plant in 2004 found a small number of isolated beds in shallow areas of the lake. Ten years later, in 2014, the consulting group ABV7 (Agence de bassin versant des 7) found the hearty milfoil plant had spread to more than 25% of the lake. Read the AVB7 report here. [LINK]
+* The first attempt to map the plant in 2004 found a small number of isolated beds in shallow areas of the lake. Ten years later, in 2014, the consulting group ABV7 (Agence de bassin versant des 7) found the hearty milfoil plant had spread to more than 25% of the lake. Read the AVB7 report [here](  )
  
 * Despite control efforts, milfoil can now be found in most shallow areas of the lake.
  
@@ -33,4 +33,3 @@ It is unlikely that the use of any cutter, electric or manual, would be authoriz
 * Learn more about blue-green algae in this [great article by Watersheds Canada](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
-
