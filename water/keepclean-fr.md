@@ -9,7 +9,6 @@ date: 2017-12-29T13:10:52-05:00
 
 #### Ce n'est pas un jardin – ne jetez pas de cendres, d'engrais ou quoi que ce soit dans le lac.
 
-* Coupez puis enlevez le myriophylle du milieux envahissant. Évitez de tirer sur les mauvaises herbes ou de faire quoi que ce soit qui pourrait remuer les sédiments au fond.
 * Évitez d'utiliser des engrais près du lac.
 
 #### Il y a des zones peu profondes envahies par le myriophylle - tenez-vous éloigné d'elles.
