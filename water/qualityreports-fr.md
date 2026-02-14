@@ -51,10 +51,21 @@ Des échantillons d'eau sont prélevés chaque année aux emplacements indiqués
 
 #### Rapport et recommandations de l'ABV-7 (2014)
 
-* En 2014, la municipalité de La Pêche, en collaboration avec l'Association, a produit un rapport sur le littoral et les eaux du lac Notre-Dame. Le rapport est disponible au lien suivant:
+* In 2014, the Municipality of La Pêche and the Lake Association, commissioned the consulting firm ABV-7 to study the shoreline and water quality of Lac Notre-Dame. Le rapport est disponible au lien suivant:
 
  * [Télécharger le rapport complet (PDF)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
-* En juin 2014, la municipalité de La Pêche a mandaté l'ABV-7 pour caractériser le littoral du lac Notre-Dame, évaluer la qualité physico-chimique de ses eaux et délimiter les herbiers de myriophylle. Ces données ont permis d'établir un état des lieux afin de ralentir l'eutrophisation du lac et de lutter contre l'invasion du myriophylle à épis.
+* ABV-7 was commissioned to characterize the shoreline of Lake Notre-Dame, assess the quality of the water and chart the milfoil meadows on the lake. The purpose of this study was to better understand the state of the lake in order to combat its invasion by Eurasian watermilfoil.
 
-* L'eutrophisation est le processus graduel d'enrichissement excessif d'un lac en nutriments comme l'azote et le phosphore. Les nutriments alimentent le cycle de croissance des plantes et des algues, ce qui peut, à terme, entraîner une diminution de l'oxygène. Le lac Notre-Dame a été caractérisé comme étant entre le stade oligotrophe et le stade mésotrophe.
+* The study provides detailed information about eutrophication, which is the process of lake aging. As lakes age, they become increasingly rich in nutrients like nitrogen and phosphorous, a condition that encourages the growth of aquatic plants including the invasive Eurasian watermilfoil.
+  
+* The eutrophication process modifies lake characteristics, causing sediment and organic matter build-up, reduced oxygen levels in the water, and a shift in plant species composition. This process can play out over a geological timeframe (i.e. thousands of years). It can also be accelerated by human activity including urbanization, septic system failures, recreational activities and climate change.
+
+#### Stages of Eutrophication
+<div>
+<img src="/assets/img/Eutrophication-fr.png" class="img-fluid py-3"/>
+</div>
+
+* According to the ABV7 report, Lac Notre-Dame, originally an oligotrophic lake with clear, well-oxygenated waters and low nutrient levels, is showing signs of eutrophication. The lake's condition is shifting towards mesotrophy, as indicated by water quality data such as E. coli levels (2-10 CFU/100 ml), total phosphorus concentration (0.015 mg/L), water transparency (4-5 m), and dissolved oxygen saturation (<54%).
+  
+* Phosphorus is identified as the main nutrient responsible for the eutrophication of Lac Notre Dame, with sources including natural inputs (wetlands, erosion, organic matter decomposition) and anthropogenic inputs (stretches of shoreline with no vegetation to filter nutrients from runoff into the lake, septic systems, phosphate-rich products, and fertilizers). ABV7 recommendations to combat eutrophication include enforcing shoreline protection regulations, revegetating degraded shoreline areas, controlling phosphorus inputs, and educating residents on good water protection practices.
