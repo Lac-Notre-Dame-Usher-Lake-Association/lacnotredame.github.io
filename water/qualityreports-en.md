@@ -63,9 +63,9 @@ To understand the in-depth results, these [Canadian Water Quality Guidelines for
 * The eutrophication process modifies lake characteristics, causing sediment and organic matter build-up, reduced oxygen levels in the water, and a shift in plant species composition. This process can play out over a geological timeframe (i.e. thousands of years). It can also be accelerated by human activity including urbanization, septic system failures, recreational activities and climate change.
 
 #### Stages of Eutrophication
-
-
-assets/img/Eutrophication-en.png
+<div>
+<img src="/assets/img/Eutrophication-en.png" class="img-fluid py-3"/>
+</div>
 
 * According to the ABV7 report, Lac Notre-Dame, originally an oligotrophic lake with clear, well-oxygenated waters and low nutrient levels, is showing signs of eutrophication. The lake's condition is shifting towards mesotrophy, as indicated by water quality data such as E. coli levels (2-10 CFU/100 ml), total phosphorus concentration (0.015 mg/L), water transparency (4-5 m), and dissolved oxygen saturation (<54%).
   
