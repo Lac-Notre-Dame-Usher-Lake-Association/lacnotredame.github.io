@@ -4,7 +4,7 @@ title: Association
 description: Information about the association - English page
 ---
 
-# Our Association
+### Contact the Association
 
 Welcome to the Notre-Dame and Usher Lakes Association. Our association is dedicated to preserving and protecting the quality of our lakes and watershed.
 
