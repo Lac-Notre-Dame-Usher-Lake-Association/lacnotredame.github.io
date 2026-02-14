@@ -51,23 +51,23 @@ Pour une analyse plus approfondie des résultats, les [Lignes directrices canadi
 
 * <b>La transparence de l’eau</b> est un indicateur de la santé du lac - une eau claire et transparente est signe de bonne santé. La transparence de l’eau est mesurée à l’aide d’un disque de Secchi. Une faible transparence (moins de 3 mètres) peut être un signe d’eutrophisation. Le lac Notre-Dame n’a jamais enregistré de mesures inférieures à 3 mètres, mais certaines années, la transparence est inférieure à 4 mètres.
 
-#### Rapport et recommandations de l'ABV-7 (2014)
+#### Rapport et recommandations 2014 de l'ABV-7
 
-* In 2014, the Municipality of La Pêche and the Lake Association, commissioned the consulting firm ABV-7 to study the shoreline and water quality of Lac Notre-Dame. Le rapport est disponible au lien suivant:
+* En 2014, la municipalité de La Pêche et l’Association du lac ont mandaté la firme de consultants ABV-7 pour étudier le littoral et la qualité de l’eau du lac Notre-Dame. Le rapport est disponible au lien suivant:
 
- * [Télécharger le rapport complet (PDF)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+  * [Télécharger le rapport complet (PDF)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
-* ABV-7 was commissioned to characterize the shoreline of Lake Notre-Dame, assess the quality of the water and chart the milfoil meadows on the lake. The purpose of this study was to better understand the state of the lake in order to combat its invasion by Eurasian watermilfoil.
+* L’étude ABV-7 a été menée afin de caractériser le littoral du lac Notre-Dame, d’évaluer la qualité de l’eau et de cartographier les herbiers de myriophylle. L’objectif était de mieux comprendre l’état du lac pour lutter contre l’invasion du myriophylle à épis.
 
-* The study provides detailed information about eutrophication, which is the process of lake aging. As lakes age, they become increasingly rich in nutrients like nitrogen and phosphorous, a condition that encourages the growth of aquatic plants including the invasive Eurasian watermilfoil.
-  
-* The eutrophication process modifies lake characteristics, causing sediment and organic matter build-up, reduced oxygen levels in the water, and a shift in plant species composition. This process can play out over a geological timeframe (i.e. thousands of years). It can also be accelerated by human activity including urbanization, septic system failures, recreational activities and climate change.
+* L’étude fournit des informations détaillées sur l’eutrophisation, un processus lié au vieillissement des lacs. Avec l’âge, les lacs s’enrichissent en nutriments comme l’azote et le phosphore, ce qui favorise la prolifération de plantes aquatiques, notamment le myriophylle à épis, une espèce envahissante.
 
-#### Stages of Eutrophication
+* L’eutrophisation modifie les caractéristiques du lac, entraînant une accumulation de sédiments et de matières organiques, une diminution du taux d’oxygène dans l’eau et une modification de la composition des espèces végétales. Ce processus peut se dérouler sur des échelles de temps géologiques (des milliers d’années). Il peut également être accéléré par les activités humaines, telles que l’urbanisation, les défaillances des fosses septiques, les activités récréatives et les changements climatiques.
+
+#### Étapes de l'eutrophisation
 <div>
 <img src="/assets/img/Eutrophication-fr.png" class="img-fluid py-3"/>
 </div>
 
-* According to the ABV7 report, Lac Notre-Dame, originally an oligotrophic lake with clear, well-oxygenated waters and low nutrient levels, is showing signs of eutrophication. The lake's condition is shifting towards mesotrophy, as indicated by water quality data such as E. coli levels (2-10 CFU/100 ml), total phosphorus concentration (0.015 mg/L), water transparency (4-5 m), and dissolved oxygen saturation (<54%).
-  
-* Phosphorus is identified as the main nutrient responsible for the eutrophication of Lac Notre Dame, with sources including natural inputs (wetlands, erosion, organic matter decomposition) and anthropogenic inputs (stretches of shoreline with no vegetation to filter nutrients from runoff into the lake, septic systems, phosphate-rich products, and fertilizers). ABV7 recommendations to combat eutrophication include enforcing shoreline protection regulations, revegetating degraded shoreline areas, controlling phosphorus inputs, and educating residents on good water protection practices.
+* Selon le rapport ABV7, le lac Notre-Dame, initialement oligotrophe, aux eaux claires et bien oxygénées et à faible teneur en nutriments, présente des signes d'eutrophisation. Son état évolue vers la mésotrophie, comme l'indiquent les données de qualité de l'eau, notamment les concentrations d'E. coli (2 à 10 UFC/100 ml), de phosphore total (0,015 mg/L), la transparence de l'eau (4 à 5 m) et la saturation en oxygène dissous (< 54 %).
+
+* Le phosphore est identifié comme le principal nutriment responsable de l'eutrophisation du lac Notre-Dame. Ses sources comprennent des apports naturels (zones humides, érosion, décomposition de la matière organique) et anthropiques (tronçons de rive dépourvues de végétation pour filtrer les nutriments provenant du ruissellement, fosses septiques, produits riches en phosphates et engrais). Les recommandations d'ABV7 pour lutter contre l'eutrophisation comprennent l'application des réglementations en matière de protection du littoral, la revégétalisation des zones littorales dégradées, le contrôle des apports de phosphore et la sensibilisation des résidents aux bonnes pratiques de protection de l'eau.
