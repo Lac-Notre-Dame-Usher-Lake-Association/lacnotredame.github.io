@@ -37,28 +37,38 @@ Association volunteers collect water samples at specific locations where water e
 
 * To understand the in-depth results, these [Canadian Water Quality Guidelines for the Protection of Aquatic Life](/assets/docs/water/water_quality_guidelines.pdf) provide some target levels.
   
-* <b>E.coli bacterium</b> - target levels below 10</b>E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 200 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
+* <b>E.coli bacterium - target levels below 10</b> E. coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 200 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it’s below 4 CFU.
 
-  * Prevention: septic system maintenance, and naturalized/protected shoreline to prevent geese.
+  * Prevention: septic system maintenance and naturalized/protected shoreline to prevent geese from gathering and excess rain run-off.
 
-* <b>Phosphorus/phosphates</b> - target levels are below .005 mg/L</b>. Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. Lac Notre Dame is consistently close or within this range. 
+* <b>Phosphorus/phosphates - target levels are below .005 mg/L</b> Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake and can reduce the oxygen content. Lac Notre Dame is consistently close or within this range.
 
   * Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers.  
 
-* <b>Nitrogen and nitrates</b> - target levels below 0.35**. Nitrogen occurs naturally and from fertilizers leaching into the water. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N). Lac Notre Dame locations are usually below 0.35 TKN. 
+* <b>Nitrogen and nitrates - target levels below 0.35</b> Nitrogen occurs naturally and from fertilizers leaching into the water. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N). Lac Notre Dame locations are usually below 0.35 TKN. 
 
   * Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 
-* <b>Transparency/Clarity</b> is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. Lac Notre Dame has never had readings of less than 3 meters but some years readings are below 4m. 
+* <b>Transparency/Clarity</b> is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. Lac Notre Dame has never had readings of less than 3 meters but some years readings are below 4m.
 
 #### 2014 ABV-7 Report and Recommendations
 
-* In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre-Dame. The report is available at the following links:
+* In 2014, the Municipality of La Pêche and the Lake Association, commissioned the consulting firm ABV-7 to study the shoreline and water quality of Lac Notre-Dame. The report is available at the following links:
 
   * [Download the full report (PDF) in French](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
-  * [Download the full report (PDF) in English (translated by Deepl)](assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014-English.pdf)
+  * [Download the full report (PDF) in English (translated by DeepL)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014-English.pdf)
 
-* ABV-7 was mandated in June 2014 by the Municipality of La Pêche to characterize the shoreline of Lake Notre-Dame, assess the physico-chemical quality of the water and delimit the milfoil meadows on the lake. This information provided a picture of the current situation in order to slow down the eutrophication of the lake and combat its invasion by Eurasian water milfoil.
+* ABV-7 was commissioned to characterize the shoreline of Lake Notre-Dame, assess the quality of the water and chart the milfoil meadows on the lake. The purpose of this study was to better understand the state of the lake in order to combat its invasion by Eurasian watermilfoil.
 
-* Eutrophication is the gradual process of a lake becoming too rich in nutrients like nitrogen and phosphorus. The nutrients feed the cycle of plant and algae growth, which over time, can result in oxygen depletion. Lac Notre Dame was characterized as between oligotrophic and the next stage of mesotrophic.
+* The study provides detailed information about eutrophication, which is the process of lake aging. As lakes age, they become increasingly rich in nutrients like nitrogen and phosphorous, a condition that encourages the growth of aquatic plants including the invasive Eurasian watermilfoil.
+  
+* The eutrophication process modifies lake characteristics, causing sediment and organic matter build-up, reduced oxygen levels in the water, and a shift in plant species composition. This process can play out over a geological timeframe (i.e. thousands of years). It can also be accelerated by human activity including urbanization, septic system failures, recreational activities and climate change.
+
+#### Stages of Eutrophication
+
+
+
+* According to the ABV7 report, Lac Notre-Dame, originally an oligotrophic lake with clear, well-oxygenated waters and low nutrient levels, is showing signs of eutrophication. The lake's condition is shifting towards mesotrophy, as indicated by water quality data such as E. coli levels (2-10 CFU/100 ml), total phosphorus concentration (0.015 mg/L), water transparency (4-5 m), and dissolved oxygen saturation (<54%).
+  
+* Phosphorus is identified as the main nutrient responsible for the eutrophication of Lac Notre Dame, with sources including natural inputs (wetlands, erosion, organic matter decomposition) and anthropogenic inputs (stretches of shoreline with no vegetation to filter nutrients from runoff into the lake, septic systems, phosphate-rich products, and fertilizers). ABV7 recommendations to combat eutrophication include enforcing shoreline protection regulations, revegetating degraded shoreline areas, controlling phosphorus inputs, and educating residents on good water protection practices.
