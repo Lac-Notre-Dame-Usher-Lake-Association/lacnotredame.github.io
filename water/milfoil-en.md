@@ -31,7 +31,6 @@ date: 2026-01-27
   
 * A [survey of residents](/assets/docs/Milfoil_survey_report_E.pdf) in June 2025 found a high level of concern about milfoil’s impact on laker users and the environment.
 
-* Learn more about blue-green algae in this [great article by Watersheds Canada](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
-
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+
 
