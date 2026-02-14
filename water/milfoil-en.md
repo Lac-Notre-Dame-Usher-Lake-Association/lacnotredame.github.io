@@ -17,7 +17,7 @@ date: 2026-01-27
 
 * Eurasian watermilfoil is estimated to have arrived in Lac Notre-Dame in 1994. Most likely the plant was first deposited in the lake by a boat or trailer carrying a small fragment of the weed.
  
-* The first attempt to map the plant in 2004 found a small number of isolated beds in shallow areas of the lake. Ten years later, in 2014, the consulting group ABV7 (Agence de bassin versant des 7) found the hearty milfoil plant had spread to more than 25% of the lake. Read the AVB7 report [here](  )
+* The first attempt to map the plant in 2004 found a small number of isolated beds in shallow areas of the lake. Ten years later, in 2014, the consulting group ABV7 (Agence de bassin versant des 7) found the hearty milfoil plant had spread to more than 25% of the lake. Read the AVB7 report [here](assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
  
 * Despite control efforts, milfoil can now be found in most shallow areas of the lake.
  
@@ -33,3 +33,4 @@ It is unlikely that the use of any cutter, electric or manual, would be authoriz
 * Learn more about blue-green algae in this [great article by Watersheds Canada](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+
