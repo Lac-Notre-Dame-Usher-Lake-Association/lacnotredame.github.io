@@ -51,10 +51,10 @@ Des échantillons d'eau sont prélevés chaque année aux emplacements indiqués
 
 #### Rapport et recommandations de l'ABV-7 (2014)
 
-En 2014, la municipalité de La Pêche, en collaboration avec l'Association, a produit un rapport sur le littoral et les eaux du lac Notre-Dame. Le rapport est disponible au lien suivant:
+* En 2014, la municipalité de La Pêche, en collaboration avec l'Association, a produit un rapport sur le littoral et les eaux du lac Notre-Dame. Le rapport est disponible au lien suivant:
 
-* [Télécharger le rapport complet (PDF)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+ * [Télécharger le rapport complet (PDF)](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
-En juin 2014, la municipalité de La Pêche a mandaté l'ABV-7 pour caractériser le littoral du lac Notre-Dame, évaluer la qualité physico-chimique de ses eaux et délimiter les herbiers de myriophylle. Ces données ont permis d'établir un état des lieux afin de ralentir l'eutrophisation du lac et de lutter contre l'invasion du myriophylle à épis.
+* En juin 2014, la municipalité de La Pêche a mandaté l'ABV-7 pour caractériser le littoral du lac Notre-Dame, évaluer la qualité physico-chimique de ses eaux et délimiter les herbiers de myriophylle. Ces données ont permis d'établir un état des lieux afin de ralentir l'eutrophisation du lac et de lutter contre l'invasion du myriophylle à épis.
 
-L'eutrophisation est le processus graduel d'enrichissement excessif d'un lac en nutriments comme l'azote et le phosphore. Les nutriments alimentent le cycle de croissance des plantes et des algues, ce qui peut, à terme, entraîner une diminution de l'oxygène. Le lac Notre-Dame a été caractérisé comme étant entre le stade oligotrophe et le stade mésotrophe.
+* L'eutrophisation est le processus graduel d'enrichissement excessif d'un lac en nutriments comme l'azote et le phosphore. Les nutriments alimentent le cycle de croissance des plantes et des algues, ce qui peut, à terme, entraîner une diminution de l'oxygène. Le lac Notre-Dame a été caractérisé comme étant entre le stade oligotrophe et le stade mésotrophe.
