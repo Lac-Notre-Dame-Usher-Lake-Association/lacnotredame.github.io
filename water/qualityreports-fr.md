@@ -21,7 +21,7 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 #### Lac Usher - Résumé du 12 août 2025
 
-* Le lac Usher présente de meilleurs résultats que les années précédentes. Les niveaux de bactéries, avec un taux d'E. coli plus élevé (60 UFC) [à l'emplacement 10](https://lacnotredame.org/map/maps/), sont bien inférieurs à la limite de 200 UFC pour la baignade en toute sécurité.
+* Le lac Usher présente de meilleurs résultats que les années précédentes. Les niveaux de bactéries, avec un taux d'E. coli plus élevé (60 UFC) [à l'emplacement 10](https://lacnotredame.org/map/map-fr/), sont bien inférieurs à la limite de 200 UFC pour la baignade en toute sécurité.
 
 * Les niveaux d'azote et de phosphore du lac Usher sont conformes aux attentes compte tenu de leur faible quantité, mais augmentent le risque de prolifération d'algues bleu-vert toxiques.
 
@@ -37,19 +37,19 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 Pour une analyse plus approfondie des résultats, les [Lignes directrices canadiennes sur la qualité de l'eau pour la protection de la vie aquatique](/assets/docs/water/water_quality_guidelines.pdf) fournissent des valeurs cibles.
 
-* <b>Bactérie E. coli</b> - Niveaux cibles inférieurs à 10**. E. coli peut provoquer des maladies graves. Sa présence dans l'eau est un indicateur fort d'une contamination récente par des eaux usées ou des déjections animales (castors, oies !). Pour la baignade, la limite de sécurité est inférieure à 200 UFC (UFC = Unités formant colonies dans 100 ml d'eau), et pour l'eau potable, elle est inférieure à 4 UFC.
+* <b>Bactérie E. coli - Niveaux cibles inférieurs à 10</b> E. coli peut provoquer des maladies graves. Sa présence dans l'eau est un indicateur fort d'une contamination récente par des eaux usées ou des déjections animales (castors, oies !). Pour la baignade, la limite de sécurité est inférieure à 200 UFC (UFC = Unités formant colonies dans 100 ml d'eau), et pour l'eau potable, elle est inférieure à 4 UFC.
+  * Prévention: entretien des fosses septiques et naturalisation/protection du littoral pour empêcher les oies de se rassembler et limiter le ruissellement excessif des eaux pluviales.
+    
 
-  * Prévention : entretien des fosses septiques et protection des berges pour éloigner les oies.
+* <b>Phosphore/phosphates - Niveaux cibles inférieurs à 0,005 mg/L</b> Les eaux de ruissellement naturelles provenant des minéraux, de l'érosion et des eaux pluviales, ainsi que les eaux de ruissellement provenant des engrais et des déchets, peuvent fertiliser les plantes et les algues du lac et réduire sa teneur en oxygène. Le lac Notre-Dame se situe constamment à proximité ou dans cette fourchette.
+  * Prévention: rivages naturalisés, réduction du sillage des bateaux, utilisation restreinte d'engrais.
+    
 
-* <b>Phosphore/phosphates</b> - Niveaux cibles inférieurs à 0,005 mg/L**. Les eaux de ruissellement naturelles provenant des minéraux, de l'érosion et des eaux pluviales, ainsi que les eaux de ruissellement provenant des engrais et des déchets, peuvent fertiliser les plantes et les algues du lac et réduire sa teneur en oxygène. Le lac Notre-Dame se situe constamment à proximité ou dans cette fourchette.
+* <b>Azote et nitrates – niveaux cibles inférieurs à 0,35</b> L’azote est présent naturellement et provient du lessivage des engrais dans l’eau. Nous indiquons le taux d’azote Kjeldahl total (NKT), qui correspond à la somme de l’azote lié aux matières organiques, de l’azote ammoniacal (NH₃-N) et de l’azote ammoniacal (NH₄⁺-N). Le taux de NKT au lac Notre-Dame est généralement inférieur à 0,35.
+  * Prévention: rivage naturalisé (pas de pelouse) et utilisation nulle d'engrais.
+    
 
-  * Prévention : protection des berges, réduction du sillage des bateaux, utilisation limitée des engrais.
-
-* <b>Azote et nitrates</b> – niveaux cibles inférieurs à 0,35**. L’azote est présent naturellement et provient du lessivage des engrais dans l’eau. Nous indiquons le taux d’azote Kjeldahl total (NKT), qui correspond à la somme de l’azote lié aux matières organiques, de l’azote ammoniacal (NH₃-N) et de l’azote ammoniacal (NH₄⁺-N). Le taux de NKT au lac Notre-Dame est généralement inférieur à 0,35.
-
-  * Prévention : laisser les berges se renaturaliser (pas de pelouse) et ne pas utiliser d’engrais.
-
-* <b>La transparence de l’eau</b> est un indicateur de la santé du lac : une eau claire et transparente est signe de bonne santé. La transparence de l’eau est mesurée à l’aide d’un disque de Secchi. Une faible transparence (moins de 3 mètres) peut être un signe d’eutrophisation. Le lac Notre-Dame n’a jamais enregistré de mesures inférieures à 3 mètres, mais certaines années, la transparence est inférieure à 4 mètres.
+* <b>La transparence de l’eau</b> est un indicateur de la santé du lac - une eau claire et transparente est signe de bonne santé. La transparence de l’eau est mesurée à l’aide d’un disque de Secchi. Une faible transparence (moins de 3 mètres) peut être un signe d’eutrophisation. Le lac Notre-Dame n’a jamais enregistré de mesures inférieures à 3 mètres, mais certaines années, la transparence est inférieure à 4 mètres.
 
 #### Rapport et recommandations de l'ABV-7 (2014)
 
