@@ -7,17 +7,19 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 ### Résultats des analyses d'eau
 
-Des échantillons d'eau sont prélevés chaque année aux emplacements indiqués sur la [carte](/map/maps/). Vos cotisations et dons à l'association financent ces analyses.
+#### Lac Notre-Dame - Résumé du 12 août 2025
 
-#### Résumé du lac Notre-Dame, 12 août 2025
+* Bonne nouvelle ! L’eau du lac Notre-Dame est très propre et saine cet été. Les concentrations d’E. coli sont nulles ou à peine détectables partout.
 
-* Bonne nouvelle ! L'eau du lac Notre-Dame est très propre et saine cet été. Le taux d'E. coli est inférieur ou à peine détectable à tous les points de prélèvement.
+* Les concentrations d’azote et de phosphore demeurent dans la fourchette « saine », sans changement notable depuis plus de 20 ans. Bravo à tous pour vos efforts d’entretien des fosses septiques, l’absence d’engrais et la renaturalisation des berges pour réduire l’érosion et filtrer les eaux de ruissellement !
 
-* Les taux d'azote et de phosphore demeurent dans la fourchette « saine », avec peu de variations au cours des 20 dernières années. Continuez vos efforts pour l'entretien de vos fosses septiques, l'absence d'engrais et la renaturalisation de vos berges afin de réduire l'érosion et de filtrer les eaux de ruissellement ! * Les pluies et les niveaux d'eau élevés de juin et juillet ont réduit la lumière atteignant le myriophylle. On observe donc très peu de tapis en surface et une croissance moindre, même dans les zones peu profondes. La transparence de l'eau est considérablement supérieure à celle de l'année dernière (2024), ce qui indique une moindre concentration de nutriments susceptibles de nourrir le myriophylle et les algues.
+* Les pluies et les niveaux d’eau élevés de juin et juillet ont réduit la luminosité atteignant le myriophylle. On observe très peu de tapis en surface et une croissance moindre, même dans les zones peu profondes. La clarté de l’eau est considérablement supérieure à celle de l’an dernier (2024), ce qui indique une moindre concentration de nutriments susceptibles de nourrir le myriophylle et les algues.
 
-* Merci aux bénévoles Lisa Fast, Denis Corbeil et Carole Doré pour la collecte et le transport des échantillons d'eau au laboratoire.
+* Merci aux bénévoles Lisa Fast, Denis Corbeil et Carole Doré pour la collecte et le transport des échantillons d’eau au laboratoire.
 
-#### Résumé du lac Usher, 12 août 2025
+* Des échantillons d'eau sont prélevés chaque année aux emplacements indiqués sur la [carte](/map/map-fr/). Vos cotisations et dons à l'association financent ces analyses.
+
+#### Lac Usher - Résumé du 12 août 2025
 
 * Le lac Usher présente de meilleurs résultats que les années précédentes. Les niveaux de bactéries, avec un taux d'E. coli plus élevé (60 UFC) [à l'emplacement 10](https://lacnotredame.org/map/maps/), sont bien inférieurs à la limite de 200 UFC pour la baignade en toute sécurité.
 
