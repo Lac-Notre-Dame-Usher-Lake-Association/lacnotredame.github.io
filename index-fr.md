@@ -37,7 +37,7 @@ description: Page principale de l'association en francais
 #### À propos de l'association
 * ##### [Mandat de l'association](/about/about-fr.md/)
 * ##### [Membres du conseil d'administration](/about/BoardMembers-fr.md/)
-* ##### [Rapports annuels du conseil d'administration](/about/BoardReports-fr.md/)
+* ##### [Procès-verbaux des assemblées générales annuelles](/about/BoardReports-fr.md/)
 * ##### [Rejoignez-nous](/water/association-fr.md/)
 * ##### Contactez-nous par courriel : info@lacnotredame.org
 * ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
