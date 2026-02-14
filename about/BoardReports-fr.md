@@ -4,7 +4,7 @@ title: Board Reports Main Page
 description: Main page for displaying yearly Board Reports - Page en francais
 date: 2025-09-07
 ---
-### Rapports annuels du Conseil
+### Procès-verbaux des assemblées générales annuelles
 * [2025](/2025BoardReport.md/) (en anglais seulement)
 * [2024](/2024BoardReport.md/) (en anglais seulement)
 * [2023](/2023BoardReport.md/) (en anglais seulement)
