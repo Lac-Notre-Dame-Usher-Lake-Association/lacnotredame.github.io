@@ -23,19 +23,19 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Le lac Usher présente de meilleurs résultats que les années précédentes. Les niveaux de bactéries, avec un taux d'E. coli plus élevé (60 UFC) [à l'emplacement 10](https://lacnotredame.org/map/maps/), sont bien inférieurs à la limite de 200 UFC pour la baignade en toute sécurité.
 
-* Les niveaux d'azote et de phosphore du lac Usher sont conformes aux attentes compte tenu de sa petite taille, mais augmentent le risque de prolifération d'algues bleu-vert toxiques.
+* Les niveaux d'azote et de phosphore du lac Usher sont conformes aux attentes compte tenu de leur faible quantité, mais augmentent le risque de prolifération d'algues bleu-vert toxiques.
 
 #### Consulter le tableau des résultats d'analyses d'eau par emplacement sur la carte
 
 * [Tous les résultats d'analyses d'eau par date et emplacement pour E. coli, les phosphates et l'azote depuis 2005 (Google Sheets)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
-* Pour une analyse plus approfondie des résultats, les [Lignes directrices canadiennes sur la qualité de l'eau pour la protection de la vie aquatique](/assets/docs/water/water_quality_guidelines.pdf) fournissent des valeurs cibles.
-
-* Des bénévoles de l'association prélèvent des échantillons d'eau à des points précis d'entrée et de sortie des lacs. Veuillez noter que ces emplacements diffèrent de ceux des prélèvements effectués par la municipalité de La Pêche dans le rapport ABV-7.
+* Des bénévoles de l'association prélèvent des échantillons d'eau à <u>des points précis</u> d'entrée et de sortie des lacs.
 
 * [Carte des emplacements de prélèvements d'eau](/map/maps/).
 
 #### Interprétation des résultats d'analyse de l'eau
+
+Pour une analyse plus approfondie des résultats, les [Lignes directrices canadiennes sur la qualité de l'eau pour la protection de la vie aquatique](/assets/docs/water/water_quality_guidelines.pdf) fournissent des valeurs cibles.
 
 * <b>Bactérie E. coli</b> - Niveaux cibles inférieurs à 10**. E. coli peut provoquer des maladies graves. Sa présence dans l'eau est un indicateur fort d'une contamination récente par des eaux usées ou des déjections animales (castors, oies !). Pour la baignade, la limite de sécurité est inférieure à 200 UFC (UFC = Unités formant colonies dans 100 ml d'eau), et pour l'eau potable, elle est inférieure à 4 UFC.
 
