@@ -27,11 +27,12 @@ date: 2026-01-27
 
 * Avant 2008, l'association a fait l'acquisition d'un coupe-lames électrique grâce à une contribution financière de $6400 de la municipalité de La Pêche. Bien que l'appareil ait été utilisé au début, il s'est rapidement avéré peu pratique. De plus, les règlements provinciaux interdisent aujourd'hui la coupe du myriophylle.
 
-* Une [enquête menée auprès des résidents] en juin 2025 a révélé un niveau élevé d’inquiétude concernant l’impact du myriophylle sur les usagers du lac et sur l’environnement.
+* Une [enquête menée auprès des résidents](/assets/docs/Milfoil_survey_report_F.pdf) en juin 2025 a révélé un niveau élevé d’inquiétude concernant l’impact du myriophylle sur les usagers du lac et sur l’environnement.
 
-Version imprimable (PDF): Sondage auprès des résidents sur le myriophylle à épis - Juillet 2025
+* En savoir plus sur les algues bleues-vertes dans cet [excellent article de Watersheds Canada (en anglais)](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+
 
 
 
