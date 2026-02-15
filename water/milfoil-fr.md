@@ -17,7 +17,7 @@ date: 2026-01-27
 
 * On estime que le myriophylle à épis est arrivé au lac Notre-Dame en 1994. Il est fort probable que la plante ait été initialement déposée dans le lac par un bateau ou une remorque transportant un petit fragment de myriophylle.
 
-* La première tentative de cartographie de la plante, en 2004, a permis de découvrir quelques herbiers isolés dans les zones peu profondes du lac. Dix ans plus tard, en 2014, le groupe de consultants en eau douce ABV7 (Agence de bassin versant des 7) a constaté que le myriophylle, plante robuste, s'était propagé à plus de 25 % de la superficie du lac. Consultez le rapport d'ABV7 [ici.](assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
+* La première tentative de cartographie de la plante, en 2004, a permis de découvrir quelques herbiers isolés dans les zones peu profondes du lac. Dix ans plus tard, en 2014, le groupe de consultants en eau douce ABV7 (Agence de bassin versant des 7) a constaté que le myriophylle, plante robuste, s'était propagé à plus de 25 % de la superficie du lac. Consultez le rapport d'ABV7 [ici.](/assets/docs/water/ABV7_Rapport_Lac_Notre_Dame_2014.pdf)
 
 * Malgré les efforts de contrôle, le myriophylle est maintenant présent dans la plupart des zones peu profondes du lac. Le myriophylle à épis ne meurt pas lorsqu'on le coupe ou qu'on l'arrache du fond du lac. Au contraire, les boutures laissées dans l'eau donnent souvent naissance à de nouvelles plantes.
 
@@ -30,6 +30,7 @@ date: 2026-01-27
 * Une [enquête menée auprès des résidents](/assets/docs/Milfoil_survey_report_F.pdf) en juin 2025 a révélé un niveau élevé d’inquiétude concernant l’impact du myriophylle sur les usagers du lac et sur l’environnement.
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+
 
 
 
