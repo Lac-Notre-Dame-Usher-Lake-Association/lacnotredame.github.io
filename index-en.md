@@ -27,7 +27,7 @@ description: Homepage of the Association in English
 * ##### [Canada Goose Action Plan](/water/gooseaction-en.md/)
 
 #### Blue Green Algae
-* ##### [Blue Green Algae is toxic](/water/bluegreen-en.md/)
+* ##### [Blue-Green Algae is toxic](/water/bluegreen-en.md/)
 * ##### [Do a jar test](/water/jartest-en.md/)
 
 #### Wildfires
