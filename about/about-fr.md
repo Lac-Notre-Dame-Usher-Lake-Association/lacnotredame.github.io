@@ -8,6 +8,7 @@ date: 2021-03-22T13:10:52-05:00 (updated 2025-09-08)
 ### L'association et ses activités
 
 La mission de l'Association est de promouvoir, de protéger et de préserver la qualité des lacs Notre Dame et Usher, ainsi que l'environnement du bassin versant des lacs, afin d'en assurer l'utilisation continue et la jouissance par tous.
+
 ***
 
 #### Le rôle du conseil
@@ -19,6 +20,7 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 3. Les administrateurs s'efforcent d'atteindre les objectifs de l'Association: "Promouvoir, protéger et préserver la qualité environnementale des lacs et du bassin versant, pour l'usage et le plaisir de tous. Chaque directeur doit agir sur les affaires du Conseil de manière réfléchie, consciencieuse, financièrement responsable et transparente. Il est attendu des Directeurs qu’ils jouent un rôle actif dans la promotion et le développement des Objectifs de l’Association. Chaque Directeur, à l’exception du Président et du Vice-Président, doit servir de liaison pour un secteur spécifique des Lacs, et ses responsabilités incluront la coordination des activités et des communications entre l’Association et ses membres du secteur qu’il représente.
 
 4. Le Conseil devrait, dans la mesure du possible, inclure une représentation de tous les secteurs du Lac Notre-Dame ainsi qu’au moins un représentant du Lac Usher.
+
 ***
 
 #### Objectifs et mandat de l'association
@@ -40,6 +42,7 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 8. Recevoir des biens immobiliers ou personnels, des subventions, des dons, des héritages et d'autres contributions monétaires de nature similaire (collectivement, les "dons") et administrer ces dons, organiser des activités de collecte de fonds dans le but d'atteindre les objectifs de l'Association.
 
 9. D'une manière générale, poursuivre la réalisation des objectifs de l'Association.
+
 ***
 #### Documents légals
 
