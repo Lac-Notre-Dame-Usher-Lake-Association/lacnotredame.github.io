@@ -21,6 +21,7 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 4. The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
+***
 #### Objectives and Mandate of the Association
 
 1. To establish and operate a not for profit association for the benefit of members who are owners or users of property on or in the vicinity of the Lakes for the purpose of monitoring water quality and conditions affecting the environment of the Lakes and to contribute to the maintenance and enhancement of the well being of the local environment and the quality of life on the Lakes for both seasonal and permanent residents.
