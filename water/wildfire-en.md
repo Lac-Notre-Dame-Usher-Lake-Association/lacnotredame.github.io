@@ -17,4 +17,10 @@ date: 2025-12-15
 
 <img src="/assets/img/Wildfires.png" class="img-fluid py-3"/>
 
-<iframe src="[https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js](https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js)" width="600" height="400" title="Example"></iframe>
+<h3 class="site-footer__section-title">SOPFEU - Risque d&#039;incendie</h3>
+
+<script type="text/javascript" src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js"></script>
+
+<div data-sopfeu-lng="fr_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
+
+<a href="https://sopfeu.qc.ca/" target="_blank" rel="noopener noreferrer">SOPFEU.QC.CA</a> </div>
