@@ -16,21 +16,8 @@ date: 2025-12-15
   * Consult also [SOPFEU's website for advice on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
 <h3 class="site-footer__section-title">Fire Hazard</h3>
-
 <div id="sopfeu-widget-container"></div>
-
-<script>
-  // Configuration for the SOPFEU widget —
-  // you would set your preferred zone, language, and options here.
-  var sopfeuWidgetConfig = {
-    zone: "your_zone_identifier",
-    language: "en",       // English mode
-    responsive: true      // adaptive layout
-  };
-</script>
-
-
 <script type="text/javascript" src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js"></script>
-<div data-sopfeu-lng="fr_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
+<div data-sopfeu-lng="en_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
 
 <img src="/assets/img/Wildfires.png" class="img-fluid py-3"/>
