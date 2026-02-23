@@ -100,3 +100,74 @@ Tests supplémentaires d'E. coli en juillet sur Generations :
 
 **Résumé du rapport d'analyse de l'eau du lac Notre-Dame du 8 août 2024 :**
 
+Bonne nouvelle : la concentration d’E. coli est soit inférieure au seuil de détection, soit égale à 10 UFC (le Québec exige moins de 200 UFC pour la baignade). Les concentrations d’azote et de phosphore sont étonnamment stables par rapport aux années précédentes. * De Paul Hamilton, biologiste consultant : « Je soupçonne que la prolifération du myriophylle soit liée aux conditions météorologiques printanières (notamment la luminosité et la température de l’eau) et aux nutriments présents dans les sédiments. La bonne nouvelle est que vos niveaux de nutriments ne semblent pas du tout problématiques (par conséquent, les sédiments charriés par l’eau sont probablement principalement composés de particules inorganiques). Le meilleur moyen de contrôler la croissance des myriophylles est de les stresser (en les récoltant en fin d’été, début d’automne et au printemps). De mauvaises conditions météorologiques peuvent également avoir le même effet. Par exemple, le problème de transparence de l’eau que vous signalez a deux aspects : 1) un excès de nutriments dans le lac (avec un possible développement de cyanobactéries) et 2) la faible visibilité va stresser le myriophylle, ce qui pourrait contribuer à limiter sa prolifération plus tard cette année (et peut-être l’année prochaine ?). »
+
+**Résumé du lac Usher, 15 août 2024**
+
+* Le lac Usher présente toujours des niveaux élevés de nutriments et de bactéries, avec 110 UFC d’E. coli [à cet endroit]. 11](https://lacnotredame.org/map/maps/) (inférieur à la limite de 200 UFC pour la baignade, mais bien supérieur aux recommandations pour l'eau potable).
+
+Les niveaux de phosphore au point de prélèvement 11 sont supérieurs au niveau cible de 0,01 mg/l pour un lac non contaminé depuis 5 ans. Les niveaux élevés d'azote et de phosphore sont en partie prévisibles compte tenu de la petite taille du lac Usher, mais augmentent le risque de prolifération d'algues bleu-vert toxiques.
+
+Tous les résultats sont disponibles dans le [tableau des données sur l'eau jusqu'en 2004](https://lacnotredame.org/water/qualityreports/).
+
+### Rapport de l'équipe de lutte contre les plantes aquatiques - présenté par Jane Hayward
+
+Deux matinées de travail effectuées par les bénévoles de l'équipe en juillet ont permis de récolter une quantité importante de plantes, qui se décomposent actuellement sur la propriété de Jane. Un grand merci à Ken et à son tracteur pour les avoir déplacées de la rampe de mise à l'eau.
+
+Bien que nous ayons apprécié l'effort collectif, il est clair que la gestion des plantes aquatiques par nos soins représentera une tâche colossale. Pour poursuivre le travail avec des bénévoles et la coupe manuelle, nous devons investir dans des outils et des méthodes :
+
+1. Des barrages flottants améliorés : Un barrage flottant à base de nouilles de piscine à 15 $ s’est révélé prometteur, mais il nous faut un dispositif beaucoup plus grand.
+
+2. Un système à deux canots : Robert a partagé des idées du camp, utilisant un système entre deux canots.
+
+3. Une embarcation à proue plate (comme une barque Jon) avec un moteur électrique pour une élimination plus efficace.
+
+4. Plus d’équipement : De grands râteaux et des tapis de ramassage sont essentiels, mais coûteux.
+
+5. Nous devons faire évoluer les mentalités sur le lac afin de prévenir la propagation du myriophylle grâce à une campagne de sensibilisation du public.
+
+6. Explorer et tester des solutions de rechange, y compris obtenir l’autorisation du ministère pour des méthodes non manuelles.
+
+* William Hebert communiquera avec le gouvernement du Québec concernant les autorisations.
+
+* Question sur l’opportunité d’arracher les plantes aquatiques. Oui, arracher manuellement les plantes par les racines est plus efficace que de les couper pour les petites surfaces. C’est plus facile en eau peu profonde, l’équipement est disponible à CanadianPond. Cette opération ne devrait être effectuée qu'au début du printemps ou après la mi-juillet, une fois la période de frai terminée. Il convient de ne pas trop perturber le fond afin de limiter la dispersion des sédiments.
+
+### 7.0 Programme proposé par l'Association pour 2024-2025 et motions
+
+Gestion des plantes aquatiques envahissantes
+
+**Motion : Suite à l'étude pilote, il est proposé de créer un fonds de gestion distinct, d'un montant maximal de 10 000 $, pour la gestion des zones/chenaux partagés après la fin de la période de frai, le 15 juillet. Les fonds affectés à ce fonds seront préalablement approuvés pour la gestion des zones partagées du lac, telles qu'illustrées ci-dessous. Organiser une campagne de financement.**
+
+- Proposé par : Graeme Simpson
+
+- Appuyé par : Lauren Osmond
+
+- Vote : Adopté
+
+<img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="L'équipe de lutte contre les plantes aquatiques au travail sur le lac" />
+
+Mise à jour des cotisations
+
+Historiquement, la cotisation était de 20 $, réduite à 10 $ durant les années sans plantes aquatiques.
+
+**Proposition d'augmenter les cotisations annuelles à 25 $ afin de tenir compte de l'augmentation des coûts de l'association** pour les dépenses courantes liées aux bouées, au site web, à Entreprise Québec et aux analyses d'eau. Les dons au fonds de gestion du myriophylle pourraient réduire le total des dons, qui servent actuellement à couvrir l'écart entre les cotisations et les dépenses.
+
+Proposé par : Lisa Fast
+
+Appuyé par : Imre Rohonczy
+
+Vote : Adopté
+
+Remarque : Tous les plaisanciers utilisant le portail de l'Association de Bishop's Manor devront adhérer à l'association.
+
+Modification de la date de l'AGA
+
+Le Conseil recommande de modifier la date de l'AGA afin d'éviter la haute saison estivale. La date actuelle de l'AGA a été fixée en fonction des résultats des analyses d'eau. Compte tenu de l'apparition de myriophylles, avancer la date de l'AGA permettrait à l'Association de réagir plus rapidement et plus efficacement. Nous visons généralement le premier samedi suivant le long week-end de juillet.
+
+**Proposition de fixer la date de l'AGA 2025 au 5 juillet 2025**
+
+* Proposé par : William Hebert
+
+* Appuyé par : Jane Hayward
+
+### Composition actuelle du Conseil et élection des nouveaux membres
