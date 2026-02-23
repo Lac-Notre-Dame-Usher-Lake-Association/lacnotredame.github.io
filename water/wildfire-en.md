@@ -15,8 +15,7 @@ date: 2025-12-15
   * Follow [Municipality of La Pêche fire restrictions](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-EN.png) which prohibit open fires of any kind when winds exceed 15 km/hour or when the Fire Danger Index is <b>Extreme</b>.
   * Consult also [SOPFEU's website for advice on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
-<h3 class="site-footer__section-title">Current Level of Fire Hazard</h3>
-<div id="sopfeu-widget-container"></div>
+<h3 class="site-footer__section-title">Current Risk Level</h3>
 <script type="text/javascript" src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js"></script>
 <div data-sopfeu-lng="fr_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
 
