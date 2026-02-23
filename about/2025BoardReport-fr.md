@@ -113,9 +113,28 @@ Membres actuels du Conseil d'administration
 
 * Jim Thompson - membre (élu en 2024)
 
-**Proposition d'élire Don Herweyer à la présidence**
+**Proposition d'élire Don Herweyer nouveau président** Don est membre du conseil d'administration depuis 5 ans.
 
-Don est membre du Conseil d'administration depuis 5 ans.
+Proposition de : Lisa Fast
 
-- Proposé par : Lisa Fast
-- S
+Appuyée par : Jim Thompson Élu à main levée
+
+Proposition d'élire Martin Croteau comme membre sans portefeuille Élu à main levée
+
+Le programme 2026 prévoit la modification et la mise à jour des statuts de l'Association, qui n'ont pas été mis à jour depuis 10 ans.
+
+Comité d'action contre le myriophylle
+
+Rapport du Comité d'action contre le myriophylle
+
+[Format PDF](/assets/docs/water/AGM slides VFinal 5jul2025.pdf)
+
+MOTION : Adopter les directives relatives aux embarcations et les diffuser sur l'ensemble du lac afin de STOPER LA PROPAGATION. Proposé par Lauren Osmond. Appuyé par Lisa Fast.
+
+APPROUVÉ à main levée. Les personnes chargées de la diffusion recevront un exemplaire de la carte des directives et un résumé du processus réglementaire. Elles participeront également à l'élaboration du plan et au nettoyage des bateaux.
+
+MOTION : Élaborer un cadre réaliste pour l'éradication du myriophylle lors de la prochaine assemblée générale annuelle, en précisant les étapes à suivre. Proposé par Lauren Osmond. Appuyé par Anita Herweyer. APPROUVÉ à main levée.
+
+10.0 Proposition d'ajournement de l'assemblée générale annuelle.
+
+Proposé par Lisa Fast. Appuyé par Lynn Elliot. Séance levée à 17 h 21.
