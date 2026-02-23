@@ -15,9 +15,10 @@ date: 2026-01-27
 
 
 <iframe width="640" height="360"
-  src="[https://www.youtube.com/embed/VIDEO_ID](https://www.youtube.com/watch?v=lHdjJ0dmTpo)"
+  src="https://www.youtube.com/watch?v=lHdjJ0dmTpo"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
 </iframe>
+
 
