@@ -17,6 +17,6 @@ date: 2025-12-15
 
 <h3 class="site-footer__section-title">Current Risk Level</h3>
 <script type="text/javascript" src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js"></script>
-<div data-sopfeu-lng="fr_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
+<div data-sopfeu-lng="en_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
 
 <img src="/assets/img/Wildfires.png" class="img-fluid py-3"/>
