@@ -16,3 +16,5 @@ date: 2025-12-15
   * Consult also [SOPFEU's website for advice on fire prevention](https://www.sopfeu.qc.ca/en/prevention/preventing-drilling-fires/)
 
 <img src="/assets/img/Wildfires.png" class="img-fluid py-3"/>
+
+<iframe src="[https://example.com](https://a-ca.storyblok.com/f/2000396/2048x2048/32a…ment.png/m/664x0/filters:format(webp):quality(65))" width="600" height="400" title="Example"></iframe>
