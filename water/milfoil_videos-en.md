@@ -12,13 +12,3 @@ date: 2026-01-27
 <br>
 
 * #### [Short animation video (French text)](https://www.youtube.com/watch?v=NER_aUiUS5U)
-
-
-<iframe width="640" height="360"
-  src="https://www.youtube.com/watch?v=lHdjJ0dmTpo"
-  title="YouTube video"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
-
-
