@@ -127,11 +127,11 @@ Comité d'action contre le myriophylle
 
 Rapport du Comité d'action contre le myriophylle
 
-[Format PDF](/assets/docs/water/AGM slides VFinal 5jul2025.pdf)
+* [Format PDF](/assets/docs/water/AGM slides VFinal 5jul2025.pdf)
 
 MOTION : Adopter les directives relatives aux embarcations et les diffuser sur l'ensemble du lac afin de STOPER LA PROPAGATION. Proposé par Lauren Osmond. Appuyé par Lisa Fast.
 
-APPROUVÉ à main levée. Les personnes chargées de la diffusion recevront un exemplaire de la carte des directives et un résumé du processus réglementaire. Elles participeront également à l'élaboration du plan et au nettoyage des bateaux.
+* APPROUVÉ à main levée. Les personnes chargées de la diffusion recevront un exemplaire de la carte des directives et un résumé du processus réglementaire. Elles participeront également à l'élaboration du plan et au nettoyage des bateaux.
 
 MOTION : Élaborer un cadre réaliste pour l'éradication du myriophylle lors de la prochaine assemblée générale annuelle, en précisant les étapes à suivre. Proposé par Lauren Osmond. Appuyé par Anita Herweyer. APPROUVÉ à main levée.
 
