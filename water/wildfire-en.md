@@ -17,4 +17,4 @@ date: 2025-12-15
 
 <img src="/assets/img/Wildfires.png" class="img-fluid py-3"/>
 
-<iframe src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js" width="600" height="400" title="Example"></iframe>
+<iframe src="[https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js](https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js)" width="600" height="400" title="Example"></iframe>
