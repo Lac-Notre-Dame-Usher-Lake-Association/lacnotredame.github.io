@@ -15,7 +15,7 @@ date: 2025-12-15
   * Respectez le [guide pour les feux extérieurs de la Municipalité de La Pêche](https://www.villelapeche.qc.ca/wp-content/uploads/2022/10/2022-10-Guide-feux-exterieurs-FR.png) qui interdisent tout feu à ciel ouvert lorsque les vents dépassent 15 km/h ou lorsque l'indice de risque d'incendie est <b>Extrême</b>.
   * Consultez également le [site de la SOPFEU pour des conseils sur la prévention des feux](https://www.sopfeu.qc.ca/prevention/prevenir-les-feux-de-foret/)
 
-<h3 class="site-footer__section-title">Risque d'incendie</h3>
+<h3 class="site-footer__section-title">Conditions actuelles:</h3>
 <script type="text/javascript" src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js"></script>
 <div data-sopfeu-lng="fr_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
 
