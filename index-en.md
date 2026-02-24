@@ -32,9 +32,10 @@ description: Homepage of the Association in English
 
 #### Wildfires
 * ##### [Know when and when <i><b>not</b></i> to burn](/water/wildfire-en.md/)
-<h3 class="site-footer__section-title">Current Risk Level</h3>
+* <h4 class="site-footer__section-title">Current Risk Level</h4>
 <script type="text/javascript" src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js"></script>
 <div data-sopfeu-lng="en_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
+<br>
 
 #### About the Association
 * ##### [Association's Mandate](/about/about-en.md/) 
