@@ -33,6 +33,10 @@ description: Page principale de l'association en francais
 
 #### Feux de forêt
 * ##### [Savoir quand brûler et quand <i><b>ne pas</b></i> brûler](/water/wildfire-fr.md/)
+* <h4 class="site-footer__section-title">Niveau de risque actuel</h4>
+  <script type="text/javascript" src="https://sopfeu.qc.ca/wp-content/themes/sopfeu/widget/js/build.js"></script>
+  <div data-sopfeu-lng="fr_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
+<br>
 
 #### À propos de l'association
 * ##### [Mandat de l'association](/about/about-fr.md/)
