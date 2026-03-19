@@ -12,7 +12,7 @@ description: Homepage of the Association in English
 <br>
 
 #### Milfoil
-* ##### [Draft 2026 Milfoil Strategy Outline](/assets/docs/DRAFT_2026_MILFOIL_STRATEGY_OUTLINE.pdf)
+* ##### [Draft 2026 Milfoil Strategy Outline](/assets/docs/Draft_2026_Milfoil_Strategy_Outline.pdf)
 * ##### [What is Eurasian Watermilfoil (Milfoil) and why is it bad?](/water/milfoil-en.md/)
 * ##### [Are herbicides the solution? The answer is NO!](/water/ProcellaCOR-en.md)
 * ##### [Please follow Watercraft Guidelines to slow the spread of milfoil](/water/guidelines-en.md/)
