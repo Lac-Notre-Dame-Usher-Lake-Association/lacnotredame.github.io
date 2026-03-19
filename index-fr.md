@@ -13,6 +13,7 @@ description: Page principale de l'association en francais
 <br> 
 
 #### Myriophylle
+* ##### [Projet de stratégie 2026 contre le myriophylle](/assets/docs/PROJET_DE_STRATÉGIE_2026_CONTRE_LE_MILFOIL.pdf)
 * ##### [Qu’est-ce que le myriophylle à épis et pourquoi est-il nuisible ?](/water/milfoil-fr.md/)
 * ##### [Les herbicides sont-ils la solution? La réponse est NON!](/water/ProcellaCOR-fr.md/)
 * ##### [Veuillez suivre les consignes de navigation pour ralentir la propagation du myriophylle](/water/guidelines-fr.md/)
