@@ -1,78 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
   <title>RSVP Form</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      padding: 20px;
-    }
-    .container {
-      max-width: 500px;
-      margin: auto;
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h2 {
-      text-align: center;
-    }
-    label {
-      display: block;
-      margin-top: 15px;
-    }
-    input, select, textarea, button {
-      width: 100%;
-      padding: 10px;
-      margin-top: 5px;
-      border-radius: 5px;
-      border: 1px solid #ccc;
-    }
-    button {
-      background: #007BFF;
-      color: white;
-      border: none;
-      margin-top: 20px;
-      cursor: pointer;
-    }
-    button:hover {
-      background: #0056b3;
-    }
-  </style>
 </head>
 <body>
 
-<div class="container">
-  <h2>Event RSVP</h2>
+<h2>RSVP - 2026 Milfoil Strategy Outline meeting</h2>
 
-  <form action="#" method="post">
-    
-    <label for="name">Full Name</label>
-    <input type="text" id="name" name="name" required>
+<form action="mailto:mbcroteau@gmail.com" method="POST" enctype="text/plain">
+  
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="Name" required><br><br>
 
-    <label for="email">Email Address</label>
-    <input type="email" id="email" name="email" required>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="Email" required><br><br>
 
-    <label for="attendance">Will you attend?</label>
-    <select id="attendance" name="attendance" required>
-      <option value="">-- Please choose --</option>
-      <option value="yes">Yes, I will attend</option>
-      <option value="no">No, I can't attend</option>
-    </select>
+  <label for="attending">Will you attend?</label><br>
+  <select id="attending" name="Attending">
+    <option value="Yes">Yes, I can attend</option>
+    <option value="No">No, I cannot attend but please keep me informed</option>
+  </select><br><br>
 
-    <label for="guests">Number of Guests</label>
-    <input type="number" id="guests" name="guests" min="0" max="10">
+  <!--
+  <label for="guests">Number of Guests:</label><br>
+  <input type="number" id="guests" name="Guests" min="0"><br><br>
+-->
+  
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="Message"></textarea><br><br>
 
-    <label for="message">Message (optional)</label>
-    <textarea id="message" name="message" rows="4"></textarea>
+  <input type="submit" value="Send RSVP">
 
-    <button type="submit">Submit RSVP</button>
-
-  </form>
-</div>
+</form>
 
 </body>
 </html>
