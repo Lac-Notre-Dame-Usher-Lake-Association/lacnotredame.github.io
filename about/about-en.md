@@ -51,4 +51,4 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 * [Lettres Patentes (PDF)](../assets/docs/Lettres_patentes.pdf)
 
-* [Test](_layouts/Form.html)
+* [Test](../_layouts/Form.html)
