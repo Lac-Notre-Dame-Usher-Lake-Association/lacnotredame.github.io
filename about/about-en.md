@@ -50,6 +50,3 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 * [Bylaws (PDF)](../assets/docs/Association_By-Laws_en.pdf)
 
 * [Lettres Patentes (PDF)](../assets/docs/Lettres_patentes.pdf)
-
-* [Test1](../about/form-en.md)
-* [Test2](../about/form-fr.md)
