@@ -43,6 +43,7 @@ description: Homepage of the Association in English
 
   
 #### About the Association
+* ##### [Proposed Changes to the Association's Constitution and Chart](/about/new-en.md/) 
 * ##### [Association's Mandate](/about/about-en.md/) 
 * ##### [Board Members](/about/BoardMembers-en.md/)
 * ##### [Annual General Meeting Minutes](/about/BoardReports-en.md/)
