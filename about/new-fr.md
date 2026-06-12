@@ -14,4 +14,4 @@ date: 2026-06-12
 
 * [Nouveaux règlements (PDF)](../assets/docs/Association_Bylaw_1_2026-fr.pdf)
 
-##### Veuillez prendre note que ces documents ont été traduits automatiquement et seront révisés par un humain.
+##### Veuillez prendre note que ces documents ont été traduits automatiquement et seront ultérieumement révisés par un humain.
