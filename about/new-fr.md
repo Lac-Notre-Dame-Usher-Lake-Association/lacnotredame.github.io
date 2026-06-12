@@ -13,3 +13,5 @@ date: 2026-06-12
 * [Nouvelle constitution (PDF)](../assets/docs/Association_Constitution_Changes-fr.pdf) 
 
 * [Nouveaux règlements (PDF)](../assets/docs/Association_Bylaw_1_2026-fr.pdf)
+
+/i /b Veuillez prendre note: Ces documents ont été traduits automatiquement et seront révisés par un humain.
