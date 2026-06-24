@@ -1,0 +1,17 @@
+---
+layout: default-fr
+title: Annual General Meeting
+description: Annual General Meeting - French page
+date: 2026-06-12
+---
+
+#### Modifications proposées à la constitution et aux règlements de l'association
+
+
+* [Résumé des principaux changements (PDF)](../assets/docs/Summary_of_Association_Key_By-law_Changes-fr.pdf)
+
+* [Nouvelle constitution (PDF)](../assets/docs/Association_Constitution_Changes-fr.pdf) 
+
+* [Nouveaux règlements (PDF)](../assets/docs/Association_Bylaw_1_2026-fr.pdf)
+
+##### Veuillez prendre note que ces documents ont été traduits automatiquement et seront ultérieumement révisés par un humain.
