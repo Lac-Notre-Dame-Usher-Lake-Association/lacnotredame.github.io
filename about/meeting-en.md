@@ -5,9 +5,7 @@ description: Annual General Meeting - English page
 date: 2026-06-24
 ---
 
-#### Proposed Changes to Association's Constitution and Chart
-
-Annual Members Meeting / Assemblée générale annuelle
+### Annual Association Meeting
 
 If you are able to attend, we are looking forward to seeing you on July 4th!
 
