@@ -5,7 +5,7 @@ description: Annual General Meeting - French page
 date: 2026-06-24
 ---
 
-### Réunion annuelle de l'association
+### Réunion annuelle de l'association - Le 4 juillet 2026 à 16h00 au Centre communautaire de Rupert
 
 Si vous pouvez vous joindre à nous, nous avons hâte de vous voir le 4 juillet !
 
