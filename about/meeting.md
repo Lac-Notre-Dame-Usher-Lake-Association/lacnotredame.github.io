@@ -1,4 +1,3 @@
-
 ---
 layout: default-en
 title: Annual General Meeting
