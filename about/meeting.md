@@ -17,3 +17,15 @@ Once again, this year, we are encouraging all lake users to follow the [Watercra
 Please steer clear of the weeds!
 
 See you at the lake.
+
+### Réunion annuelle de l'association - Le 4 juillet 2026 à 16h00 au Centre communautaire de Rupert
+
+Si vous pouvez vous joindre à nous, nous avons hâte de vous voir le 4 juillet !
+
+Si vous ne pouvez pas être des nôtres, nous regrettons que vous ne puissiez pas vous joindre à nous. Si vous avez des questions ou des commentaires à adresser à l’Association du lac, n’hésitez pas à nous contacter à tout moment. Vous pouvez nous joindre à l’adresse [info@lacnotredame.org](mailto:info@lacnotredame.org).
+
+Cette année encore, nous encourageons tous les usagers du lac à respecter les [Directives relatives aux embarcations](/assets/img/maps/Guidelines_Map_French.pdf) adoptées l'été dernier par les membres de l'Association afin de contribuer à enrayer la propagation du myriophylle.
+
+Veuillez éviter les algues !
+
+À bientôt autour et sur le lac.
