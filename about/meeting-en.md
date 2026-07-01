@@ -19,9 +19,9 @@ See you at the lake.
 
 ### Meeting Documents
 
-#### [Agenda of this AGM](/assets/docs/2026_AGM.pdf)
+#### [Agenda of this AGM (bilingual)](/assets/docs/2026_AGM.pdf)
 
-#### [Minutes of the 2025 AGM](/about/2025BoardReport-en.md/)
+#### [Minutes of the 2025 AGM](/about/2025BoardReport-en.md)
 
 #### [Summary_of_Association_Key_By-law_Changes](/assets/docs/Summary_of_Association_Key_By-law_Changes-en.pdf)
 
