@@ -16,3 +16,9 @@ Once again, this year, we are encouraging all lake users to follow the [Watercra
 Please steer clear of the weeds!
 
 See you at the lake.
+
+#### [Meeting's Agenda](/assets/img/maps/Guidelines_Map_English.pdf)
+
+#### Annual Association Meeting - July 4th, 2026 at 4:00 PM at the Rupert Community Center
+
+#### Annual Association Meeting - July 4th, 2026 at 4:00 PM at the Rupert Community Center
