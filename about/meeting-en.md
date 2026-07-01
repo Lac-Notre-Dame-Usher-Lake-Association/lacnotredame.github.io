@@ -27,4 +27,4 @@ See you at the lake.
 
 #### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
 
-#### [2026 Milfoil Action Plan](/assets/docs/2026_AGM.pdf)
+#### [2026 Milfoil Action Plan](/assets/docs/2026_Milfoil_Action_Plan-en.pdf)
