@@ -10,10 +10,9 @@ description: Homepage of the Association in English
     <img src="/assets/img/Meeting_2026-en.jpg" class="img-fluid py-3" alt="Description" href="/about/meeting-en.md/>
 </div>
 
-
 #### Welcome! <br>Read all about the priorities and activities of the association.
+
 ##### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
-<br>
 
 #### Milfoil
 * ##### [Draft 2026 Milfoil Strategy Outline](/assets/docs/Draft_2026_Milfoil_Strategy_Outline.pdf)
