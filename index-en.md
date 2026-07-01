@@ -7,7 +7,7 @@ description: Homepage of the Association in English
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
 <div>
-    <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3" alt="Description" href="/about/meeting-en.md/>
+    <img src="/assets/img/Lac-Ete-1.jpeg" class="img-fluid py-3" alt="Description" href="/about/meeting-en.md/>
 </div>
 
 
