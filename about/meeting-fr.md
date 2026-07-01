@@ -21,7 +21,7 @@ Veuillez éviter les algues !
 
 #### [Ordre du jour de l'AGA (bilingue)](/assets/docs/2026_AGM.pdf)
 
-#### [Procès-verbal de l'AGA 2025](/about/2025BoardReport-fr.md)
+#### [Procès-verbal de l'AGA 2025](/about/2025BoardReport-fr.md/)
 
 #### [Résumé des principaux changements_aux réglements](/assets/docs/Summary_of_Association_Key_By-law_Changes-fr.pdf)
 
