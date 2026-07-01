@@ -5,7 +5,7 @@ description: Annual General Meeting - French page
 date: 2026-06-24
 ---
 
-### Réunion annuelle de l'association (RAA) - Le 4 juillet 2026 à 16h00 au Centre communautaire de Rupert
+### Assemblée générale annuelle de l'association (AGA) - Le 4 juillet 2026 à 16h00 au Centre communautaire de Rupert
 
 Si vous pouvez vous joindre à nous, nous avons hâte de vous voir le 4 juillet !
 
@@ -19,14 +19,14 @@ Veuillez éviter les algues !
 
 ### Documents de la réunion
 
-#### [Ordre du jour de la RAA](/assets/docs/2026_AGM.pdf)
+#### [Ordre du jour de l'AGA](/assets/docs/2026_AGM.pdf)
 
-#### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
+#### [Procès-verbal de l'AGA 2025](/about/2025BoardReport-fr.md/)
 
-#### [Summary_of_Association_Key_By-law_Changes](/assets/docs/Summary_of_Association_Key_By-law_Changes-en.pdf)
+#### [Résumé des principaux changements_aux réglements](/assets/docs/Summary_of_Association_Key_By-law_Changes-fr.pdf)
 
-#### [New Constitution](/assets/docs/Association_Constitution_Changes-en.pdf)
+#### [Nouvelle constitution](/assets/docs/Association_Constitution_Changes-fr.pdf)
 
-#### [New Bylaws](/assets/docs/Association_Bylaw_1_2026-en.pdf)
+#### [Nouveaux réglements](/assets/docs/Association_Bylaw_1_2026-fr.pdf)
 
-#### [2026 Milfoil Action Plan](/assets/docs/2026_Milfoil_Action_Plan-en.pdf)
+#### [Plan d'action 2026 contre le Myriophylle](/assets/docs/2026_Milfoil_Action_Plan-fr.pdf)
