@@ -43,6 +43,7 @@ description: Page principale de l'association en francais
   
 
 #### À propos de l'association
+* ##### [Assemblée générale annuelle - 4 juillet 2026](/about/meeting-fr.md/) 
 * ##### [Modifications proposées à la constitution et à la charte de l'association](/about/new-fr.md/) 
 * ##### [Mandat de l'association](/about/about-fr.md/)
 * ##### [Membres du conseil d'administration](/about/BoardMembers-fr.md/)
