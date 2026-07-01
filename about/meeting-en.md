@@ -23,8 +23,10 @@ See you at the lake.
 
 #### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
 
-#### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
+#### [Summary_of_Association_Key_By-law_Changes](/assets/docs/Summary_of_Association_Key_By-law_Changes-en.pdf)
 
-#### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
+#### [New Constitution](/assets/docs/Association_Constitution_Changes-en.pdf)
+
+#### [New Bylaws](/assets/docs/Association_Bylaw_1_2026-en.pdf)
 
 #### [2026 Milfoil Action Plan](/assets/docs/2026_Milfoil_Action_Plan-en.pdf)
