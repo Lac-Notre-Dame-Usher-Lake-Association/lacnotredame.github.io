@@ -19,7 +19,7 @@ Veuillez éviter les algues !
 
 ### Documents de la réunion
 
-#### [Ordre du jour de l'AGA (bilingual)](/assets/docs/2026_AGM.pdf)
+#### [Ordre du jour de l'AGA (bilingue)](/assets/docs/2026_AGM.pdf)
 
 #### [Procès-verbal de l'AGA 2025](/about/2025BoardReport-fr.md)
 
