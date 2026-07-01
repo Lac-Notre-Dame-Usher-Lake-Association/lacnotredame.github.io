@@ -5,7 +5,7 @@ description: Annual General Meeting - English page
 date: 2026-06-24
 ---
 
-### Annual Association Meeting - July 4th, 2026 at 4:00 PM at the Rupert Community Center
+### Annual Association Meeting (AGM) - July 4th, 2026 at 4:00 PM at the Rupert Community Center
 
 If you are able to attend, we are looking forward to seeing you on July 4th!
 
@@ -17,8 +17,14 @@ Please steer clear of the weeds!
 
 See you at the lake.
 
-#### [Meeting's Agenda](/assets/img/maps/Guidelines_Map_English.pdf)
+### Meeting Documents
 
-#### Annual Association Meeting - July 4th, 2026 at 4:00 PM at the Rupert Community Center
+#### [Agenda of this AGM](/assets/docs/2026_AGM.pdf)
 
-#### Annual Association Meeting - July 4th, 2026 at 4:00 PM at the Rupert Community Center
+#### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
+
+#### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
+
+#### [Minutes of the 2025 AGM](/assets/docs/2026_AGM.pdf)
+
+#### [2026 Milfoil Action Plan](/assets/docs/2026_AGM.pdf)
