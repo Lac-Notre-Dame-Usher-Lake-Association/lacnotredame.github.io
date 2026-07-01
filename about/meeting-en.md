@@ -5,7 +5,7 @@ description: Annual General Meeting - English page
 date: 2026-06-24
 ---
 
-### Annual Association Meeting (AGM) - July 4th, 2026 at 4:00 PM at the Rupert Community Center
+### Association Annual General Meeting (AGM) - July 4th, 2026 at 4:00 PM at the Rupert Community Center
 
 If you are able to attend, we are looking forward to seeing you on July 4th!
 
