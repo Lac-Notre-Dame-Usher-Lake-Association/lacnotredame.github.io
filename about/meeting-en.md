@@ -15,6 +15,8 @@ date: 2026-06-24
 
 #### [Minutes of the 2025 AGM](/2025BoardReport-en.md/)
 
+#### [Budget 2026-2027](/assets/docs/Budget_2026-2027.pdf)
+
 #### [Summary_of_Association_Key_By-law_Changes](/assets/docs/Summary_of_Association_Key_By-law_Changes-en.pdf)
 
 #### [New Constitution](/assets/docs/Association_Constitution_Changes-en.pdf)
