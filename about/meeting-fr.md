@@ -7,7 +7,7 @@ date: 2026-06-24
 
 ### Assemblée générale annuelle de l'association (AGA) - Le 4 juillet 2026 à 16h00 au Centre communautaire de Rupert
 
-##### Ouverture des portes à 15h30 pour les inscriptions et la vente des adhésions.
+* ##### Ouverture des portes à 15h30 pour les inscriptions et la vente des adhésions.
 
 ### Documents de la réunion
 
