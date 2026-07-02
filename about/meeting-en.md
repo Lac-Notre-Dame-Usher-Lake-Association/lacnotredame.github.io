@@ -9,7 +9,6 @@ date: 2026-06-24
 
 * ##### Doors open at 3:30 pm for registration and membership sales.
 
-
 ### Meeting Documents
 
 #### [Agenda of this AGM (bilingual)](/assets/docs/2026_AGM.pdf)
