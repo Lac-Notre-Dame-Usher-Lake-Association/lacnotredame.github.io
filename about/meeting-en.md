@@ -7,7 +7,8 @@ date: 2026-06-24
 
 ### Association Annual General Meeting (AGM) - July 4th, 2026 at 4:00 PM at the Rupert Community Center
 
-##### Doors open at 3:30 pm for registration and membership sales.
+* ##### Doors open at 3:30 pm for registration and membership sales.
+
 
 ### Meeting Documents
 
