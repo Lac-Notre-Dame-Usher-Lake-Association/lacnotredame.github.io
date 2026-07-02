@@ -15,6 +15,8 @@ date: 2026-06-24
 
 #### [Procès-verbal de l'AGA 2025](/2025BoardReport-fr.md/)
 
+#### [Prévisions budgetaires 2026-2027](/assets/docs/2026_Milfoil_Action_Plan-fr.pdf)
+
 #### [Résumé des principaux changements_aux réglements](/assets/docs/Summary_of_Association_Key_By-law_Changes-fr.pdf)
 
 #### [Nouvelle constitution](/assets/docs/Association_Constitution_Changes-fr.pdf)
