@@ -17,7 +17,7 @@ date: 2026-06-24
 
 #### [Year-end Financial Report 2025-2026](/assets/docs/Year-end_Financial_Report_FY_2025-2026-en.pdf)
 
-#### [Budget 2026-2027](/assets/docs/Budget_FY_2026-2027-en.pdf)
+#### [Budget 2026-2027](/assets/docs/Budget_2026-2027.pdf)
 
 #### [Summary_of_Association_Key_By-law_Changes](/assets/docs/Summary_of_Association_Key_By-law_Changes-en.pdf)
 
