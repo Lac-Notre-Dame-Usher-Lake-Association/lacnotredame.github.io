@@ -15,7 +15,9 @@ date: 2026-06-24
 
 #### [Procès-verbal de l'AGA 2025](/2025BoardReport-fr.md/)
 
-#### [Budget 2026-2027](/assets/docs/Budget_2026-2027.pdf)
+#### [Rapport financier de fin d'année 2025-2026](/assets/docs/Year-end_Financial_Report_FY_2025-2026-en.pdf)
+
+#### [Budget 2026-2027](/assets/docs/Budget_FY_2026-2027-en.pdf)
 
 #### [Résumé des principaux changements_aux réglements](/assets/docs/Summary_of_Association_Key_By-law_Changes-fr.pdf)
 
