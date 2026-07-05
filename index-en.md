@@ -13,7 +13,6 @@ description: Homepage of the Association in English
 #### Welcome! <br>Read all about the priorities and activities of the association.
 
 ##### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
-<br>
 
 #### Milfoil
 * ##### [2026_Milfoil_Action_Plan](/assets/docs/2026_Milfoil_Action_Plan-en.pdf)
