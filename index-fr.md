@@ -16,7 +16,7 @@ description: Page principale de l'association en francais
 <br> 
 
 #### Myriophylle
-* ##### [Projet de stratégie 2026 contre le myriophylle](/assets/docs/Projet_de_stratégie_2026_contre_le_myriophylle.pdf)
+* ##### [Plan d'action 2026 contre le myriophylle](/assets/docs/2026_Milfoil_Action_Plan-fr.pdf)
 * ##### [Qu’est-ce que le myriophylle à épis et pourquoi est-il nuisible ?](/water/milfoil-fr.md/)
 * ##### [Les herbicides sont-ils la solution? La réponse est NON!](/water/ProcellaCOR-fr.md/)
 * ##### [Veuillez suivre les consignes de navigation pour ralentir la propagation du myriophylle](/water/guidelines-fr.md/)
@@ -43,7 +43,6 @@ description: Page principale de l'association en francais
   
 
 #### À propos de l'association
-* ##### [Assemblée générale annuelle - 4 juillet 2026](/about/meeting-fr.md/) 
 * ##### [Modifications proposées à la constitution et à la charte de l'association](/about/new-fr.md/) 
 * ##### [Mandat de l'association](/about/about-fr.md/)
 * ##### [Membres du conseil d'administration](/about/BoardMembers-fr.md/)
