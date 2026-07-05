@@ -14,6 +14,7 @@ description: Homepage of the Association in English
 
 ##### [If you haven’t already, please join the Lake Association!](/water/association-en.md/)
 <br>
+
 #### Milfoil
 * ##### [2026_Milfoil_Action_Plan](/assets/docs/2026_Milfoil_Action_Plan-en.pdf)
 * ##### [What is Eurasian Watermilfoil (Milfoil) and why is it bad?](/water/milfoil-en.md/)
