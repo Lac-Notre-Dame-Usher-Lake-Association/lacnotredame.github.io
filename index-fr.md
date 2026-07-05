@@ -5,10 +5,10 @@ description: Page principale de l'association en francais
 ---
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
-</div>
+<!-- </div>
 <div>
 <img src="/assets/img/Meeting_2026-fr.jpg" class="img-fluid py-3"/>
-</div>
+</div> -->
 
 #### Bienvenue! <br>Découvrez les priorités et les activités de l’association.
 
@@ -48,6 +48,7 @@ description: Page principale de l'association en francais
 * ##### [Mandat de l'association](/about/about-fr.md/)
 * ##### [Membres du conseil d'administration](/about/BoardMembers-fr.md/)
 * ##### [Procès-verbaux des assemblées générales annuelles](/about/BoardReports-fr.md/)
+* ##### [Budgets](/about/budget-fr.md/)
 * ##### [Rejoignez-nous](/water/association-fr.md/)
 * ##### Contactez-nous par courriel : info@lacnotredame.org
 * ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
