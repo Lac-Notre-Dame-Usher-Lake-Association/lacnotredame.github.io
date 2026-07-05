@@ -6,9 +6,9 @@ description: Homepage of the Association in English
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
 </div>
-<div>
+<!-- <div>
 <img src="/assets/img/Meeting_2026-en.jpg" class="img-fluid py-3"/>
-</div>
+</div> -->
 
 #### Welcome! <br>Read all about the priorities and activities of the association.
 
