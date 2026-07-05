@@ -13,7 +13,6 @@ description: Page principale de l'association en francais
 #### Bienvenue! <br>Découvrez les priorités et les activités de l’association.
 
 ##### [Si ce n’est pas déjà fait, rejoignez l’association!](/water/association-fr.md/)
-<br> 
 
 #### Myriophylle
 * ##### [Plan d'action 2026 contre le myriophylle](/assets/docs/2026_Milfoil_Action_Plan-fr.pdf)
