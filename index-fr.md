@@ -5,8 +5,8 @@ description: Page principale de l'association en francais
 ---
 <div>
 <img src="/assets/img/Lac-1c.jpg" class="img-fluid py-3"/>
-<!-- </div>
-<div>
+</div>
+<!-- <div>
 <img src="/assets/img/Meeting_2026-fr.jpg" class="img-fluid py-3"/>
 </div> -->
 
