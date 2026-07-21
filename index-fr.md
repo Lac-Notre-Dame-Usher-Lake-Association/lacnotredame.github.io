@@ -49,6 +49,6 @@ description: Page principale de l'association en francais
 * ##### [Budgets](/about/budget-fr.md/)
 * ##### [Rejoignez-nous](/water/association-fr.md/)
 * ##### Contactez-nous par courriel : info@lacnotredame.org
-* ##### [Facebook : Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
+* ##### [Facebook : Lac Notre-Dame et Usher Lake Owners and Residents](https://www.facebook.com/groups/alndu/)
 
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
