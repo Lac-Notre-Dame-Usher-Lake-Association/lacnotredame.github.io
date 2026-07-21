@@ -48,5 +48,5 @@ description: Homepage of the Association in English
 * ##### [Budgets](/about/budget-en.md/)
 * ##### [Join Us](/water/association-en.md/)
 * ##### Contact us by email: [info@lacnotredame.org](mailto:info@lacnotredame.org)
-* ##### Facebook: [Association des lacs Notre-Dame et Usher](https://www.facebook.com/groups/alndu/)
+* ##### Facebook: [Lac Notre-Dame et Usher Lake Owners and Residents](https://www.facebook.com/groups/alndu/)
 <img src="/assets/img/Lac-2.jpeg" class="img-fluid py-3"/>
