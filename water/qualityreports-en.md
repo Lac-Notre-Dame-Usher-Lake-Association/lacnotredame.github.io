@@ -31,7 +31,7 @@ date: 2023-09-12T13:10:52-05:00
 
 * Association volunteers collect water samples at <u>specific locations</u> where water enters and exits the lakes.
 
-* [Map of locations where the water has been tested since the inception of the program](/map/map-en.md/).
+* [Map of locations where the water has been tested since the inception of the program](https://lacnotredame.org/map/map-en.md/).
 
 #### Understanding water testing results
 
