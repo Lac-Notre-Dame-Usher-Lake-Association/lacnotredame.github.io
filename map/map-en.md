@@ -6,12 +6,11 @@ date: 2017-05-01T13:10:52-05:00
 ---
 ## Association Water Testing Locations
 
-* The red-numbered locations on the map show where water samples are collected for testing. Most locations match where water is either entering or exiting the lakes.
+# A revised map is coming soon.
+<!-- * The red-numbered locations on the map show where water samples are collected for testing. Most locations match where water is either entering or exiting the lakes.
 
 Note: This map was created by Steve Hume from the Electoral map for Municipalité de La Pêche.
 
 Tip: Use your browser's View controls to Zoom in and out on the map.  
 
-## A revised map is coming soon.
-
-<!-- <img class="img-fluid" style="width: 150%;" type="image/svg+xml" tabindex="-1" src="/assets/img/maps/lacnotredamewatertest.svg" alt="numbered water testing locations by the Association"> -->
+<img class="img-fluid" style="width: 150%;" type="image/svg+xml" tabindex="-1" src="/assets/img/maps/lacnotredamewatertest.svg" alt="numbered water testing locations by the Association"> -->
