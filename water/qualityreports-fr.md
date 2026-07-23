@@ -17,7 +17,7 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Merci aux bénévoles Lisa Fast, Denis Corbeil et Carole Doré pour la collecte et le transport des échantillons d’eau au laboratoire.
 
-* Des échantillons d'eau ont été prélevés au fil des ans aux endroits indiqués sur la [carte](/map/map-fr/). Vos cotisations et dons à l'association financent ces analyses.
+* Des échantillons d'eau ont été prélevés au fil des ans aux endroits indiqués sur la [carte](/maps/map-fr/). Vos cotisations et dons à l'association financent ces analyses.
 
 #### Lac Usher - Résumé du 12 août 2025
 
