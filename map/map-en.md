@@ -5,7 +5,7 @@ description: Water testing locations
 date: 2017-05-01T13:10:52-05:00
 ---
 ## Association Water Testing Locations
-
+<br>
 # A revised map is coming soon.
 <!-- * The red-numbered locations on the map show where water samples are collected for testing. Most locations match where water is either entering or exiting the lakes.
 
