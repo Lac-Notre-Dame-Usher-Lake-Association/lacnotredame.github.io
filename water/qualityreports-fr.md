@@ -17,7 +17,7 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Merci aux bénévoles Lisa Fast, Denis Corbeil et Carole Doré pour la collecte et le transport des échantillons d’eau au laboratoire.
 
-* Des échantillons d'eau ont été prélevés au fil des ans aux endroits indiqués sur la [carte](/maps/map-fr.md/). Vos cotisations et dons à l'association financent ces analyses.
+* Des échantillons d'eau ont été prélevés au fil des ans aux endroits indiqués sur la [carte]((https://lacnotredame.org/map/map-fr.md/). Vos cotisations et dons à l'association financent ces analyses.
 
 #### Lac Usher - Résumé du 12 août 2025
 
@@ -31,7 +31,7 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Des bénévoles de l'association prélèvent des échantillons d'eau à des <u>points précis</u> d'entrée et de sortie des lacs.
 
-* [Carte des lieux où l’eau a été testée depuis le début du programme](/map/map-fr.md/).
+* [Carte des lieux où l’eau a été testée depuis le début du programme](https://lacnotredame.org/map/map-fr.md/).
 
 #### Interprétation des résultats d'analyse de l'eau
 
