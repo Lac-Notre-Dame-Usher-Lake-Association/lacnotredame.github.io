@@ -13,11 +13,11 @@ date: 2023-09-12T13:10:52-05:00
   
 * Nitrogen and phosphorus levels continue to be in the ‘healthy’ range with little change over the last 20+ years in these nutrients. Keep up the good work everyone on maintaining your septic systems, no fertilizer use, and naturalizing your shorelines to reduce erosion and filter the run-off!
   
-* The rain and high water levels in June and July reduced the light reaching the milfoil - there are very few mats on the surface and less growth, even in shallow areas. Water clarity is considerably higher than last year in 2024, signalling less nutrients in the water to feed milfoil and algae.
+* The rain and high-water levels in June and July reduced the light reaching the milfoil - there are very few mats on the surface and less growth, even in shallow areas. Water clarity is considerably higher than last year, signalling less nutrients in the water to feed milfoil and algae.
   
 * Thank you to volunteers Lisa Fast, Denis Corbeil and Carole Doré for collecting and delivering the water samples to the lab.
   
-* Water samples are collected every year at the locations on the [map](https://lacnotredame.org/map/map-en/). Your association membership fees and donations pay for the water testing.
+* Water samples have been collected over the years at the locations on the [map](https://lacnotredame.org/map/map-en/). Your association membership fees and donations pay for the water testing.
 
 #### Usher Lake - August 12, 2025 Summary 
 
@@ -31,7 +31,7 @@ date: 2023-09-12T13:10:52-05:00
 
 * Association volunteers collect water samples at <u>specific locations</u> where water enters and exits the lakes.
 
-* [Map of water testing locations](/map/map-en.md/).
+* [Map of locations where the water has been tested since the inception of the program](/map/map-en.md/).
 
 #### Understanding water testing results
 
