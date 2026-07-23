@@ -13,11 +13,11 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Les concentrations d’azote et de phosphore demeurent dans la fourchette « saine », sans changement notable depuis plus de 20 ans. Bravo à tous pour vos efforts d’entretien des fosses septiques, l’absence d’engrais et la renaturalisation des berges pour réduire l’érosion et filtrer les eaux de ruissellement !
 
-* Les pluies et les niveaux d’eau élevés de juin et juillet ont réduit la luminosité atteignant le myriophylle. On observe très peu de tapis en surface et une croissance moindre, même dans les zones peu profondes. La clarté de l’eau est considérablement supérieure à celle de l’an dernier (2024), ce qui indique une moindre concentration de nutriments susceptibles de nourrir le myriophylle et les algues.
+* Les pluies et les niveaux d’eau élevés de juin et juillet ont réduit la luminosité atteignant le myriophylle. On observe très peu de tapis en surface et une croissance moindre, même dans les zones peu profondes. La clarté de l’eau est considérablement supérieure à celle de l’an dernier, ce qui indique une moindre concentration de nutriments susceptibles de nourrir le myriophylle et les algues.
 
 * Merci aux bénévoles Lisa Fast, Denis Corbeil et Carole Doré pour la collecte et le transport des échantillons d’eau au laboratoire.
 
-* Des échantillons d'eau sont prélevés chaque année aux emplacements indiqués sur la [carte](/map/map-fr/). Vos cotisations et dons à l'association financent ces analyses.
+* Des échantillons d'eau ont été prélevés au fil des ans aux endroits indiqués sur la [carte](/map/map-fr/). Vos cotisations et dons à l'association financent ces analyses.
 
 #### Lac Usher - Résumé du 12 août 2025
 
@@ -31,7 +31,7 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Des bénévoles de l'association prélèvent des échantillons d'eau à des <u>points précis</u> d'entrée et de sortie des lacs.
 
-* [Carte des emplacements de prélèvements d'eau](/map/map-fr/).
+* [Carte des lieux où l’eau a été testée depuis le début du programme](/map/map-fr/).
 
 #### Interprétation des résultats d'analyse de l'eau
 
