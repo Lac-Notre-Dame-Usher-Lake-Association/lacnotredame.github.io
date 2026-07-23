@@ -12,6 +12,6 @@ Note: This map was created by Steve Hume from the Electoral map for Municipalit√
 
 Tip: Use your browser's View controls to Zoom in and out on the map.  
 
-A revised map is coming soon
+## A revised map is coming soon.
 
 <!-- <img class="img-fluid" style="width: 150%;" type="image/svg+xml" tabindex="-1" src="/assets/img/maps/lacnotredamewatertest.svg" alt="numbered water testing locations by the Association"> -->
