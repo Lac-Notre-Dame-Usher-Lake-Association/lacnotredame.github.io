@@ -45,8 +45,8 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 ***
 #### Legal Documents
 
-* [Constitution (PDF)](../assets/docs/Association_Constitution.pdf) 
+* [Constitution (PDF)](../assets/docs/Final_Version_Association_Constitution-en.pdf) 
 
-* [Bylaws (PDF)](../assets/docs/Association_By-Laws_en.pdf)
+* [Bylaws (PDF)](../assets/docs/Final_Version_Association_Bylaw-en.pdf)
 
 * [Lettres Patentes (PDF)](../assets/docs/Lettres_patentes.pdf)
