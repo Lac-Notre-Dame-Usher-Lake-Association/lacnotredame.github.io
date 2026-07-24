@@ -46,8 +46,8 @@ La mission de l'Association est de promouvoir, de protéger et de préserver la 
 ***
 #### Documents légals
 
-* [Constitution (PDF)](../assets/docs/Association_Constitution.pdf) 
+* [Constitution (PDF)](../assets/docs/Final_Version_Association_Constitution-fr.pdf) 
 
-* [Bylaws (PDF)](../assets/docs/Association_By-Laws_en.pdf)
+* [Bylaws (PDF)](../assets/docs/Final_Version_Association_Bylaw-en.pdf)
 
 * [Lettres Patentes (PDF)](../assets/docs/Lettres_patentes.pdf)
