@@ -17,11 +17,11 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Merci aux bénévoles Lisa Fast, Denis Corbeil et Carole Doré pour la collecte et le transport des échantillons d’eau au laboratoire.
 
-* Des échantillons d'eau ont été prélevés au fil des ans aux endroits indiqués sur la [carte]((https://lacnotredame.org/map/map-fr.md/). Vos cotisations et dons à l'association financent ces analyses.
+* Des échantillons d'eau ont été prélevés au fil des ans aux endroits indiqués sur la [carte](/map/map-fr.md/). Vos cotisations et dons à l'association financent ces analyses.
 
 #### Lac Usher - Résumé du 12 août 2025
 
-* Le lac Usher présente de meilleurs résultats que les années précédentes. Les niveaux de bactéries, avec un taux d'E. coli plus élevé (60 UFC) [à l'emplacement 10](https://lacnotredame.org/map/map-fr.md/), sont bien inférieurs à la limite de 200 UFC pour la baignade en toute sécurité.
+* Le lac Usher présente de meilleurs résultats que les années précédentes. Les niveaux de bactéries, avec un taux d'E. coli plus élevé (60 UFC) [à l'emplacement 10](/map/map-fr.md/), sont bien inférieurs à la limite de 200 UFC pour la baignade en toute sécurité.
 
 * Les niveaux d'azote et de phosphore du lac Usher sont conformes aux attentes compte tenu de leur faible quantité, mais augmentent le risque de prolifération d'algues bleu-vert toxiques.
 
@@ -31,7 +31,7 @@ Date : 12 septembre 2023 à 13h10 (UTC-5)
 
 * Des bénévoles de l'association prélèvent des échantillons d'eau à des <u>points précis</u> d'entrée et de sortie des lacs.
 
-* [Carte des lieux où l’eau a été testée depuis le début du programme](https://lacnotredame.org/map/map-fr.md/).
+* [Carte des lieux où l’eau a été testée depuis le début du programme](/map/map-fr.md/).
 
 #### Interprétation des résultats d'analyse de l'eau
 
