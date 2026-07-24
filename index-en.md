@@ -41,7 +41,7 @@ description: Homepage of the Association in English
   <div data-sopfeu-lng="en_CA" data-sopfeu-media="15" data-sopfeu-responsive="false" id="sopfeu-widget-container"></div>
   
 #### About the Association
-* ##### [Proposed Changes to the Association's Constitution and Chart](/about/new-en.md/) 
+<!-- * ##### [Proposed Changes to the Association's Constitution and Chart](/about/new-en.md/) -->
 * ##### [Association's Mandate](/about/about-en.md/) 
 * ##### [Board Members](/about/BoardMembers-en.md/)
 * ##### [Annual General Meeting Minutes](/about/BoardReports-en.md/)
