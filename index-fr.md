@@ -42,7 +42,7 @@ description: Page principale de l'association en francais
   
 
 #### À propos de l'association
-* ##### [Modifications proposées à la constitution et à la charte de l'association](/about/new-fr.md/) 
+<!-- * ##### [Modifications proposées à la constitution et à la charte de l'association](/about/new-fr.md/) -->
 * ##### [Mandat de l'association](/about/about-fr.md/)
 * ##### [Membres du conseil d'administration](/about/BoardMembers-fr.md/)
 * ##### [Procès-verbaux des assemblées générales annuelles](/about/BoardReports-fr.md/)
