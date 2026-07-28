@@ -13,7 +13,7 @@ date: 2017-05-01T13:10:52-05:00
 échantillons d'eau ont été prélevés par le passé pour des tests.
 * Les emplacements numérotés en vert sur la carte montrent où des
 échantillons d'eau ont été ou seront prélevés cette année.
-* Veuillez consulter les résultats des tests annuels pour obtenir des
+* Veuillez consulter les [résultats des analyses annuelles](/water/qualityreports-fr.md/)pour obtenir des
 informations sur les tests individuels et les années concernées.
 * La plupart des emplacements correspondent aux endroits où l'eau entre ou
 sort des lacs.
