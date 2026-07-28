@@ -8,7 +8,7 @@ date: 2017-05-01T13:10:52-05:00
 <br>
 * ##### The red-numbered locations on the map show where water samples were collected in the past for testing.
 * ##### The green-numbered locations on the map show where water samples were/are to be collected for this year.
-* ##### Please see the [Annual Test Results](/water/qualityreports-en.md/) for information on individual testing locations and the years tested.
+* ##### Please see the [Annual Test Results](../water/qualityreports-en.md/) for information on individual testing locations and the years tested.
 * ##### Most locations match where water is either entering or exiting the lakes.
 
 Note: This map was created by Steve Hume from the electoral map for Municipalité de La Pêche.
