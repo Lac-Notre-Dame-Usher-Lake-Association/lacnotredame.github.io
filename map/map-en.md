@@ -5,7 +5,7 @@ description: Water testing locations
 date: 2017-05-01T13:10:52-05:00
 ---
 ## Association Water Testing Locations
-
+<br>
 * ##### The red-numbered locations on the map show where water samples were collected in the past for testing.
 * ##### The green-numbered locations on the map show where water samples were/are to be collected for this year.
 * ##### Please see the [Annual Test Results](/water/qualityreports-en.md/) for information on individual testing locations and the years tested.
