@@ -8388,7 +8388,7 @@
    font-family="'MyriadPro-Semibold'"
    font-size="10"
    id="text976"
-   style="fill:#008000">9a</text>
+   style="fill:#ff0000">9a</text>
 	<text
    transform="matrix(1 0 0 1 436.1191 253.0005)"
    fill="#FF2D00"
@@ -8401,7 +8401,8 @@
    fill="#FF2D00"
    font-family="'MyriadPro-Semibold'"
    font-size="10"
-   id="text978">5</text>
+   id="text978"
+   style="fill:#ff0000">5</text>
 	<text
    transform="matrix(1 0 0 1 115.3301 404.7803)"
    fill="#FF2D00"
@@ -8456,19 +8457,22 @@
    fill="#FF2D00"
    font-family="'MyriadPro-Semibold'"
    font-size="10"
-   id="text986">3</text>
+   id="text986"
+   style="fill:#ff0000">3</text>
 	<text
    transform="matrix(1 0 0 1 191.0801 177.5303)"
    fill="#FF2D00"
    font-family="'MyriadPro-Semibold'"
    font-size="10"
-   id="text987">13</text>
+   id="text987"
+   style="fill:#ff0000">13</text>
 	<text
    transform="matrix(1 0 0 1 198.3301 198.7803)"
    fill="#FF2D00"
    font-family="'MyriadPro-Semibold'"
    font-size="10"
-   id="text988">14</text>
+   id="text988"
+   style="fill:#ff0000">14</text>
 	<text
    transform="translate(242.0801,328.0303)"
    fill="#ff2d00"
