@@ -27,6 +27,7 @@ description: Page principale de l'association en francais
 #### Qualité de l'eau
 * ##### [Résultats des analyses annuelles](/water/qualityreports-fr.md/)
 * ##### [Carte des sites d'analyse](/map/map-fr.md/)
+* ##### [Carte interactive des derniers résultats de tests](/map/map-fr.md/)
 * ##### [Conseils pour garder le lac propre](/water/keepclean-fr.md/)
 * ##### [Plan d'action pour la Bernache du Canada](/water/gooseaction-fr.md/)
 
