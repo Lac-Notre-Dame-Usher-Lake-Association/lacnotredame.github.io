@@ -14,4 +14,5 @@ date: 2017-05-01T13:10:52-05:00
 <img class="img-fluid" style="width: 150%;" type="image/svg+xml" tabindex="-1" src="/assets/img/maps/lacnotredamewatertest.svg" alt="Numbered water testing locations by the Association">
 
 Conseil: Utilisez les contrôles d'affichage de votre navigateur pour zoomer avant et arrière sur la carte.
+
 Note: Cette carte a été créée par Steve Hume à partir de la carte électorale pour la Municipalité de La Pêche.
