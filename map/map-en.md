@@ -14,4 +14,5 @@ date: 2017-05-01T13:10:52-05:00
 <img class="img-fluid" style="width: 150%;" type="image/svg+xml" tabindex="-1" src="/assets/img/maps/lacnotredamewatertest.svg" alt="numbered water testing locations by the Association">
 
 Tip: Use your browser's View controls to Zoom in and out on the map.
+
 Note: This map was created by Steve Hume from the electoral map for Municipalité de La Pêche.
