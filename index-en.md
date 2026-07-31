@@ -27,6 +27,7 @@ description: Homepage of the Association in English
 #### Water Quality
 * ##### [Annual Test Results](/water/qualityreports-en.md/)
 * ##### [Map of testing locations](/map/map-en.md)
+* ##### [Interactive Map of Latest Test Results](/map/map-en.md)
 * ##### [Tips to keep the lake clean](/water/keepclean-en.md/)
 * ##### [Canada Goose Action Plan](/water/gooseaction-en.md/)
 
