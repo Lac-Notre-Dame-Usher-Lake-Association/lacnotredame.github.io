@@ -3486,8 +3486,8 @@ document.querySelectorAll('text').forEach(t=>{
    t.addEventListener('mousemove',e=>{
       tip.innerHTML=lookup[k];
       tip.style.display='block';
-      tip.style.left=(e.pageX)+'px';
-      tip.style.top=(e.pageY)+'px';
+      tip.style.left=(e.pageX+15)+'px';
+      tip.style.top=(e.pageY+15)+'px';
    });
    t.addEventListener('mouseleave',()=>tip.style.display='none');
  }
