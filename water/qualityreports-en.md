@@ -17,11 +17,11 @@ date: 2023-09-12T13:10:52-05:00
   
 * Thank you to volunteers Lisa Fast, Denis Corbeil and Carole Doré for collecting and delivering the water samples to the lab.
   
-* Water samples have been collected over the years at the locations on the [map](/map/Lac_Notre_Dame_interactive_map-en.html/). Your association membership fees and donations pay for the water testing.
+* Water samples have been collected over the years at the locations on the [map](https://lacnotredame.org/map/Lac_Notre_Dame_interactive_map-en.html). Your association membership fees and donations pay for the water testing.
 
 #### Usher Lake - August 12, 2025 Summary 
 
-* Usher has better results than previous years. Bacteria levels, with higher e-coli of 60 CFU [at location 10](/map/Lac_Notre_Dame_interactive_map-en.html/). That is well below the 200 CFU limit for safe swimming. 
+* Usher has better results than previous years. Bacteria levels, with higher e-coli of 60 CFU [at location 10](https://lacnotredame.org/map/Lac_Notre_Dame_interactive_map-en.html). That is well below the 200 CFU limit for safe swimming. 
 
 * Usher’s nitrogen and phosphorus levels are expected given the small size of Usher but do increase the risk of toxic Blue Green Algae.
 
@@ -31,7 +31,7 @@ date: 2023-09-12T13:10:52-05:00
 
 * Association volunteers collect water samples at <u>specific locations</u> where water enters and exits the lakes.
 
-* [Map of locations where the water has been tested since the inception of the program](/map/Lac_Notre_Dame_interactive_map-en.html/).
+* [Map of locations where the water has been tested since the inception of the program](https://lacnotredame.org/map/Lac_Notre_Dame_interactive_map-en.html).
 
 #### Understanding water testing results
 
