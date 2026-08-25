@@ -26,7 +26,6 @@ description: Homepage of the Association in English
 
 #### Water Quality
 * ##### [Annual Test Results](/water/qualityreports-en.md/)
-* ##### [Map of testing locations](/map/map-en.md)
 * ##### [Interactive map of latest test results](/map/Lac_Notre_Dame_interactive_map-en.html/)
 * ##### [Tips to keep the lake clean](/water/keepclean-en.md/)
 * ##### [Canada Goose Action Plan](/water/gooseaction-en.md/)
