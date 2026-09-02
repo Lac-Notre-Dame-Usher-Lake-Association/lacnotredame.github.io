@@ -63,7 +63,7 @@ Seconded by Danielle Lévesque
 
 #### Board report
 
-* Water tip cards were distributed to lake owners by board members in July and August. This worked out well, we met new lake owners, shared the ideas about how to keep the water clean and how to cut and remove milfoil,  discussed problems such as the geese and collected membership fees towards the water testing.   The tips and binder page is posted on the site [https://lacnotredame.org/water/keepclean/](/water/keepclean/). There are spare cards - we discussed going out on rounds again in 2020.  
+* Water tip cards were distributed to lake owners by board members in July and August. This worked out well, we met new lake owners, shared the ideas about how to keep the water clean and how to cut and remove milfoil,  discussed problems such as the geese and collected membership fees towards the water testing.   The tips and binder page is posted on the site [https://lacnotredame.org/water/keepclean/](/water/keepclean-en/). There are spare cards - we discussed going out on rounds again in 2020.  
 * New website was launched that also works well on phones, with map of water testing sites, and all water quality reports.
 * Suggestion was made to include list of who on the lake has milfoil cutters that they are willing to share, and to use the web site to mobilize an effort to reduce the Canada Geese levels, including how to naturalize your shoreline.  
 * Milfoil report - levels are very low this year, people are continuing to cut and remove weeds in front of their properties, which all agree has been a successful approach. The buoys were not placed until quite late in the summer as weed levels were low until that point. Danielle and Gaston Levesque place the buoys as volunteers - say thank you to them when you see them and please stay clear of the area around the buoys.
@@ -75,7 +75,7 @@ Seconded by Danielle Lévesque
 
 #### Water testing report was presented by Carol Doré and Lisa Fast
 
-[Results of 2017 and 2018 water testing - e-coli concern](/water/qualityreports/)
+[Results of 2017 and 2018 water testing - e-coli concern](/water/qualityreports-en/)
 
 * Thank you to Carole Doré for her continued volunteer work on water testing.
 * Water testing results summaries are now published on the web site when they are received by Lisa Fast, and all of the years of data are available for comparison and viewing.  
