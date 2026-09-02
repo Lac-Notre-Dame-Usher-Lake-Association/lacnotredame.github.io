@@ -71,10 +71,10 @@ Seconded by: Dave Hayward
 
 ### Water testing report
 
-[Water testing report](/water/qualityreports/) presented by Lisa Fast
+[Water testing report](/water/qualityreports-en/) presented by Lisa Fast
 
 * Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame were collected August 3rd and from Usher  August 9th.  
-* The annual [Water testing report](/water/qualityreports/) is updated with detailed test results.  Brief summary here:
+* The annual [Water testing report](/water/qualityreports-en/) is updated with detailed test results.  Brief summary here:
 * At Lac Notre Dame: Phosphorus and nitrogen levels are higher than usual, due to all the heavy rain this year running into the lake. These levels could mean we'll have heavier milfoil  and algaei next year, as these nutrients feed the weeds and algae. Water clarity is also reduced.
 * Preventing erosion & septic maintenance should be a priority - lake members should naturalize their shore lines to hold the soil and prevent erosion from boat wakes. On a more positive note, E-Coli levels were better this year, with only 1 location above the target level.
 * At Usher: High nitrogen and phosphorus levels as well at Usher, and e-Coli levels higher than target levels as usual, although not as high as previous years.
