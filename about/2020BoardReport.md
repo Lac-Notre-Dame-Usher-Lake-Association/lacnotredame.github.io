@@ -76,12 +76,12 @@ Seconded by: Robert Boucher
 
 ### Water testing report
 
-[Water testing report](/water/qualityreports/) presented by Lisa Fast
+[Water testing report](/water/qualityreports-en/) presented by Lisa Fast
 
 * Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. Samples from Usher and another sample from Location 6 near Des Generation were collected August 26th.  
-* The annual [Water testing report](/water/qualityreports/) is updated with detailed test results within a few days of when we receive them.  Brief summary here:
-* At Lac Notre Dame: Phosphorus, nitrogen and e-coli levels are all highest at [location 6 off Ch. des Generations](/map/maps/)   - ask your neighbours in that area not to use fertilizer, to naturalize their shoreline to keep geese away or use goose barriers, to ensure their septic systems are properly maintained, and to use phosphate-free cleaning products. A retest later in August showed e-coli down to more normal levels, although still higher than elsewhere in the lake.
-* At Usher: Results are normal at all locations except [Location 11](/map/maps/) where e-Coli is at unsafe levels and nitrogen, and phosphorus are also high.
+* The annual [Water testing report](/water/qualityreports-en/) is updated with detailed test results within a few days of when we receive them.  Brief summary here:
+* At Lac Notre Dame: Phosphorus, nitrogen and e-coli levels are all highest at [location 6 off Ch. des Generations](/map/maps-en/)   - ask your neighbours in that area not to use fertilizer, to naturalize their shoreline to keep geese away or use goose barriers, to ensure their septic systems are properly maintained, and to use phosphate-free cleaning products. A retest later in August showed e-coli down to more normal levels, although still higher than elsewhere in the lake.
+* At Usher: Results are normal at all locations except [Location 11](/map/maps-en/) where e-Coli is at unsafe levels and nitrogen, and phosphorus are also high.
 
 ### Water level report
 
