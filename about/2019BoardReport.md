@@ -72,7 +72,7 @@ Seconded by Danielle Doré
 
 ### Water testing report
 
-[Water testing report](/water/qualityreports/) presented by Lisa Fast
+[Water testing report](/water/qualityreports-en/) presented by Lisa Fast
 
 * Thank you to Carole Doré for her continued volunteer work on water testing.
 * Water testing results summaries are now published on the web site when they are received, and all of the years of data are available for comparison and viewing. We discussed this year's overall higher E-Coli results, particularly at locations 1 and 9B, and higher phosphorus/phosphates result at location 6. It's possible that firepit ash could be contributing, since phosphate-detergents were removed from the market several years ago. The E-Coli may be the geese or beavers, as beavers are active in the area around location 1.
