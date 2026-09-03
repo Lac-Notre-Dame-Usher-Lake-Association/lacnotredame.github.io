@@ -73,8 +73,8 @@ Seconded by: Cathy Kissick
 
 * Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame were collected August 16 and from Usher August ??.  
 * The annual [Water testing report](/water/qualityreports-en/) is updated with detailed test results.  Brief summary here:
-* At Lac Notre Dame: Phosphorus and nitrogen levels are improved this year. E-Coli warning only at [Location 4](/map/maps-en/) - level measured was 50 CFU/100ml (safe to swim if below 100, safe to drink below 10). We are missing E-coli measure for location 6, which is often high as well. Water users on Ch des Generations should act as if their measurement is approximately 50 as well, and take suitable precautions.
-* On a positive note, E-Coli levels were either not detectable or barely detectable at the other locations (2 Canada Geese nests hatched on the lake in the spring for a total of 11 geese. Keep them off your property with these ideas: [Goose action plan](/Content/water/gooseaction/)
+* At Lac Notre Dame: Phosphorus and nitrogen levels are improved this year. E-Coli warning only at [Location 4](/map/map-en/) - level measured was 50 CFU/100ml (safe to swim if below 100, safe to drink below 10). We are missing E-coli measure for location 6, which is often high as well. Water users on Ch des Generations should act as if their measurement is approximately 50 as well, and take suitable precautions.
+* On a positive note, E-Coli levels were either not detectable or barely detectable at the other locations (2 Canada Geese nests hatched on the lake in the spring for a total of 11 geese. Keep them off your property with these ideas: [Goose action plan](/Content/water/gooseaction-en/)
 * At Usher: report not available yet
 
 ### Water level report
