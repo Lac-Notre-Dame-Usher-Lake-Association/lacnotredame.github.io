@@ -71,14 +71,14 @@ Your membership fees support the following budget for the upcoming year:
 
 ### Water testing report
 
-[Water testing report](/water/qualityreports/) presented by Lisa Fast
+[Water testing report](/water/qualityreports-en/) presented by Lisa Fast
 
 * Thank you to Carole Doré, Denis Corbeil and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame and Usher were collected August 16. 
   
 Lac Notre Dame August 16th, 2023 summary:
 
 * E-coli levels are generally low, with 6 of 8 locations almost undetectable. 
-* Exceptions are [Location 4](/map/maps/), between Generations and Symons very high at 230 CFU/100ml - swimming is not recommended above 200 CFU, drinking water should have 0. [Location 6](/map/maps/)at Generations was also higher than the rest of the lake at 66.
+* Exceptions are [Location 4](/map/maps-en/), between Generations and Symons very high at 230 CFU/100ml - swimming is not recommended above 200 CFU, drinking water should have 0. [Location 6](/map/maps/)at Generations was also higher than the rest of the lake at 66.
 * E-coli levels in the Water may be impacted by pond water, construction and/or otters (there isevidence of their use of lake where creek comes out). 
 
 * Recommendation: Lisa to report the e-coli levels to the municipality given the recurrent e-coli results near locations 4 and 6 over the years. 
