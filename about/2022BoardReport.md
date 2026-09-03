@@ -69,11 +69,11 @@ Seconded by: Cathy Kissick
 
 ### Water testing report
 
-[Water testing report](/water/qualityreports/) presented by Lisa Fast
+[Water testing report](/water/qualityreports-en/) presented by Lisa Fast
 
 * Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame were collected August 16 and from Usher August ??.  
-* The annual [Water testing report](/water/qualityreports/) is updated with detailed test results.  Brief summary here:
-* At Lac Notre Dame: Phosphorus and nitrogen levels are improved this year. E-Coli warning only at [Location 4](/map/maps/) - level measured was 50 CFU/100ml (safe to swim if below 100, safe to drink below 10). We are missing E-coli measure for location 6, which is often high as well. Water users on Ch des Generations should act as if their measurement is approximately 50 as well, and take suitable precautions.
+* The annual [Water testing report](/water/qualityreports-en/) is updated with detailed test results.  Brief summary here:
+* At Lac Notre Dame: Phosphorus and nitrogen levels are improved this year. E-Coli warning only at [Location 4](/map/maps-en/) - level measured was 50 CFU/100ml (safe to swim if below 100, safe to drink below 10). We are missing E-coli measure for location 6, which is often high as well. Water users on Ch des Generations should act as if their measurement is approximately 50 as well, and take suitable precautions.
 * On a positive note, E-Coli levels were either not detectable or barely detectable at the other locations (2 Canada Geese nests hatched on the lake in the spring for a total of 11 geese. Keep them off your property with these ideas: [Goose action plan](/Content/water/gooseaction/)
 * At Usher: report not available yet
 
@@ -118,7 +118,7 @@ The Board meets 3-4x times per year plus the AGM.
 
 ### Proposed Association program for 2022-2022
 
-* Deliver/discuss [Goose action plan](/water/gooseaction/) for shoreline restoration around this fall and next summer to anyone with lawn/geese at shoreline
+* Deliver/discuss [Goose action plan](/water/gooseaction-en/) for shoreline restoration around this fall and next summer to anyone with lawn/geese at shoreline
 * Add a burlap how-to page on the site
 * Other?
 
