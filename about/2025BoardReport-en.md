@@ -66,7 +66,7 @@ Seconded by: Lauren Osmond
   * Septic systems can be a source of nutrients - check your septic system -pump it out, have it inspected, repair it.   
   * maintain/enhance/restore your shoreline to a natural state to reduce harmful nutrients from being washed into the lake and to prevent geese from nesting  
 
-* Summaries of the previous year's reports and a link to a spreadsheet of all data are posted on the [Water testing results page](https://lacnotredame.org/water/qualityreports/)
+* Summaries of the previous year's reports and a link to a spreadsheet of all data are posted on the [Water testing results page](https://lacnotredame.org/water/qualityreports-en/)
 
 **Water levels**: * Everyone needs to be aware that Lac Notre Dame is a big lake with a single outlet, not a managed waterway. It rains - that makes levels higher, it's dry, they go down. Beavers make dams. Docks should be designed accordingly. The Dam team of volunteers monitor and remove portions of the dam at the outlet according to ministry rules:  
 
