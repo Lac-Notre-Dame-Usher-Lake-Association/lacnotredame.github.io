@@ -81,7 +81,7 @@ Appuyée par : Lauren Osmond
 
 * Maintenez, améliorez et restaurez votre rive à son état naturel afin de réduire le déversement de nutriments nocifs dans le lac et d’empêcher la nidification des oies.
 
-* Les résumés des rapports de l’année précédente et un lien vers un tableau regroupant toutes les données sont disponibles sur la page des résultats d’analyse de l’eau : [https://lacnotredame.org/water/qualityreports/].
+* Les résumés des rapports de l’année précédente et un lien vers un tableau regroupant toutes les données sont disponibles sur la page des résultats d’analyse de l’eau : [https://lacnotredame.org/water/qualityreports-fr/].
 
 **Niveaux d’eau** : * Il est important de savoir que le lac Notre-Dame est un grand lac à émissaire unique et non une voie navigable aménagée. Les précipitations font monter le niveau de l’eau, et les périodes de sécheresse le font baisser. Les castors construisent des barrages. Les quais doivent être conçus en conséquence. L'équipe de bénévoles du barrage surveille et retire des portions du barrage à l'exutoire, conformément aux règlements du ministère :
 
