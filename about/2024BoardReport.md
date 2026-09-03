@@ -60,7 +60,7 @@ Seconded by: Dave Hayward
 
 ### Water quality report presented by Lisa Fast
 
-Water quality report (/water/quality reports/) online
+[Water quality report](https://lacnotredame.org/water/qualityreports-en/) online
 
 * Thank you to Carole Doré, Denis Corbeil and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame were collected August 8 (earlier than usual), before the 45mm rainfall that began that night. 
 
@@ -85,11 +85,11 @@ Extra E-coli testing in July on Generations:
 
 **Usher Lake August 15, 2024 summary**
   
-* Usher continues to have high nutrient and bacteria levels, with e-coli at 110 CFU [at location 11](https://lacnotredame.org/map/maps/) (below the 200 CFU limit for swimming but well above drinking water recommendations). 
+* Usher continues to have high nutrient and bacteria levels, with e-coli at 110 CFU [at location 11](https://lacnotredame.org/map/maps-en/) (below the 200 CFU limit for swimming but well above drinking water recommendations). 
 
 Phosphorus levels at location 11 have been higher than the target level of 0.01 mg/l of an uncontaminated lake for the last 5 years. The higher nitrogen and phosphorus levels are somewhat expected given the small size of Usher, but do increase the risk of toxic Blue-Green Algae.
 
-All results posted in [spreadsheet of water data to 2004](https://lacnotredame.org/water/qualityreports/)
+All results posted in [spreadsheet of water data to 2004](https://lacnotredame.org/water/qualityreports-en/)
 
 ### Weed team report \- presented by Jane Hayward
 
