@@ -85,7 +85,7 @@ Extra E-coli testing in July on Generations:
 
 **Usher Lake August 15, 2024 summary**
   
-* Usher continues to have high nutrient and bacteria levels, with e-coli at 110 CFU [at location 11](https://lacnotredame.org/map/maps-en/) (below the 200 CFU limit for swimming but well above drinking water recommendations). 
+* Usher continues to have high nutrient and bacteria levels, with e-coli at 110 CFU [at location 11](https://lacnotredame.org/map/map-en/) (below the 200 CFU limit for swimming but well above drinking water recommendations). 
 
 Phosphorus levels at location 11 have been higher than the target level of 0.01 mg/l of an uncontaminated lake for the last 5 years. The higher nitrogen and phosphorus levels are somewhat expected given the small size of Usher, but do increase the risk of toxic Blue-Green Algae.
 
