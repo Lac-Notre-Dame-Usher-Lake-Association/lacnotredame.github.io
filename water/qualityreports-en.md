@@ -1,3 +1,10 @@
+---
+layout: default-en
+title: Water testing results
+description: Lac Notre Dame water testing results, English version
+date: 2026-10-01
+---
+
 # Water Quality Testing Results
 
 ## Lac Notre Dame — August 4, 2026
