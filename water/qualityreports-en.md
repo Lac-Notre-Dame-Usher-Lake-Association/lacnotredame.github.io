@@ -40,8 +40,6 @@ date: 2026-10-01
 - E-coli levels reached 140 CFU at location #11 (at the main inflow to Usher) on August 4, but locations #10 and #12 were at 30 CFU. These levels may be impacted by upstream beaver activity, and could be elevated due to the heavy rains in the days immediately before samples were taken from the lake. None of these levels are close to the 200 CFU maximum for safe swimming, although parents with very young children who are more likely to ingest water may wish to avoid swimming close to location 11, which has had levels above 100 in 2020, 2024 and this year.
 - A salt test was added this year at location #11. Sodium was only 1.0 mg/L, slightly down from the 1.6 mg/L measured in 2005. This is a very low level of sodium. Calcium was similarly down to 18.8 mg/l, down from 25 mg/L in 2005. Chloride from roads/septic was unchanged at the low level of 0.6 mg/L. This is an excellent sign that there is almost no chloride contamination of Usher Lake from road salt/dust suppressant.
 
-### Lac Usher — 2005 Site #11 vs. 2026 Site #11
-
 | Lac Usher | 2005 Site #11 | 2026 Site #11 | Change |
 |---|---:|---:|---:|
 | Phosphates | 0.009 | 0.021 | <b>+133%</b> |
