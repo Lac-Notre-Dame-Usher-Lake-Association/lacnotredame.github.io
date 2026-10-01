@@ -32,8 +32,7 @@ date: 2026-10-01
 *Sample collection and analysis by Lisa Fast, with assistance from Carol Doré and Denis Corbeil.*
 
 ### New location #15 at tributary on Ch. Shaw
-
-<img alt="New location #15 at tributary on Ch. Shaw" assets/img/Site_15.png
+<img alt="New location #15 at tributary on Ch. Shaw" src="/assets/img/Site_15.png" class="img-fluid py-3"/>
 ---
 
 ## Usher Lake — August 4, 2026
