@@ -44,8 +44,8 @@ date: 2026-10-01
 
 | Lac Usher | 2005 Site #11 | 2026 Site #11 | Change |
 |---|---:|---:|---:|
-| Phosphates | 0.009 | 0.021 | +133% |
-| Nitrogen | 0.36 | 0.76 | +111% |
+| Phosphates | 0.009 | 0.021 | <b>+133%</b> |
+| Nitrogen | 0.36 | 0.76 | <b>+111%</b> |
 | Chloride | 0.6 | 0.6 | 0% |
 | Calcium | 25 | 18.8 | -25% |
 | Sodium | 1.54 | 1 | -35% |
