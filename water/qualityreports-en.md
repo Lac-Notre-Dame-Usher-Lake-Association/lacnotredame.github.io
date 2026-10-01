@@ -17,13 +17,11 @@ date: 2026-10-01
 - More of concern is an 85% increase in chloride from 1.3 to 2.4 mg/L, almost certainly from road chloride usage & septic input around the lake. The largest study on this “Salting our freshwater lakes, 2017, PNAS” ([PNAS](https://www.pnas.org/doi/10.1073/pnas.1620211114)) found that lakes with mean chloride above 1 mg/L are disproportionately the ones already on a rising trajectory, long before concentrations get anywhere near the toxicity guideline of 120 mg/L.
 - The take-away is to stop this trajectory: 1) maintain your septic system, and 2) avoid road salt and chloride dust suppressant where water can run off into the lake.
 
-### Lac Notre Dame — 2005 Site #7 vs. 2026 Site #15
-
 | Lac Notre Dame | 2005 Site #7 | 2026 Site #15 | Change |
 |---|---:|---:|---:|
 | Phosphates | 0.006 | 0.009 | +50% |
 | Nitrogen | 0.25 | 0.27 | +8% |
-| Chloride | 1.3 | 2.4 | +85% |
+| Chloride | 1.3 | 2.4 | <b>+85%</b> |
 | Calcium | 19.5 | 16.7 | -14% |
 | Sodium | 1.59 | 1.7 | +7% |
 | Magnesium | 2 | 2.7 | +35% |
