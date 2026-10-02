@@ -1,13 +1,13 @@
 ---
 layout: default-en
 title: Water testing results
-description: Lac Notre Dame water testing results, English version
+description: Water testing results, English version
 date: 2026-10-01
 ---
 
 # Water Quality Testing Results
 
-## Lac Notre Dame — August 4, 2026
+## Lac Notre-Dame — August 4, 2026
 
 - Water samples were collected at 6 LND locations this year. Please refer to the [interactive map of the latest test results.](../map/Lac_Notre_Dame_interactive_map-en.html/)
 - We added a new testing location (#15) at Ch. Shaw this year, where a tributary is running under the road and into the lake. The erosion around the inlet is quite obvious, as seen in the image below. The good news is that nutrient and e-coli levels at that new location are very similar to those around the lake. This new location replaces #7 on that same South shoreline.
@@ -21,8 +21,8 @@ date: 2026-10-01
 
 *Sample collection and analysis by Lisa Fast, with assistance from Carol Doré and Denis Corbeil — thank you!*
 
-### New location #15 at tributary on Ch. Shaw
-<img alt="New location #15 at tributary on Ch. Shaw" src="/assets/img/Site_15.png" class="img-fluid py-3"/>
+### New location #15 at tributary on Chemin Shaw
+<img src="/assets/img/Site_15.png" class="img-fluid py-3"/>
 ---
 
 ## Usher Lake — August 4, 2026
