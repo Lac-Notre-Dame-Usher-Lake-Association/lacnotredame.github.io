@@ -17,6 +17,8 @@ date: 2026-10-01
 - More of concern is an 85% increase in chloride from 1.3 to 2.4 mg/L, almost certainly from road chloride usage & septic input around the lake. The largest study on this [Salting our freshwater lakes, 2017, PNAS](https://www.pnas.org/doi/10.1073/pnas.1620211114) found that lakes with mean chloride above 1 mg/L are disproportionately the ones already on a rising trajectory, long before concentrations get anywhere near the toxicity guideline of 120 mg/L.
 - The take-away is to stop this trajectory: 1) maintain your septic system, and 2) avoid road salt and chloride dust suppressant where water can run off into the lake.
 
+<img src="/assets/img/Table_Lac_Notre-Dame_2026.png" class="img-fluid py-3"/>
+
 | Lac Notre Dame | 2005 Site #7 | 2026 Site #15 | Change |
 |---|---:|---:|---:|
 | Phosphates | 0.006 | 0.009 | +50% |
@@ -39,6 +41,8 @@ date: 2026-10-01
 - Nutrient results from Usher Lake show a continuing pattern with nitrogen levels in the moderate range (above 0.35) at all three testing locations, indicating a lake in the mesotrophic range. Nitrogen levels above 0.35 at all three Usher Lake testing locations indicate that the lake is in the mesotrophic range. Mesotrophic lakes are known to have intermediate levels of biological productivity and moderate amounts of nutrients such as phosphorous and nitrogen while still hosting diverse and healthy populations of aquatic flora and fauna. Phosphates have risen over the last 10 years, although they’re just outside of the range which encourages algae growth.
 - E-coli levels reached 140 CFU at location #11 (at the main inflow to Usher) on August 4, but locations #10 and #12 were at 30 CFU. These levels may be impacted by upstream beaver activity, and could be elevated due to the heavy rains in the days immediately before samples were taken from the lake. None of these levels are close to the 200 CFU maximum for safe swimming, although parents with very young children who are more likely to ingest water may wish to avoid swimming close to location 11, which has had levels above 100 in 2020, 2024 and this year.
 - A salt test was added this year at location #11. Sodium was only 1.0 mg/L, slightly down from the 1.6 mg/L measured in 2005. This is a very low level of sodium. Calcium was similarly down to 18.8 mg/l, down from 25 mg/L in 2005. Chloride from roads/septic was unchanged at the low level of 0.6 mg/L. This is an excellent sign that there is almost no chloride contamination of Usher Lake from road salt/dust suppressant.
+
+<img src="/assets/img/Table_Lac_Usher_2026.png" class="img-fluid py-3"/>
 
 | Lac Usher | 2005 Site #11 | 2026 Site #11 | Change |
 |---|---:|---:|---:|
