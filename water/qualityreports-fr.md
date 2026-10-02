@@ -1,38 +1,38 @@
 ---
 layout: default-fr
 title: Water testing results
-description: Lac Notre Dame water testing results, French version
+description: Water testing results, French version
 date: 2026-10-01
 ---
 
-# Water Quality Testing Results
+# Résultats des analyses d'eau
 
 ## Lac Notre-Dame — 4 août 2026
 
-- Water samples were collected at 6 LND locations this year. Please refer to the [interactive map of the latest test results.](../map/Lac_Notre_Dame_interactive_map-en.html/)
-- We added a new testing location (#15) at Ch. Shaw this year, where a tributary is running under the road and into the lake. The erosion around the inlet is quite obvious, as seen in the image below. The good news is that nutrient and e-coli levels at that new location are very similar to those around the lake. This new location replaces #7 on that same South shoreline.
-- Results for nutrients this year are very good and continue to be similar to those from 20 years ago. That’s a bit of a pleasant surprise given all the rain, washing nutrients into the lake in July! For nitrogen, all locations have levels below 0.3 - signs of a healthy oligotrophic lake. Phosphate levels are also in the uncontaminated range at 0.005 to 0.008, similar to results in 2005.
-- E-coli results across Lac Notre Dame are also low, again surprising given all the rain the week before testing. 3 locations (#1, #2 and the new #15) had measurements of approximately 30 CFU, while the other 3 locations tested (#4, #6 and #9b) all had less than 10 CFU. These results are all well below the 200 CFU limit for safe swimming.
-- We added salts & chloride tests this year - the last time salts were tested was in 2005. Good news - sodium levels this year at 1.7 mg/L are within the same range as in 2005, when they were 1.59 mg/L. Levels are well below the threshold of concern for sodium in drinking water of 20 mg/L.
-- More of concern is an 85% increase in chloride from 1.3 to 2.4 mg/L, almost certainly from road chloride usage & septic input around the lake. The largest study on this [Salting our freshwater lakes, 2017, PNAS](https://www.pnas.org/doi/10.1073/pnas.1620211114) found that lakes with mean chloride above 1 mg/L are disproportionately the ones already on a rising trajectory, long before concentrations get anywhere near the toxicity guideline of 120 mg/L.
-- The take-away is to stop this trajectory: 1) maintain your septic system, and 2) avoid road salt and chloride dust suppressant where water can run off into the lake.
+- Des échantillons d'eau ont été collectés sur 6 sites LND cette année. Veuillez vous référer à la [carte interactive des derniers résultats des tests.](../map/Lac_Notre_Dame_interactive_map-fr.html/)
+- Nous avons ajouté un nouveau lieu de test (#15) au Ch. Shaw cette année, où un affluent coule sous la route et se jette dans le lac. L’érosion autour de la crique est assez évidente, comme le montre l’image ci-dessous. La bonne nouvelle est que les niveaux de nutriments et d’E-coli à ce nouvel emplacement sont très similaires à ceux autour du lac. Ce nouvel emplacement remplace le numéro 7 sur cette même rive sud.
+- Les résultats pour les nutriments cette année sont très bons et continuent d'être similaires à ceux d'il y a 20 ans. C’est une bonne surprise étant donné toutes les pluies qui ont emporté les nutriments dans le lac en juillet ! Pour l’azote, tous les emplacements ont des niveaux inférieurs à 0,3 – signes d’un lac oligotrophe sain. Les niveaux de phosphate se situent également dans la plage non contaminée, entre 0,005 et 0,008, similaires aux résultats de 2005.
+- Les résultats E-coli au Lac Notre Dame sont également faibles, ce qui est encore une fois surprenant compte tenu de toute la pluie de la semaine précédant les tests. 3 emplacements (#1, #2 et le nouveau #15) avaient des mesures d'environ 30 CFU, tandis que les 3 autres emplacements testés (#4, #6 et #9b) avaient tous moins de 10 CFU. Ces résultats sont tous bien inférieurs à la limite de 200 CFU pour une baignade en toute sécurité.
+- Nous avons ajouté des tests de sels et de chlorures cette année - la dernière fois que les sels ont été testés, c'était en 2005. Bonne nouvelle - les niveaux de sodium cette année à 1,7 mg/L sont dans la même fourchette qu'en 2005, lorsqu'ils étaient de 1,59 mg/L. Les niveaux sont bien inférieurs au seuil préoccupant pour le sodium dans l’eau potable de 20 mg/L.
+- Plus préoccupante est une augmentation de 85 % du chlorure, passant de 1,3 à 2,4 mg/L, presque certainement due à l'utilisation de chlorure de voirie et aux apports des fosses septiques autour du lac. La plus grande étude sur ce sujet [Salting our Freshwater Lakes, 2017, PNAS](https://www.pnas.org/doi/10.1073/pnas.1620211114) a révélé que les lacs dont la concentration moyenne de chlorure est supérieure à 1 mg/L sont de manière disproportionnée ceux qui sont déjà sur une trajectoire ascendante, bien avant que les concentrations s'approchent de la ligne directrice de toxicité de 120 mg/L.
+- Ce qu'il faut retenir, c'est d'arrêter cette trajectoire : 1) entretenir votre installation septique, et 2) éviter les abat-poussière de sel de déneigement et de chlorure là où l'eau peut s'écouler dans le lac.
 
 <img src="/assets/img/Table_Lac_Notre-Dame_2026.png" class="img-fluid py-3"/>
-*Sample collection and analysis by Lisa Fast, with assistance from Carol Doré and Denis Corbeil — thank you!*
+*Prélèvement et analyse d'échantillons par Lisa Fast, avec l'aide de Carol Doré et Denis Corbeil — merci!*
 
-### New location #15 at tributary on Ch. Shaw
-<img alt="New location #15 at tributary on Ch. Shaw" src="/assets/img/Site_15.png" class="img-fluid py-3"/>
+### Nouveau site #15 au tributaire du chemin Shaw
+<img src="/assets/img/Site_15.png" class="img-fluid py-3"/>
 ---
 
 ## Lac Usher — 4 août 2026
 
-- Water samples were collected at 3 Usher Lake locations this year. Please refer to the [interactive map of the latest test results.](../map/Lac_Notre_Dame_interactive_map-en.html/)
-- Nutrient results from Usher Lake show a continuing pattern with nitrogen levels in the moderate range (above 0.35) at all three testing locations, indicating a lake in the mesotrophic range. Nitrogen levels above 0.35 at all three Usher Lake testing locations indicate that the lake is in the mesotrophic range. Mesotrophic lakes are known to have intermediate levels of biological productivity and moderate amounts of nutrients such as phosphorous and nitrogen while still hosting diverse and healthy populations of aquatic flora and fauna. Phosphates have risen over the last 10 years, although they’re just outside of the range which encourages algae growth.
-- E-coli levels reached 140 CFU at location #11 (at the main inflow to Usher) on August 4, but locations #10 and #12 were at 30 CFU. These levels may be impacted by upstream beaver activity, and could be elevated due to the heavy rains in the days immediately before samples were taken from the lake. None of these levels are close to the 200 CFU maximum for safe swimming, although parents with very young children who are more likely to ingest water may wish to avoid swimming close to location 11, which has had levels above 100 in 2020, 2024 and this year.
-- A salt test was added this year at location #11. Sodium was only 1.0 mg/L, slightly down from the 1.6 mg/L measured in 2005. This is a very low level of sodium. Calcium was similarly down to 18.8 mg/l, down from 25 mg/L in 2005. Chloride from roads/septic was unchanged at the low level of 0.6 mg/L. This is an excellent sign that there is almost no chloride contamination of Usher Lake from road salt/dust suppressant.
+- Des échantillons d'eau ont été prélevés à 3 emplacements d'Usher Lake cette année. Veuillez vous référer à la [carte interactive des derniers résultats des tests.](../map/Lac_Notre_Dame_interactive_map-fr.html/)
+- Les résultats en éléments nutritifs du lac Usher montrent une tendance continue avec des niveaux d'azote dans la plage modérée (au-dessus de 0,35) aux trois sites d'essai, indiquant un lac dans la plage mésotrophe. Les niveaux d'azote supérieurs à 0,35 aux trois sites d'analyse du lac Usher indiquent que le lac se situe dans la plage mésotrophe. Les lacs mésotrophes sont connus pour avoir des niveaux intermédiaires de productivité biologique et des quantités modérées de nutriments tels que le phosphore et l’azote, tout en abritant des populations diversifiées et saines de flore et de faune aquatiques. Les phosphates ont augmenté au cours des 10 dernières années, même s’ils se situent juste en dehors de la fourchette favorisant la croissance des algues.
+- Les niveaux d'E-coli ont atteint 140 CFU à l'emplacement n°11 (au niveau de l'afflux principal vers Usher) le 4 août, mais les emplacements n°10 et n°12 étaient à 30 CFU. Ces niveaux pourraient être affectés par l'activité des castors en amont et pourraient être élevés en raison des fortes pluies survenues dans les jours précédant immédiatement le prélèvement des échantillons dans le lac. Aucun de ces niveaux n'est proche du maximum de 200 CFU pour une baignade en toute sécurité, bien que les parents de très jeunes enfants plus susceptibles d'ingérer de l'eau souhaiteront peut-être éviter de nager à proximité du lieu 11, qui a eu des niveaux supérieurs à 100 en 2020, 2024 et cette année.
+- Un test de sel a été ajouté cette année à l'emplacement #11. Le sodium n'était que de 1,0 mg/L, soit une légère baisse par rapport aux 1,6 mg/L mesurés en 2005. Il s'agit d'un niveau de sodium très faible. Le calcium était également en baisse à 18,8 mg/l, contre 25 mg/L en 2005. Le chlorure provenant des routes/des fosses septiques était inchangé au faible niveau de 0,6 mg/L. C’est un excellent signe qu’il n’y a presque aucune contamination du lac Usher par les sels de déneigement et les abat-poussières.
 
 <img src="/assets/img/Table_Lac_Usher_2026.png" class="img-fluid py-3"/>
-*Samples collected by Rejean Valliant and delivered by Carol Doré — thank you!*
+*Échantillons recueillis par Réjean Valliant et livrés par Carol Doré — merci!*
 
 ---
 
