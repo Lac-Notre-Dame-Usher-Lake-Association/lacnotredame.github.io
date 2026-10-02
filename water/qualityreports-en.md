@@ -19,16 +19,6 @@ date: 2026-10-01
 
 <img src="/assets/img/Table_Lac_Notre-Dame_2026.png" class="img-fluid py-3"/>
 
-| Lac Notre Dame | 2005 Site #7 | 2026 Site #15 | Change |
-|---|---:|---:|---:|
-| Phosphates | 0.006 | 0.009 | +50% |
-| Nitrogen | 0.25 | 0.27 | +8% |
-| Chloride | 1.3 | 2.4 | <b>+85%</b> |
-| Calcium | 19.5 | 16.7 | -14% |
-| Sodium | 1.59 | 1.7 | +7% |
-| Magnesium | 2 | 2.7 | +35% |
-| Potassium | 0.68 | 0.7 | +3% |
-
 *Sample collection and analysis by Lisa Fast, with assistance from Carol Doré and Denis Corbeil — thank you!*
 
 ### New location #15 at tributary on Ch. Shaw
@@ -43,16 +33,6 @@ date: 2026-10-01
 - A salt test was added this year at location #11. Sodium was only 1.0 mg/L, slightly down from the 1.6 mg/L measured in 2005. This is a very low level of sodium. Calcium was similarly down to 18.8 mg/l, down from 25 mg/L in 2005. Chloride from roads/septic was unchanged at the low level of 0.6 mg/L. This is an excellent sign that there is almost no chloride contamination of Usher Lake from road salt/dust suppressant.
 
 <img src="/assets/img/Table_Lac_Usher_2026.png" class="img-fluid py-3"/>
-
-| Lac Usher | 2005 Site #11 | 2026 Site #11 | Change |
-|---|---:|---:|---:|
-| Phosphates | 0.009 | 0.021 | <b>+133%</b> |
-| Nitrogen | 0.36 | 0.76 | <b>+111%</b> |
-| Chloride | 0.6 | 0.6 | 0% |
-| Calcium | 25 | 18.8 | -25% |
-| Sodium | 1.54 | 1 | -35% |
-| Magnesium | 3.1 | 1.6 | -48% |
-| Potassium | 0.78 | 0.3 | -62% |
 
 *Samples collected by Rejean Valliant and delivered by Carol Doré — thank you!*
 
