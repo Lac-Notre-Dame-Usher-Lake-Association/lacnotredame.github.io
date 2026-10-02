@@ -18,6 +18,7 @@ date: 2026-10-01
 - The take-away is to stop this trajectory: 1) maintain your septic system, and 2) avoid road salt and chloride dust suppressant where water can run off into the lake.
 
 <img src="/assets/img/Table_Lac_Notre-Dame_2026.png" class="img-fluid py-3"/>
+
 *Sample collection and analysis by Lisa Fast, with assistance from Carol Doré and Denis Corbeil — thank you!*
 
 ### New location #15 at tributary on Ch. Shaw
@@ -32,6 +33,7 @@ date: 2026-10-01
 - A salt test was added this year at location #11. Sodium was only 1.0 mg/L, slightly down from the 1.6 mg/L measured in 2005. This is a very low level of sodium. Calcium was similarly down to 18.8 mg/l, down from 25 mg/L in 2005. Chloride from roads/septic was unchanged at the low level of 0.6 mg/L. This is an excellent sign that there is almost no chloride contamination of Usher Lake from road salt/dust suppressant.
 
 <img src="/assets/img/Table_Lac_Usher_2026.png" class="img-fluid py-3"/>
+
 *Samples collected by Rejean Valliant and delivered by Carol Doré — thank you!*
 
 ---
