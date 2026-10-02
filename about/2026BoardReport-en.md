@@ -1,4 +1,9 @@
-## Draft Minutes of Annual General Meeting
+---
+layout: default-en
+Title: 2026 Minutes of the Annual General Meeting of the Lac Notre Dame and Usher Lake Association  
+description: AGM Lac Notre-Dame and Usher Lake Association  
+date: 2026-10-01
+---
 
 ### Annual General Meeting - July 4, 2026, 16:00 at Rupert Community Centre
 
@@ -147,11 +152,11 @@ Thank you to Imre and all of the dam team members.
 
 Thanks to all of our volunteers including our buoy and water testing teams, our canvassers and all those who have expressed an interest in joining a committee.
 
-### 11. [10.] Open to Floor
+### 11. Open to Floor
 
 - Recommendation to examine feasibility of a pilot on Usher Lake
 
-### 12. [11.] Adjournment
+### 12. Adjournment
 
 The meeting was adjourned at 5:47pm.
 
