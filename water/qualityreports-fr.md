@@ -18,6 +18,7 @@ date: 2026-10-01
 - Ce qu'il faut retenir, c'est d'arrêter cette trajectoire : 1) entretenir votre installation septique, et 2) éviter les abat-poussière de sel de déneigement et de chlorure là où l'eau peut s'écouler dans le lac.
 
 <img src="/assets/img/Table_Lac_Notre-Dame_2026.png" class="img-fluid py-3"/>
+
 *Prélèvement et analyse d'échantillons par Lisa Fast, avec l'aide de Carol Doré et Denis Corbeil — merci!*
 
 ### Nouveau site #15 au tributaire du chemin Shaw
@@ -32,6 +33,7 @@ date: 2026-10-01
 - Un test de sel a été ajouté cette année à l'emplacement #11. Le sodium n'était que de 1,0 mg/L, soit une légère baisse par rapport aux 1,6 mg/L mesurés en 2005. Il s'agit d'un niveau de sodium très faible. Le calcium était également en baisse à 18,8 mg/l, contre 25 mg/L en 2005. Le chlorure provenant des routes/des fosses septiques était inchangé au faible niveau de 0,6 mg/L. C’est un excellent signe qu’il n’y a presque aucune contamination du lac Usher par les sels de déneigement et les abat-poussières.
 
 <img src="/assets/img/Table_Lac_Usher_2026.png" class="img-fluid py-3"/>
+
 *Échantillons recueillis par Réjean Valliant et livrés par Carol Doré — merci!*
 
 ---
