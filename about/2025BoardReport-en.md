@@ -1,126 +1,158 @@
----
-layout: default-en
-Title: 2025 Minutes of the Annual General Meeting of the Lac Notre Dame and Usher Lake Association  
-description: AGM Lac Notre-Dame and Usher Lake Association  
-date:   
----
+## Draft Minutes of Annual General Meeting
 
-## 2025 Annual General Meeting minutes
+### Annual General Meeting - July 4, 2026, 16:00 at Rupert Community Centre
 
-### Annual General Meeting - July 5, 2025, 16:00 at Camp Kalalla
+Registration opened at 3:30pm with an opportunity to renew membership on site before the meeting started.
 
-Open at 4:00 pm
+Meeting called to Order 4:01 pm.
 
-Mandate of the association:  
-"to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all".
+### 1. Welcome and opening
 
-### Constitution of the meeting - quorum based on registered members
+Don welcomed all those in attendance and provided a summary of procedure for voting and proxy ballots (8 received).
 
-Lisa Fast, president, opened the meeting.    
-In summer 2024,  **54** members paid their membership fees for 2024-2025. 29 people attended the meeting. Quorum requires at least 25% of members to be present to reach quorum. Bylaws state that people who've paid the membership fee are members and can vote. 
+### 2. Meeting quorum
 
-Reminder that membership fees were raised at last year's AGM to $25 from $10. 
+62 members. 19 members in attendance and 8 proxies.
 
-Approval of 2024 AGM minutes
+### 3. Approval of 2025 AGM Minutes
 
-Approval of the minutes of the [2024 Annual General Meeting](../2024BoardReport/)
+Don provided a brief Summary of the 2025 Annual General Meeting.
 
-Moved by: Lisa Fast  
-Seconded by: Don Herweyer
+Moved by: Laura
 
-Approve agenda for 2025 meeting
+Seconded by: Kathy
 
-1. Opening of Meeting (count heads to confirm Quorum)  
-2. Approval of 2024 AGM Minutes  
-3. Approval of Agenda  
-4. Financial report  
-5. Current board and election of new president and treasurer
-6. Milfoil action committee planning  
-7. Develop and vote on proposed program  
-8. Member's Open Issues and questions   
-9. Adjourn Meeting
+Carried
 
-Moved by: Lisa Fast  
-Seconded by: William Hebert
+### 4. Approval of Agenda
 
-### Financial Report, presented by Lisa Fast
- 
-(Brian Cook, Treasurer, was unable to attend)
+Moved by: Jane
 
-Summary:
+Seconded by: Anita
 
-* The Lake Association has accounts with Desjardins. At June 30, 2025 the balance was **$6,402.31
-* Membership during summer 2024 brought in $540 in fees at $10 per household, donations $1560, and the municipal Green Fund grant first payment was $1707, for income of $3,807.
-* Our usual expenses included water testing ($883.55), membership in Quebec Coop de solidarité en protection de 'eau Rappel ($200), buoys and milfoil work ($359), and Entreprise Quebec annual registration ($39) for total expenses of **$1,626.75**
+Carried
 
-Motion to accept Treasurer's report
+### 5. Approval of 2026 Milfoil Action Plan
 
-Moved by: Lisa Fast
+The Board provided a presentation of the context of the 2026 Milfoil Action Plan. Guidelines were presented at last year’s AGM. This year built on last year’s request for action. The Board hosted an online community session on March 31 2026 to develop a plan. The Plan included a pilot project to lay three benthic mats to control growth of weed. The location of the mats was determined with the help of a biologist. There was discussion around the details and location of the Pilot Project, the need for a longer-term plan, funding strategy, impact on other plants, and further education of lake residents and users. The notion of a second pilot Usher Lake was raised and will be examined.
 
-Seconded by: Lauren Osmond
+The Pilot Project would be complemented by ongoing education, yellow buoy program and canvassing.
 
-### Water quality and water levels report - Lisa Fast
+The Chair deferred the approval of the Milfoil Action Plan to occur after the consideration of the 2026-27 Budget which included the funding for the pilot project.
 
-* No 2025 report is available yet. Water testing will take place at the usual time of first week of August (consistent timing is important to understanding trends). Report will be sent via email and posted on this site.
-  
-  * Septic systems can be a source of nutrients - check your septic system -pump it out, have it inspected, repair it.   
-  * maintain/enhance/restore your shoreline to a natural state to reduce harmful nutrients from being washed into the lake and to prevent geese from nesting  
+### 6. Financials
 
-* Summaries of the previous year's reports and a link to a spreadsheet of all data are posted on the [Water testing results page](https://lacnotredame.org/water/qualityreports-en/)
+#### a. Approval of Treasurer's year-end Financial Report for 2025-2026
 
-**Water levels**: * Everyone needs to be aware that Lac Notre Dame is a big lake with a single outlet, not a managed waterway. It rains - that makes levels higher, it's dry, they go down. Beavers make dams. Docks should be designed accordingly. The Dam team of volunteers monitor and remove portions of the dam at the outlet according to ministry rules:  
+Moved by: Nigel
 
-* *As per Quebec Ministry of Forestry, Wildlife & Park* and *Local Municipal Regulations*, Imre and the team are only permitted to slowly remove portions of the dam to prevent flooding and damage to  the ecological sensitive wetlands downstream from the rush of silt. Trespassing to destroy the dam risks flooding, and potential damage to Chemin Kalalla *.
-* Trail cameras and no trespassing signs are in place. Do not trespass - the team is managing the dam.
-* All of the dam team members have now signed agreements, and have "agent status" on the property, and can act on behalf of the owners with regards to the Trespass Act. A measuring stick in the water near the dam is used by the team to monitor water levels and **try as much as possible to keep a consistent level** with the level higher in spring to block some light from reaching the milfoil.   
+Seconded by: Kathryn
 
+Carried
 
-### Current board and election of new members
+#### b. Approval of Budget for 2026-2027
 
-The Board meets 4-5 times, usually online, per year plus the AGM. Board committees meet separately. Current bylaws require board members to serve for a maximum of 6 years but extensions can be voted on and approved at the AGM. 
+### 7. Proposed committees and support funding
 
-Lisa Fast has served in the President role since 2016. She is stepping down after this 2025 AGM. Afterward, she will remain on the board in the Past-President role to assist with the transition.
+An overview of the proposed committees and support funding was provided.
 
-Current Board Members 
+Discussion on how to get more people involved? Proposed use of committees: Milfoil, Environmental, Social, Strategic. Benefit of committee and funding is that it brings people together.
 
-* Jane Hayward - Secretary (elected 2023)  
-* Don Herweyer, member (elected 2020)  
-* Brian Cook, treasurer (elected 2020) - resigned - need new treasurer 
-* Lisa Fast, President (elected 2016) - term ends July 2025 
-* Graeme Simpson - member (elected 2022)
-* William Hebert - member (elected 2024)  
-* Jim Thompson - member (elected 2024)
+Moved by: Tanya
 
-**Motion to elect Don Herweyer the new President ** 
-  Don has been a board member for 5 years. 
-- Moved by: Lisa Fast
-- Seconded by:  Jim Thompson 
-ELECTED by a show of hands
+Seconded by: Audrey
 
-* Motion to elect Martin Croteau as a member at large 
-ELECTED by a show of hands 
+Carried
 
-2026 program includes amending and updating [Association bylaws](https://lacnotredame.org/assets/docs/Association\_By-Laws\_en.pdf), which have not been updated in the last 10 years.
+### 8. Approval of Association By-law and Constitution Changes
 
-### Milfoil Action Committee 
+Don provided a summary of the key changes recommended to the current by-law and Association Constitution noting the previous version was over 20 years old.
 
-#### Milfoil Action Committee Report 
-* [PDF format](/assets/docs/water/AGM slides VFinal 5jul2025.pdf)
+Discussion on item 2.2. After some discussion a motion was tabled to retain the existing two vote per property maximum.
 
-MOTION: Accept the watercraft guidelines and canvassing them to all of the lake to STOP THE SPREAD
-Moved by Lauren Osmond
-Seconded by Lisa Fast
-- APPROVED by show of hands
-Canvassers will have a copy of the Guidelines map to handout and summary of the regulatory process and help out with work towards the plan, boat cleaning
+Moved by Marie M
 
-MOTION: Develop a realistic framework for milfoil eradication for next AGM with steps 
-Moved by: Lauren Osmond
-Seconded by: Anita Herweyer 
-APPROVED by show of hands 
+Seconded by Nigel H
 
+Carried 14-6
 
-10.0 Move to adjourn AGM meeting
+As a result of comments provided by Michael F the Board is recommending the following changes to Section 1 and 2.1 of the By-law and Section 4 of the Constitution.
 
-Moved by Lisa Fast
-Seconded by Lynn Elliot
-Meeting closed at 5:21  pm 
+**Delete the word “occupant” and replace with “family or extended Family” in Section 2.1**
+
+**Current wording of proposed by-law with proposed changes below:**
+
+**Amend Section 1 Definitions by adding a definition of family or extended family as follows:**
+
+**Family and extended family** – “family is a couple, with or without children, married or cohabiting in a relationship of some permanence or a lone parent with at least one child in the same house. Extended family consists of one or more generations and includes parents and children, in-laws, grandparents, aunts, uncles, cousins, and nieces and nephews.
+
+**Amend Section 4 Membership of the Constitution to reflect and implement the above by-law changes.**
+
+Moved by: Michael
+
+Seconded by: Kathryn
+
+Carried: all in favour
+
+Adoption of by-law and Constitution changes following amendments
+
+Moved by: Anita
+
+Seconded by: Tanya
+
+Carried: all in favour. Proxy votes do not count.
+
+Return to Item 5: Milfoil Action Plan
+
+Moved by: Marie
+
+Seconded by: Marcel
+
+Carried
+
+### 9. Approval of nominations for new members and proposed extensions of existing members
+
+#### Nominations for New Board Members
+
+- **Erin Jamison** - Erin has previous experience as a Board member and works at a CEGEP in Gatineau. Erin and her family are permanent residents on Usher Lake and look forward to representing Usher Lake on the Board.
+- **Audrey Murphy** - Audrey has been an Association volunteer with experience as a Board member of a non-profit nursing organization. She is a native of Nova Scotia and spends her summers at Lac Notre-Dame with her husband Mike.
+- **Laura Urrechaga** - Laura and her husband Nigel are proud owners of a cottage on Kallala Road at the east end of Lac Notre-Dame and she looks forward to participating on the Board.
+
+Motion to approve three new Board members
+
+Moved by: Julie
+
+Seconded by: Marcel
+
+Carried unanimously
+
+#### Current Board Members - approval of proposed extensions
+
+- **Don Herweyer**, Current President (Board member since 2020, completed two 3 year terms) - extension of one two year term till 2028
+- **Jane Hayward**, Current Treasurer (Board Member since 2020, completed two 3 year terms) - extension of one three year term till 2029
+
+Motion to approve the extensions of Don Herweyer and Jane Hayward
+
+Moved by: Julie
+
+Seconded by: Jim
+
+Carried unanimously
+
+### 10. President’s remarks
+
+Don thanked outgoing Board Members Graeme Simpson, William Hébert, and Lisa Fast for their contributions and years of service to the Board and the Association.
+
+Thank you to Imre and all of the dam team members.
+
+Thanks to all of our volunteers including our buoy and water testing teams, our canvassers and all those who have expressed an interest in joining a committee.
+
+### 11. [10.] Open to Floor
+
+- Recommendation to examine feasibility of a pilot on Usher Lake
+
+### 12. [11.] Adjournment
+
+The meeting was adjourned at 5:47pm.
+
+© 2026 Lac Notre-Dame and Usher Lake Association
