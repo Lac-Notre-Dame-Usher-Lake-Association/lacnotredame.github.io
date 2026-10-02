@@ -5,6 +5,7 @@ description: Main page for displaying yearly Board Reports - English page
 date: 2025-09-07
 ---
 ### Annual General Meeting Minutes
+* [2026](/2026BoardReport-en.md/)
 * [2025](/2025BoardReport-en.md/)
 * [2024](/2024BoardReport.md/)
 * [2023](/2023BoardReport.md/)
