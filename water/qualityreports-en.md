@@ -29,7 +29,7 @@ date: 2026-10-01
 | Magnesium | 2 | 2.7 | +35% |
 | Potassium | 0.68 | 0.7 | +3% |
 
-*Sample collection and analysis by Lisa Fast, with assistance from Carol Doré and Denis Corbeil.*
+*Sample collection and analysis by Lisa Fast, with assistance from Carol Doré and Denis Corbeil — thank you!*
 
 ### New location #15 at tributary on Ch. Shaw
 <img alt="New location #15 at tributary on Ch. Shaw" src="/assets/img/Site_15.png" class="img-fluid py-3"/>
