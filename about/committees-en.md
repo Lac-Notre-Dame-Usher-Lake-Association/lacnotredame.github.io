@@ -12,17 +12,39 @@ The mission of the Association is to promote, protect and preserve the quality o
 ***
 #### Environment Committee
 
-1. The affairs of the Association shall be managed by a Board of Directors consisting of seven (7) persons, each of whom at the time of his/her election, or within ten (10) days thereafter and throughout his/her term of office, shall be a member in good standing of the Association.  If a person ceases to be a member in good standing of the Association then he/she shall no longer qualify to be a Director and must resign forthwith.
+Lacs Notre-Dame and Usher Environment Committee
+Draft Plan for October 2026-October 2027
 
-2. The election of Directors at the Annual General Meeting of members may be by a show of hands, but if more than the required number of Directors are nominated and stand for election, the vote shall be conducted by secret ballot. The members of the Association may, by resolution passed by at least two-thirds (67%) of the votes cast at a Meeting of members of which notice specifying the intention to pass such a resolution has been given, remove any Director before the expiration of his/her term of office, and may, by a majority of the votes cast at the meeting, elect a person in his/her stead for the remainder of his/her term.
+Current Committee members: Tanya Bryant, Julie Charbonneau, Sarah Passmore, Trevor Thompson
+1. Fire Prevention: Tanya lead with help from Sarah on writing a design
+ Obtain Fire prevention information from a reliable source in French and English,
+that is relevant for people living in a rural setting like ours. 
+ Talk to our municipality about existing fire prevention and emergency response
+plans
+ Develop information for the website that residents can follow to prevent fires and
+share municipal plans for safe evacuation in the event of a major fire
+emergency
 
-3. The Directors shall strive to achieve the Objectives of the Association: "To promote, protect and preserve the environmental quality of the lakes and the watershed, for the use and enjoyment of everyone."
-Each Director shall act upon the business of the Board in a thoughtful, conscientious, financially-responsible and transparent manner. Directors are expected to take an active role in the promotion and development of the Objectives of the Association.  Each Director, excluding the President and Vice President, shall serve as a liaison for a specific area of the Lakes, and his/her responsibilities shall include coordinating activities and communications between the Association and its members of the sector he/she represents.
+2. Bioblitz: Trevor lead with support from all members
+ Plan a bioblitz for late spring 2027 and use email, the website and the AGM to
+advertise it. 
+ Execute the bioblitz in July
 
-4. The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
+3. Invasive/Native plants project: Sarah lead with support from Julie
+ Plan an educational campaign and plant give-away in May 2027
+ Develop materials that can be on the website and also distributed door-to-door.
+
+4. Water quality: Tanya 
+ Tanya will meet with the Board to see if any follow up actions from the water
+quality testing can be done by the committee during the fall/winter.
 
 ***
-#### Objectives and Mandate of the Association
+#### 8.1 Environment Committee (attached) - Jim
+ Milfoil Action Plan Updates – buoys (Jane) &amp; benthic mats (Don)
+ 2026 Water Testing Results report (attached) - Don
+ Update on Inaugural Environment Brainstorming Session - Jim
+8.2 Social Committee
+8.3 Strategic Plan Committee
 
 1. To establish and operate a not for profit association for the benefit of members who are owners or users of property on or in the vicinity of the Lakes for the purpose of monitoring water quality and conditions affecting the environment of the Lakes and to contribute to the maintenance and enhancement of the well being of the local environment and the quality of life on the Lakes for both seasonal and permanent residents.
 
