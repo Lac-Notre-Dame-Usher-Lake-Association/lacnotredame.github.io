@@ -7,7 +7,7 @@ date: 2026-10-31
 
 ### The Association's Committees
 
-The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all.
+The mission of the Association's Committees is to promote ....... of Lac Notre Dame and Usher Lake....
 
 ***
 #### Environment Committee
