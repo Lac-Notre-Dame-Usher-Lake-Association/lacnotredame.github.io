@@ -13,36 +13,36 @@ The mission of the Association is to promote, protect and preserve the quality o
 #### Environment Committee
 
 ##### Current Committee members
-Tanya Bryant
-Julie Charbonneau
-Sarah Passmore
-Trevor Thompson
+* Tanya Bryant
+* Julie Charbonneau
+* Sarah Passmore
+* Trevor Thompson
 
 ##### Committee's Activities
 1. Fire Prevention
-- Lead: Tanya lead with help from Sarah on writing a design
-- Obtain Fire prevention information from a reliable source in French and English,
+* Lead: Tanya lead with help from Sarah on writing a design
+* Obtain Fire prevention information from a reliable source in French and English,
 that is relevant for people living in a rural setting like ours. 
-- Talk to our municipality about existing fire prevention and emergency response
+* Talk to our municipality about existing fire prevention and emergency response
 plans
-- Develop information for the website that residents can follow to prevent fires and
+* Develop information for the website that residents can follow to prevent fires and
 share municipal plans for safe evacuation in the event of a major fire
 emergency
 
 2. Bioblitz
-- Lead: Trevor lead with support from all members
-- Plan a bioblitz for late spring 2027 and use email, the website and the AGM to
+* Lead: Trevor lead with support from all members
+* Plan a bioblitz for late spring 2027 and use email, the website and the AGM to
 advertise it. 
-- Execute the bioblitz in July
+* Execute the bioblitz in July
 
-4. Invasive/Native Plants Project
-- Lead: Sarah lead with support from Julie
-- Plan an educational campaign and plant give-away in May 2027
-- Develop materials that can be on the website and also distributed door-to-door.
+3. Invasive/Native Plants Project
+* Lead: Sarah lead with support from Julie
+* Plan an educational campaign and plant give-away in May 2027
+* Develop materials that can be on the website and also distributed door-to-door.
 
-4 Water Quality
-- Lead: Tanya
-- Tanya will meet with the Board to see if any follow up actions from the water
+4. Water Quality
+* Lead: Tanya
+* Tanya will meet with the Board to see if any follow up actions from the water
 quality testing can be done by the committee during the fall/winter.
 
 ***
