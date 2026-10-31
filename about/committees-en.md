@@ -12,13 +12,13 @@ The mission of the Association is to promote, protect and preserve the quality o
 ***
 #### Environment Committee
 
-##### Current Committee members
+##### Current Members
 * Tanya Bryant
 * Julie Charbonneau
 * Sarah Passmore
 * Trevor Thompson
 
-##### Committee's Activities
+##### Activities
 1. Fire Prevention
 * Lead: Tanya lead with help from Sarah on writing a design
 * Obtain Fire prevention information from a reliable source in French and English,
@@ -48,17 +48,23 @@ quality testing can be done by the committee during the fall/winter.
 ***
 #### Social Committee
 
+##### Current Members
+* xxxx
+* xxxxxxx
 
-
+##### Activities
+1. XXXXXXXX
+* Lead: ZZZZZ
+* YYYYYY
 
 ***
 #### Strategic Plan Committee
 
+##### Current Members
+* xxxx
+* xxxxxxx
 
-
-
-* [Constitution (PDF)](../assets/docs/Final_Version_Association_Constitution-en.pdf) 
-
-* [Bylaws (PDF)](../assets/docs/Final_Version_Association_Bylaw-en.pdf)
-
-* [Lettres Patentes (PDF)](../assets/docs/Lettres_patentes.pdf)
+##### Activities
+1. XXXXXXXX
+* Lead: ZZZZZ
+* YYYYYY
