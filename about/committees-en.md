@@ -64,6 +64,34 @@ quality testing can be done by the committee during the fall/winter.
 * xxxx
 * xxxxxxx
 
+
+2026-2027 Board Committee Roles
+See membership below
+Audrey - floater to help where needed
+Laura* - enormous work demands prevent commitment to committee work but
+interested in contributing as time permits to Planning
+Committee Chairs, Board Representatives and membership
+Water Testing
+Chair: Lisa Fast
+Board Representative: Don Herweyer
+Members: Carol Dube, Denis Corbeil, Rejean Valliant
+Milfoil
+Chair and Board representative: Jane Hayward
+Members: Ken &amp; Christine Newport, Don &amp; Anita Herweyer, Simon Ferguson
+Communications
+Chair:
+Board Representative: Martin Croteau
+Members: John Calvert, Kathryn Harper, Jim Thompson
+Planning
+Chair and Board representative: Jim Thompson
+Members: Erin Jamison, Laura Urrechaga*
+Environment
+Chair: Tanya Bryant
+Board Representative: Jim Thompson,
+Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
+
+
+
 ##### Activities
 1. XXXXXXXX
 * Lead: ZZZZZ
