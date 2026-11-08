@@ -34,6 +34,10 @@ description: Homepage of the Association in English
 * ##### [Blue-Green Algae (cyanobacteria) is toxic](/water/bluegreen-en.md/)
 * ##### [Do a jar test](/water/jartest-en.md/)
 
+#### Rules on Short-Term Rentals
+* ##### [Rules, Restrictions, Expected Behavior & Nuisance Laws](/water/ShortTermRentals-en.md/)
+* ##### [Municipality of La Pêche website on Short-Term Tourist Accommodation](https://www.villelapeche.qc.ca/urbanisme-et-environnement/hebergement-touristique-de-courte-duree/)
+
 #### Wildfires
 * ##### [Know when and when <i><b>not</b></i> to burn](/water/wildfire-en.md/)
 * <h5 class="site-footer__section-title">Current Risk Level</h5>
