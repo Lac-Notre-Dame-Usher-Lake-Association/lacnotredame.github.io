@@ -19,7 +19,7 @@ The mission of the Association's Committees is to support the lake associationâ€
 
 ##### Activities
 1. Maintain the Association's website
-* Lead: Tanya lead with
+* Webmaster: Martin Croteau
 2. TBD
 3. TBD
 
