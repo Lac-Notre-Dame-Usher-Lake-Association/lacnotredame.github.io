@@ -7,38 +7,30 @@ date: 2026-10-31
 
 ### The Association's Committees
 
-The mission of the Association's Committees is to work on specific topics  ....... of Lac Notre Dame and Usher Lake....
+The mission of the Association's Committees is to support the lake association’s activities by coordinating and leading initiatives that protect the lake’s natural environment, monitor water quality, promote responsible stewardship, and keep members informed and engaged.
 
-To support the lake association’s mission by coordinating and leading initiatives that protect the lake’s natural environment, monitor water quality, promote responsible stewardship, and keep members informed and engaged.
+***
+#### Communications Committee
 
+##### Current Members
+* Chair and Board Representative: Martin Croteau
+* Members: John Calvert, Kathryn Harper, Jim Thompson
+* 
+
+##### Activities
+1. Maintain the Association's website
+* Lead: Tanya lead with
+2. TBD
+3. TBD
+
+  
 ***
 #### Environment Committee
 
 ##### Current Members
-* Tanya Bryant
-* Julie Charbonneau
-* Sarah Passmore
-* Trevor Thompson
-
-Communications
-Chair:
-Board Representative: Martin Croteau
-Members: John Calvert, Kathryn Harper, Jim Thompson
-
-
-***
-#### Environment Committee
-
-##### Current Members
-* Tanya Bryant
-* Julie Charbonneau
-* Sarah Passmore
-* Trevor Thompson
-
-Environment
-Chair: Tanya Bryant
-Board Representative: Jim Thompson,
-Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
+* Chair: Tanya Bryant
+* Board Representative: Jim Thompson
+* Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
 
 
 ##### Activities
@@ -63,10 +55,7 @@ advertise it. 
 * Plan an educational campaign and plant give-away in May 2027
 * Develop materials that can be on the website and also distributed door-to-door.
 
-4. Water Quality
-* Lead: Tanya
-* Tanya will meet with the Board to see if any follow up actions from the water
-quality testing can be done by the committee during the fall/winter.
+
 
 
 #### Milfoil Committee
@@ -107,7 +96,10 @@ Members: Carol Dube, Denis Corbeil, Rejean Valliant
 1. XXXXXXXX
 * Lead: ZZZZZ
 * YYYYYY
-
+4. Water Quality
+* Lead: Tanya
+* Tanya will meet with the Board to see if any follow up actions from the water
+quality testing can be done by the committee during the fall/winter.
 ***
 
 
@@ -127,14 +119,8 @@ Members: Carol Dube, Denis Corbeil, Rejean Valliant
 #### Strategic Plan Committee
 
 ##### Current Members
-* xxxx
-* xxxxxxx
-Planning
-Chair and Board representative: Jim Thompson
-Members: Erin Jamison, Laura Urrechaga*
-
-
-
+* Chair and Board representative: Jim Thompson
+* Members: Erin Jamison, Laura Urrechaga
 
 ##### Activities
 1. XXXXXXXX
