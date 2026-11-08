@@ -7,7 +7,9 @@ date: 2026-10-31
 
 ### The Association's Committees
 
-The mission of the Association's Committees is to promote ....... of Lac Notre Dame and Usher Lake....
+The mission of the Association's Committees is to work on specific topics  ....... of Lac Notre Dame and Usher Lake....
+
+To support the lake association’s mission by coordinating and leading initiatives that protect the lake’s natural environment, monitor water quality, promote responsible stewardship, and keep members informed and engaged.
 
 ***
 #### Environment Committee
@@ -17,6 +19,27 @@ The mission of the Association's Committees is to promote ....... of Lac Notre D
 * Julie Charbonneau
 * Sarah Passmore
 * Trevor Thompson
+
+Communications
+Chair:
+Board Representative: Martin Croteau
+Members: John Calvert, Kathryn Harper, Jim Thompson
+
+
+***
+#### Environment Committee
+
+##### Current Members
+* Tanya Bryant
+* Julie Charbonneau
+* Sarah Passmore
+* Trevor Thompson
+
+Environment
+Chair: Tanya Bryant
+Board Representative: Jim Thompson,
+Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
+
 
 ##### Activities
 1. Fire Prevention
@@ -45,6 +68,49 @@ advertise it. 
 * Tanya will meet with the Board to see if any follow up actions from the water
 quality testing can be done by the committee during the fall/winter.
 
+
+#### Milfoil Committee
+
+##### Current Members
+* Tanya Bryant
+* Julie Charbonneau
+* Sarah Passmore
+* Trevor Thompson
+
+Milfoil
+Chair and Board representative: Jane Hayward
+Members: Ken &amp; Christine Newport, Don &amp; Anita Herweyer, Simon Ferguson
+
+Environment
+Chair: Tanya Bryant
+Board Representative: Jim Thompson,
+Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
+
+
+##### Activities
+1. Fire Prevention
+* Lead: Tanya lead with help from Sarah on writing a design
+* Obtain Fire preventio
+
+#### Water Testing Committee
+
+##### Current Members
+* xxxx
+* xxxxxxx
+
+Water Testing
+Chair: Lisa Fast
+Board Representative: Don Herweyer
+Members: Carol Dube, Denis Corbeil, Rejean Valliant
+
+##### Activities
+1. XXXXXXXX
+* Lead: ZZZZZ
+* YYYYYY
+
+***
+
+
 ***
 #### Social Committee
 
@@ -63,32 +129,10 @@ quality testing can be done by the committee during the fall/winter.
 ##### Current Members
 * xxxx
 * xxxxxxx
-
-
-2026-2027 Board Committee Roles
-See membership below
-Audrey - floater to help where needed
-Laura* - enormous work demands prevent commitment to committee work but
-interested in contributing as time permits to Planning
-Committee Chairs, Board Representatives and membership
-Water Testing
-Chair: Lisa Fast
-Board Representative: Don Herweyer
-Members: Carol Dube, Denis Corbeil, Rejean Valliant
-Milfoil
-Chair and Board representative: Jane Hayward
-Members: Ken &amp; Christine Newport, Don &amp; Anita Herweyer, Simon Ferguson
-Communications
-Chair:
-Board Representative: Martin Croteau
-Members: John Calvert, Kathryn Harper, Jim Thompson
 Planning
 Chair and Board representative: Jim Thompson
 Members: Erin Jamison, Laura Urrechaga*
-Environment
-Chair: Tanya Bryant
-Board Representative: Jim Thompson,
-Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
+
 
 
 
