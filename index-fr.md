@@ -49,6 +49,7 @@ description: Page principale de l'association en francais
 <!-- * ##### [Modifications proposées à la constitution et à la charte de l'association](/about/new-fr.md/) -->
 * ##### [Mandat de l'association](/about/about-fr.md/)
 * ##### [Membres du conseil d'administration](/about/BoardMembers-fr.md/)
+* ##### [Comités](/about/committees-fr.md/)
 * ##### [Procès-verbaux des assemblées générales annuelles](/about/BoardReports-fr.md/)
 * ##### [Budgets](/about/budget-fr.md/)
 * ##### [Rejoignez-nous](/water/association-fr.md/)
