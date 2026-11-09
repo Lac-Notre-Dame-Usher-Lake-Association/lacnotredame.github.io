@@ -52,6 +52,7 @@ advertise it. 
 * Plan an educational campaign and plant give-away in May 2027
 * Develop materials that can be on the website and also distributed door-to-door.
 
+***
 #### Milfoil Committee
 
 ##### Current Members
