@@ -6,8 +6,7 @@ date: 2026-11-08
 ---
 ### Short-Term Rentals (31 Days or Less)
 
-* In the Municipality of La Pêche, the regulations and expected behaviors for residential rentals are strictly defined to protect the local environment, community quietude, and the long-term housing market.
-La Pêche heavily restricts short-term rentals under municipal zoning bylaws (113-2025 and 145.31-2025) alongside Quebec’s provincial Tourist Accommodation Act.
+In the Municipality of La Pêche, the regulations and expected behaviors for residential rentals are strictly defined to protect the local environment, community quietude, and the long-term housing market.
 
 #### Rules & Restrictions
 
