@@ -9,8 +9,6 @@ date: 2026-11-08
 
 Dans la municipalité de La Pêche, les réglementations et les comportements attendus pour les locations résidentielles sont strictement définis afin de protéger l'environnement local, la tranquillité communautaire et le marché du logement à long terme.
 
-La Pêche restreint fortement les locations à court terme en vertu de ses règlements de zonage municipaux, en conformité avec la Loi sur l'hébergement touristique du Québec.
-
 #### Règles et restrictions
 
 * Résidences principales uniquement : Il est interdit d'exploiter une location à court terme dans une résidence secondaire (chalet) à La Pêche. Les LCT sont strictement limitées à la résidence principale du propriétaire.
