@@ -15,14 +15,12 @@ The mission of the Association's Committees is to support the lake associationâ€
 ##### Current Members
 * Chair and Board Representative: Martin Croteau
 * Members: John Calvert, Kathryn Harper, Jim Thompson
-* 
 
 ##### Activities
 1. Maintain the Association's website
 * Webmaster: Martin Croteau
 2. TBD
 3. TBD
-
   
 ***
 #### Environment Committee
@@ -31,7 +29,6 @@ The mission of the Association's Committees is to support the lake associationâ€
 * Chair: Tanya Bryant
 * Board Representative: Jim Thompson
 * Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
-
 
 ##### Activities
 1. Fire Prevention
@@ -55,65 +52,36 @@ advertise it.Â 
 * Plan an educational campaign and plant give-away in May 2027
 * Develop materials that can be on the website and also distributed door-to-door.
 
-
-
-
 #### Milfoil Committee
 
 ##### Current Members
-* Tanya Bryant
-* Julie Charbonneau
-* Sarah Passmore
-* Trevor Thompson
-
-Milfoil
-Chair and Board representative: Jane Hayward
-Members: Ken &amp; Christine Newport, Don &amp; Anita Herweyer, Simon Ferguson
-
-Environment
-Chair: Tanya Bryant
-Board Representative: Jim Thompson,
-Members: Julie Charbonneau, Sarah Passmore, Trevor Thompson
-
+* Chair and Board representative: Jane Hayward
+* Members: Ken & Christine Newport, Don & Anita Herweyer, Simon Ferguson
 
 ##### Activities
-1. Fire Prevention
-* Lead: Tanya lead with help from Sarah on writing a design
-* Obtain Fire preventio
-
+1. Buoys
+2. Benthic Mats
+   
 #### Water Testing Committee
 
 ##### Current Members
-* xxxx
-* xxxxxxx
-
-Water Testing
-Chair: Lisa Fast
-Board Representative: Don Herweyer
-Members: Carol Dube, Denis Corbeil, Rejean Valliant
+* Chair: Lisa Fast
+* Board Representative: Don Herweyer
+* Members: Carol DubÃ©, Denis Corbeil, RÃ©jean Valliant
 
 ##### Activities
-1. XXXXXXXX
-* Lead: ZZZZZ
-* YYYYYY
-4. Water Quality
-* Lead: Tanya
-* Tanya will meet with the Board to see if any follow up actions from the water
-quality testing can be done by the committee during the fall/winter.
-***
-
+1. Annual water testing
+2. 
 
 ***
 #### Social Committee
 
 ##### Current Members
-* xxxx
-* xxxxxxx
+* TBD
+* 
 
 ##### Activities
-1. XXXXXXXX
-* Lead: ZZZZZ
-* YYYYYY
+1. TBD
 
 ***
 #### Strategic Plan Committee
@@ -123,6 +91,5 @@ quality testing can be done by the committee during the fall/winter.
 * Members: Erin Jamison, Laura Urrechaga
 
 ##### Activities
-1. XXXXXXXX
-* Lead: ZZZZZ
-* YYYYYY
+1. TBD
+
