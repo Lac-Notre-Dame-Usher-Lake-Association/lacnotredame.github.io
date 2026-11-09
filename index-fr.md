@@ -34,6 +34,10 @@ description: Page principale de l'association en francais
 * ##### [Les algues bleues-vertes (cyanobactéries) sont toxiques](/water/bluegreen-fr.md/)
 * ##### [Effectuer le test du bocal](/water/jartest-fr.md/)
 
+#### Règles sur les locations de courte durée
+* ##### [Règles, restrictions, comportement attendu et lois contre les nuisances](/water/ShortTermRentals-fr.md/)
+* ##### [Site internet de la Municipalité de La Pêche sur l'hébergement touristique de courte durée](https://www.villelapeche.qc.ca/urbanisme-et-environnement/hebergement-touristique-de-courte-duree/)
+
 #### Feux de forêt
 * ##### [Savoir quand brûler et quand <i><b>ne pas</b></i> brûler](/water/wildfire-fr.md/)
 * <h5 class="site-footer__section-title">Niveau de risque actuel</h5>
