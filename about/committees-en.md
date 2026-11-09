@@ -61,17 +61,6 @@ advertise it. 
 ##### Activities
 1. Buoys
 2. Benthic Mats
-   
-#### Water Testing Committee
-
-##### Current Members
-* Chair: Lisa Fast
-* Board Representative: Don Herweyer
-* Members: Carol Dubé, Denis Corbeil, Réjean Valliant
-
-##### Activities
-1. Annual water testing
-2. 
 
 ***
 #### Social Committee
@@ -93,3 +82,15 @@ advertise it. 
 ##### Activities
 1. TBD
 
+#### Water Testing Committee
+
+##### Current Members
+* Chair: Lisa Fast
+* Board Representative: Don Herweyer
+* Members: Carol Dubé, Denis Corbeil, Réjean Valliant
+
+##### Activities
+1. Annual water testing
+2. 
+
+***
