@@ -64,6 +64,7 @@ The mission of the Association's Committees is to support the lake associationâ€
 ##### Activities
 1. TBD
 
+***
 #### Water Testing Committee
 
 ##### Current Members
