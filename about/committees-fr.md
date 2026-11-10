@@ -10,6 +10,17 @@ date: 2026-10-31
 La mission des comités de l'association est de soutenir les activités de l'association du lac en coordonnant et en menant des initiatives qui protègent l'environnement naturel du lac, surveillent la qualité de l'eau, encouragent une gestion responsable et tiennent les membres informés et impliqués.
 
 ***
+#### Comité des communications
+
+##### Membres actuels
+* Président et représentant du conseil d’administration : Martin Croteau
+* Membres : John Calvert, Kathryn Harper, Jim Thompson
+
+##### Activités
+1. Gestion du site Web de l’association
+2. Autres moyens de communication avec les résidents des lacs
+
+***
 #### Comité de l’environnement
 
 ##### Membres actuels
