@@ -64,6 +64,7 @@ La mission des comités de l'association est de soutenir les activités de l'ass
 ##### Activités
 1. À déterminer
 
+***
 #### Comité d’analyse de l’eau
 
 ##### Membres actuels
