@@ -48,7 +48,7 @@ description: Homepage of the Association in English
 <!-- * ##### [Proposed Changes to the Association's Constitution and Chart](/about/new-en.md/) -->
 * ##### [Association's Mandate](/about/about-en.md/) 
 * ##### [Board Members](/about/BoardMembers-en.md/)
-* ##### [Committees](/about/committes-en.md/)
+* ##### [Committees](/about/committees-en.md/)
 * ##### [Annual General Meeting Minutes](/about/BoardReports-en.md/)
 * ##### [Budgets](/about/budget-en.md/)
 * ##### [Join Us](/water/association-en.md/)
